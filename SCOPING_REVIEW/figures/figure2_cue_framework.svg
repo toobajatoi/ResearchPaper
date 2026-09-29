@@ -8,7 +8,7 @@
     .c { font: 12px Georgia, serif; fill:#333333; }
   </style>
   <text x="32" y="32" class="title">Figure 2. Three kinds of anthropomorphic cue</text>
-  <text x="32" y="52" class="c">A proposal for later testing. Not a result of the 17 sources in Table 2.</text>
+  <text x="32" y="52" class="c">A proposal for later testing. Not a finding of the included studies.</text>
 
   <rect x="32" y="78" width="288" height="250" class="box"/>
   <text x="176" y="108" text-anchor="middle" class="h">Language-independent</text>
@@ -16,7 +16,7 @@
   <text x="48" y="160" class="p">broadly similar ways.</text>
   <text x="48" y="192" class="p">Emotion, desire, a body,</text>
   <text x="48" y="212" class="p">personal history, friendship.</text>
-  <text x="48" y="244" class="p">Most of the 17 sources</text>
+  <text x="48" y="244" class="p">Most included sources</text>
   <text x="48" y="264" class="p">name cues of this kind.</text>
   <text x="48" y="296" class="p">Ibrahim et al. count them</text>
   <text x="48" y="316" class="p">in English.</text>

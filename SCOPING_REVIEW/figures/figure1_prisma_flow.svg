@@ -60,8 +60,8 @@
   <text x="40" y="524" class="small">OpenAlex 1,411. PubMed 741 (650 primary, 80 sensitivity, 11 Computers-Are-Social-Actors).</text>
   <text x="40" y="544" class="small">ACL Anthology 614. IEEE Xplore 70. Human-Machine Communication 131.</text>
   <text x="40" y="572" class="small">The ACM Digital Library was not searched. Citation-chase lists were saved and not screened,</text>
-  <text x="40" y="592" class="small">except one record kept for full text and counted inside the 63.</text>
+  <text x="40" y="592" class="small">except one record added to the full-text queue.</text>
   <text x="40" y="630" class="small">Sixty-nine sources are included. Twenty-four of them were included from the recorded PDFs.</text>
-  <text x="40" y="650" class="small">Table 2 still charts 17. Those 15 are not in Table 2.</text>
+  <text x="40" y="650" class="small">Table 2 charts all 69 included sources.</text>
   <text x="40" y="670" class="small">22 reports were not retrieved. The 15 Human-Machine Communication papers were excluded at full text.</text>
 </svg>
