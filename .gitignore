@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 
-# Discontinued API-experiment workbook
-collection_sheet_pilot_api.xlsx
-
 # Downloaded article texts. These are the publishers' files, not project notes.
 SCOPING_REVIEW/data/fulltext/pmc/
 SCOPING_REVIEW/data/fulltext/passages/

@@ -19,7 +19,3 @@ The manuscript draft is `SCOPING_REVIEW/HMC_submission_draft.md`. Searches were 
 | `SCOPING_REVIEW/HMC_submission_draft.md` | Manuscript draft |
 
 Screening decisions were drafted by an AI coding agent. The author checked the 69 included studies. Exclusions were checked against their recorded reasons by the same agent in a second pass. That pass is not an independent verification, and no second human reviewer screened the records.
-
-## Earlier project
-
-An API comparison of Urdu and English assistant replies was discontinued. See `OLD_PROJECT_ARCHIVE.md`.
