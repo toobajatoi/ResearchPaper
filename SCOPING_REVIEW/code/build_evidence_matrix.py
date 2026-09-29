@@ -44,15 +44,24 @@ def blank():
 
 
 def snapshot():
+    """Keep every non-empty cell. A rebuild must not wipe a charted row."""
     saved = {}
     if not OUT.exists():
         return saved
     with OUT.open(encoding="utf-8", newline="") as handle:
         for row in csv.DictReader(handle):
             saved[row.get("study_id") or ""] = {
-                key: row.get(key) or "" for key in ("year", "venue", "doi", "url")
+                key: row.get(key) or "" for key in COLUMNS
             }
     return saved
+
+
+def restore(row, previous):
+    saved = previous.get(row.get("study_id") or "", {})
+    for key in COLUMNS:
+        if key != "study_id" and saved.get(key):
+            row[key] = saved[key]
+    return row
 
 
 def main():
@@ -80,8 +89,9 @@ def main():
         row["inclusion_reason"] = item.get("reason") or ""
         row["findings"] = ""
         row["source"] = "PubMed supplementary Search 1"
-        row["charting_status"] = "partial: taken from the full-text decision note, not a complete extraction"
-        rows.append(row)
+        if not row["charting_status"]:
+            row["charting_status"] = "partial: taken from the full-text decision note, not a complete extraction"
+        rows.append(restore(row, previous))
     charted = {item["pmid"] for item in included}
     with SCREEN.open(encoding="utf-8", newline="") as handle:
         for item in csv.DictReader(handle):
@@ -100,7 +110,7 @@ def main():
             row["inclusion_reason"] = item["reason"]
             row["findings"] = ""
             row["charting_status"] = "partial: open full text was read; extraction fields are not complete"
-            rows.append(row)
+            rows.append(restore(row, previous))
     with OUT.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=COLUMNS)
         writer.writeheader()
