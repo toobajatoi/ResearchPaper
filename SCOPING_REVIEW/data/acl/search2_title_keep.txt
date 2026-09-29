@@ -1,0 +1,21 @@
+15. (2026) Evaluating Social Intelligence in {LLM}s via {J}apanese Honorifics in Email Generation: A Social Semiotic System Perspective | https://aclanthology.org/2026.lrec-1.154/
+16. (2026) Empathy in {G}reek Exam-Related Support Conversations: A Comparative Evaluation of {LLM} Responses | https://aclanthology.org/2026.lrec-1.210/
+17. (2026) {ADAB}: {A}rabic Dataset for Automated Politeness Benchmarking - a Large-Scale Resource for Computational Sociopragmatics | https://aclanthology.org/2026.lrec-1.244/
+26. (2026) Investigating the Automatic Translation of {K}orean Honorifics | https://aclanthology.org/2026.iaai-1.3/
+37. (2026) Probing Social Identity Bias in {C}hinese {LLM}s with Gendered Pronouns and Social Groups | https://aclanthology.org/2026.findings-acl.1597/
+64. (2025) Towards Human-Like Dialogue Systems: Integrating Multimodal Emotion Recognition and Non-Verbal Cue Generation | https://aclanthology.org/2025.yrrsds-1.6/
+84. (2025) Adaptive Psychological Distance in {J}apanese Spoken Human-Agent Dialogue: A Politeness-Based Management Model | https://aclanthology.org/2025.iwsds-1.35/
+105. (2025) Women, Infamous, and Exotic Beings: A Comparative Study of Honorific Usages in {W}ikipedia and {LLM}s for {B}engali and {H}indi | https://aclanthology.org/2025.emnlp-main.966/
+125. (2025) Do Language Models Understand Honorific Systems in {J}avanese? | https://aclanthology.org/2025.acl-long.1296/
+128. (2024) Do {LLM}s Recognize me, When {I} is not me: Assessment of {LLM}s Understanding of {T}urkish Indexical Pronouns in Indexical Shift Contexts | https://aclanthology.org/2024.sigturk-1.5/
+129. (2024) Should We Respect {LLM}s? A Cross-Lingual Study on the Influence of Prompt Politeness on {LLM} Performance | https://aclanthology.org/2024.sicon-1.2/
+132. (2024) {D}ialog{B}ench: Evaluating {LLM}s as Human-like Dialogue Systems | https://aclanthology.org/2024.naacl-long.341/
+136. (2024) Correcting Pronoun Homophones with Subtle Semantics in {C}hinese Speech Recognition | https://aclanthology.org/2024.lrec-main.360/
+154. (2024) {T} is for Treu, but how do you pronounce that? Using {C}-{LARA} to create phonetic texts for Kanak languages | https://aclanthology.org/2024.computel-1.4/
+164. (2023) Analyzing Syntactic Generalization Capacity of Pre-trained Language Models on {J}apanese Honorific Conversion | https://aclanthology.org/2023.starsem-1.5/
+179. (2023) A Survey on Zero Pronoun Translation | https://aclanthology.org/2023.acl-long.187/
+192. (2022) Construction and Validation of a {J}apanese Honorific Corpus Based on Systemic Functional Linguistics | https://aclanthology.org/2022.dclrl-1.3/
+197. (2021) Empathetic {BERT}2{BERT} Conversational Model: Learning {A}rabic Language Generation with Little Data | https://aclanthology.org/2021.wanlp-1.17/
+202. (2021) Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution | https://aclanthology.org/2021.emnlp-main.308/
+206. (2020) Empathy-driven {A}rabic Conversational Chatbot | https://aclanthology.org/2020.wanlp-1.6/
+210. (2020) {DAPPER}: Learning Domain-Adapted Persona Representation Using Pretrained {BERT} and External Memory | https://aclanthology.org/2020.aacl-main.65/

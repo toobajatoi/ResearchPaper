@@ -1,0 +1,119 @@
+[
+  {
+    "pmid": "42648233",
+    "found": true,
+    "doi": "https://doi.org/10.1016/j.copsyc.2026.102397",
+    "title": "Seeing humans in technology: The antecedents, boundaries and consequences of AI anthropomorphism",
+    "is_oa": false,
+    "oa_url": null,
+    "pmcid": null
+  },
+  {
+    "pmid": "42463863",
+    "found": true,
+    "doi": "https://doi.org/10.1038/s41598-026-62696-9",
+    "title": "Chatbot design characteristics and initial stickiness intentions in healthcare mobile applications",
+    "is_oa": true,
+    "oa_url": "https://doi.org/10.1038/s41598-026-62696-9",
+    "pmcid": null
+  },
+  {
+    "pmid": "42269974",
+    "found": true,
+    "doi": "https://doi.org/10.1016/j.jad.2026.122123",
+    "title": "The engagement-validation loop: Sycophancy, anthropomorphic projection, and clinical risk in informal AI-based mental health support",
+    "is_oa": false,
+    "oa_url": null,
+    "pmcid": null
+  },
+  {
+    "pmid": "41548427",
+    "found": true,
+    "doi": "https://doi.org/10.1016/j.copsyc.2025.102263",
+    "title": "Therapy chatbots and emotional complexity: do therapy chatbots really empathise?",
+    "is_oa": true,
+    "oa_url": "https://doi.org/10.1016/j.copsyc.2025.102263",
+    "pmcid": null
+  },
+  {
+    "pmid": "40810905",
+    "found": true,
+    "doi": "https://doi.org/10.1007/s00345-025-05872-2",
+    "title": "Patient insights into empathy, compassion and self-disclosure in medical large language models: results from the IPALLM III study",
+    "is_oa": false,
+    "oa_url": null,
+    "pmcid": null
+  },
+  {
+    "pmid": "40694494",
+    "found": true,
+    "doi": "https://doi.org/10.1080/15265161.2025.2526734",
+    "title": "Human-Like Epistemic Trust? A Conceptual and Normative Analysis of Conversational AI in Mental Healthcare",
+    "is_oa": true,
+    "oa_url": "https://doi.org/10.1080/15265161.2025.2526734",
+    "pmcid": null
+  },
+  {
+    "pmid": "40562106",
+    "found": true,
+    "doi": "https://doi.org/10.1016/j.jad.2025.119760",
+    "title": "Depression intervention using AI chatbots with social cues: a randomized trial of effectiveness",
+    "is_oa": false,
+    "oa_url": null,
+    "pmcid": null
+  },
+  {
+    "pmid": "40286349",
+    "found": true,
+    "doi": "https://doi.org/10.1016/j.actpsy.2025.105036",
+    "title": "Cringe, lit, or mid: affective and cognitive effects of youth slang in an educational chatbot",
+    "is_oa": true,
+    "oa_url": "https://doi.org/10.1016/j.actpsy.2025.105036",
+    "pmcid": null
+  },
+  {
+    "pmid": "38428201",
+    "found": true,
+    "doi": "https://doi.org/10.1016/j.ijmedinf.2024.105385",
+    "title": "Unlocking human-like conversations: Scoping review of automation techniques for personalized healthcare interventions using conversational agents",
+    "is_oa": true,
+    "oa_url": "https://doi.org/10.1016/j.ijmedinf.2024.105385",
+    "pmcid": null
+  },
+  {
+    "pmid": "35976080",
+    "found": true,
+    "doi": "https://doi.org/10.1089/cyber.2021.0318",
+    "title": "When a Chatbot Smiles at You: The Psychological Mechanism Underlying the Effects of Friendly Language Use by Product Recommendation Chatbots",
+    "is_oa": false,
+    "oa_url": null,
+    "pmcid": null
+  },
+  {
+    "pmid": "42507678",
+    "found": true,
+    "doi": "https://doi.org/10.1371/journal.pone.0338524",
+    "title": "Evaluating the cultural alignment of multilingual LLMs in typical Japanese workplace scenarios",
+    "is_oa": true,
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0338524&type=printable",
+    "pmcid": null
+  },
+  {
+    "pmid": "42277102",
+    "found": true,
+    "doi": "https://doi.org/10.1038/s41598-026-56781-2",
+    "title": "Culturally-Aware Prompting in conversational AI: supporting perceived communicative effectiveness in cross-cultural teams in Australia",
+    "is_oa": true,
+    "oa_url": "https://www.nature.com/articles/s41598-026-56781-2_reference.pdf",
+    "pmcid": null
+  },
+  {
+    "pmid": "35071147",
+    "found": true,
+    "doi": "https://doi.org/10.3389/fpubh.2021.691595",
+    "title": "The Terms of \u201cYou(s)\u201d: How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture",
+    "is_oa": true,
+    "oa_url": "https://doi.org/10.3389/fpubh.2021.691595",
+    "pmcid": null
+  }
+]

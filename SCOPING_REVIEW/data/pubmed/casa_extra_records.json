@@ -1,0 +1,101 @@
+{
+  "search_date": "2026-09-29",
+  "name": "casa_extra",
+  "count": 11,
+  "overlap_with_search1": [
+    "42792364",
+    "42792281",
+    "42540500",
+    "37952037"
+  ],
+  "items": [
+    {
+      "pmid": "42792364",
+      "title": "The Effects of Chatbot Recovery Strategies and Anthropomorphic Image Type on Service Recovery Satisfaction: The Mediating Roles of Perceived Warmth and Competence.",
+      "authors": "Wang Y; Xu Y; Wu TJ",
+      "source": "Behav Sci (Basel)",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.3390/bs16091564"
+    },
+    {
+      "pmid": "42792281",
+      "title": "How Do Fans Use AI Social Chatbots? A Multi-Method Exploration of Fan Accounts.",
+      "authors": "Lopez SC; Taylor LD",
+      "source": "Behav Sci (Basel)",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.3390/bs16091481"
+    },
+    {
+      "pmid": "42540500",
+      "title": "Psychosis in the Age of Large Language Models (LLMs): A Narrative Review of the Proposed Construct of AI-Induced Psychosis.",
+      "authors": "Tong TX; Gong ZZ; Yao SY",
+      "source": "Cureus",
+      "pubdate": "2026 Jun",
+      "doi": "10.7759/cureus.111847"
+    },
+    {
+      "pmid": "42502688",
+      "title": "The Tool, the Pet, the Carer & the Warden: A Conceptual Framework of How Older Adults Perceive Socially Assistive Robots.",
+      "authors": "Pemberton L; Mehandjiev N; Carter M",
+      "source": "Inf Syst Front",
+      "pubdate": "2026",
+      "doi": "10.1007/s10796-026-10699-2"
+    },
+    {
+      "pmid": "42220411",
+      "title": "The impact of college students' social anxiety on human-machine trust: the mediating role of perceived intelligence and the moderating role of psychological anthropomorphism.",
+      "authors": "Li Z; Cai C; Wu L; Wang X",
+      "source": "Front Psychol",
+      "pubdate": "2026",
+      "doi": "10.3389/fpsyg.2026.1786901"
+    },
+    {
+      "pmid": "41481641",
+      "title": "One size fits all? Transferring social mindfulness measures to HRI.",
+      "authors": "Nientimp D; Müller BCN; Nijssen SRR; Heijselaar E",
+      "source": "PLoS One",
+      "pubdate": "2026",
+      "doi": "10.1371/journal.pone.0339959"
+    },
+    {
+      "pmid": "39946375",
+      "title": "Chatbot -assisted self-assessment (CASA): Co-designing an AI -powered behaviour change intervention for ethnic minorities.",
+      "authors": "Nadarzynski T; Knights N; Husbands D; Graham C; Llewellyn CD; Buchanan T; Montgomery I; Rodriguez AS; Ogueri C; Singh N; Rouse E; Oyebode O; Das A; Paydon G; Lall G; Bulukungu A; Yanyali N; Stefan A; Ridge D",
+      "source": "PLOS Digit Health",
+      "pubdate": "2025 Feb",
+      "doi": "10.1371/journal.pdig.0000724"
+    },
+    {
+      "pmid": "39445151",
+      "title": "Talking body: the effect of body and voice anthropomorphism on perception of social agents.",
+      "authors": "Haresamudram K; Torre I; Behling M; Wagner C; Larsson S",
+      "source": "Front Robot AI",
+      "pubdate": "2024",
+      "doi": "10.3389/frobt.2024.1456613"
+    },
+    {
+      "pmid": "39052859",
+      "title": "The impact of Chatbot-Assisted Self Assessment (CASA) on intentions for sexual health screening in people from minoritised ethnic groups at risk of sexually transmitted infections.",
+      "authors": "Nadarzynski T; Knights N; Husbands D; Graham CA; Llewellyn CD; Buchanan T; Montgomery I; Khlafa N; Tichackova J; Odeyemi R; Johnson S; Jesuthas N; Tahia S; Ridge D",
+      "source": "Sex Health",
+      "pubdate": "2024 Jul",
+      "doi": "10.1071/SH24058"
+    },
+    {
+      "pmid": "37952037",
+      "title": "The CASA theory no longer applies to desktop computers.",
+      "authors": "Heyselaar E",
+      "source": "Sci Rep",
+      "pubdate": "2023 Nov 11",
+      "doi": "10.1038/s41598-023-46527-9"
+    },
+    {
+      "pmid": "33529968",
+      "title": "Exploring the differential effects of trust violations in human-human and human-robot interactions.",
+      "authors": "Alarcon GM; Gibson AM; Jessup SA; Capiola A",
+      "source": "Appl Ergon",
+      "pubdate": "2021 May",
+      "doi": "10.1016/j.apergo.2020.103350"
+    }
+  ]
+}

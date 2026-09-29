@@ -1,0 +1,10 @@
+{
+  "search_date": "2026-09-29",
+  "source": "OpenAlex",
+  "field": "title_and_abstract.search",
+  "name": "search1_narrow_anthropomorph_llm",
+  "query": "(anthropomorphism OR anthropomorphic OR anthropomorphised OR anthropomorphized) AND (\"large language model\" OR \"large language models\" OR LLM OR LLMs OR \"generative AI\" OR \"generative artificial intelligence\")",
+  "reported_count": 1411,
+  "rows_saved": 1411,
+  "note": "Replaces Scopus and Web of Science as the multidisciplinary index. The earlier loose query counted 11245 because it also matched human-like, social presence, and chatbot. This query keeps title and abstract, and requires an anthropomorphism stem plus an LLM or generative-AI term."
+}

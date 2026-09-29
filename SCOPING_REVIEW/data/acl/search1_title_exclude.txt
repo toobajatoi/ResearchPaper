@@ -1,0 +1,564 @@
+1. (2026) {P}sy{M}em: Fine-grained Psychological Alignment and Explicit Memory Control for Advanced Role-Playing {LLM}s | https://aclanthology.org/2026.tacl-1.24/
+2. (2026) Can Large Language Models Generalize Analogy Solving Like Children Can? | https://aclanthology.org/2026.tacl-1.28/
+3. (2026) Human-like Fleeting Memory Improves Language Learning but Impairs Reading Time Prediction in Transformer Language Models | https://aclanthology.org/2026.tacl-1.39/
+4. (2026) Language Models Can Resolve Reference Compositionally, But It{'}s Not Their Native Strength: The Case of the Personal Relation Task | https://aclanthology.org/2026.tacl-1.72/
+5. (2026) Humans and {LLM}s Diverge on Probabilistic Inferences | https://aclanthology.org/2026.tacl-1.93/
+6. (2026) Do Large Language Models Understand Double Mismatches? Evidence from {F}arsi | https://aclanthology.org/2026.silkroadnlp-1.3/
+7. (2026) Benchmarking Multilingual {LLM} Translation Accuracy for Fuzhounese | https://aclanthology.org/2026.sigul-1.20/
+8. (2026) {P}ersona{K}it ({PK}): A Plug-and-Play Platform for User Testing Diverse Roles in Simulated Full-Duplex Dialogue | https://aclanthology.org/2026.sigdial-1.42/
+9. (2026) {S}wan{NLP} at {S}em{E}val-2026 Task 5: An {LLM}-based Framework for Plausibility Scoring in Narrative Word Sense Disambiguation | https://aclanthology.org/2026.semeval-1.109/
+10. (2026) {CUCLASIC} at {S}em{E}val-2026 Task 5: {LLM} Prompting Strategies for Rating Ambiguous Word Senses | https://aclanthology.org/2026.semeval-1.121/
+11. (2026) Dual-View Consistency Testing for Content-Invariant Multilingual Syllogistic Reasoning | https://aclanthology.org/2026.semeval-1.224/
+12. (2026) {S}em{E}val-2026 Task 13: Detecting Machine-Generated Code with Multiple Programming Languages, Generators, and Application Scenarios | https://aclanthology.org/2026.semeval-1.445/
+13. (2026) Measuring Perceptions of Personhood with Semantic Proto-role Properties | https://aclanthology.org/2026.scil-main.1/
+14. (2026) Investigating Syntactic Biases in Multilingual Transformers with {RC} Attachment Ambiguities in {I}talian and {E}nglish | https://aclanthology.org/2026.scil-main.19/
+15. (2026) Can language models process linguistic deference? | https://aclanthology.org/2026.scil-main.35/
+16. (2026) Do Large Language Models Acquire Phrase-Based Processing? Evidence from Eye Movements and Model-Brain Alignment After Fine-Tuning | https://aclanthology.org/2026.scil-main.44/
+17. (2026) Graded Expectations: Do Large Language Models Show Human-like Sensitivity to the Likelihood of Deceptive Speech Acts? | https://aclanthology.org/2026.scil-main.46/
+18. (2026) Evaluating Large Language Model-based Natural Language Generation for Modular Dialog systems | https://aclanthology.org/2026.resourceful-4.14/
+19. (2026) Enhancing Factuality and Transparency in Generative Models for Biomedical Question Answering | https://aclanthology.org/2026.nslp-1.13/
+20. (2026) Prompt Perturbations Reveal Human-Like Biases in Large Language Model Survey Responses | https://aclanthology.org/2026.nlpcss-1.1/
+21. (2026) Modeling the Human Lexicon under Temperature Variations: Linguistic Factors, Diversity and Typicality in {LLM} Word Associations | https://aclanthology.org/2026.lrec-1.179/
+24. (2026) {H}umani{CA}: A Benchmark Resource for the Detection of Users' Ascription of Humanness to Conversational Agents | https://aclanthology.org/2026.lrec-1.221/
+25. (2026) Evaluation Drift in {LLM} Personality Induction: Are We Moving the Goalpost? | https://aclanthology.org/2026.lrec-1.881/
+26. (2026) Appraisal Theory-Informed Emotion Prediction | https://aclanthology.org/2026.lrec-1.887/
+27. (2026) Evaluating Multimodal Large Language Model Narrative Interpretation through the Lens of Appraisal Theory | https://aclanthology.org/2026.lrec-1.893/
+28. (2026) Redefining Machine Simultaneous Interpretation: From Incremental Translation to Human-Like Strategies | https://aclanthology.org/2026.iwslt-1.2/
+29. (2026) Conversational {AI} for Virtual Standardized Patients using a Speech-to-Speech {LLM} | https://aclanthology.org/2026.iwsds-1.16/
+30. (2026) When social robots see our sketches: evaluating human perception of a robot and a {VLM} model performance in a drawing task | https://aclanthology.org/2026.iwsds-1.25/
+31. (2026) Teaching Values to Machines: Simulating Human-Like Behavior in {LLM}s | https://aclanthology.org/2026.gem-main.70/
+32. (2026) A Survey of Incorporating Gaze Data into Natural Language Processing Models and Applications | https://aclanthology.org/2026.gaze4nlp-1.10/
+33. (2026) Being Kind Isn{'}t Always Being Safe: Diagnosing Affective Hallucination in {LLM}s | https://aclanthology.org/2026.findings-eacl.4/
+34. (2026) {V}is{D}o{T} : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought | https://aclanthology.org/2026.findings-eacl.30/
+35. (2026) The Correlation Between Emotion in Text and Speech Segments is Limited: A Cross-Modal Study | https://aclanthology.org/2026.findings-eacl.136/
+36. (2026) {E}xpressivity{B}ench: Can {LLM}s Communicate Implicitly? | https://aclanthology.org/2026.findings-eacl.235/
+37. (2026) {F}-Actor: Controllable Conversational Behavior in Full-Duplex Models | https://aclanthology.org/2026.findings-acl.242/
+38. (2026) {CF}low{P}sy{D}: An Analysis-Enhanced Dataset for Asynchronous Psychological Counseling through Self-Optimizing Multi-Agent Framework | https://aclanthology.org/2026.findings-acl.328/
+39. (2026) Sentipolis: Emotion-Aware Agents for Social Simulations | https://aclanthology.org/2026.findings-acl.368/
+40. (2026) Hybrid Self-evolving Structured Memory for Computer-Use Agents | https://aclanthology.org/2026.findings-acl.549/
+42. (2026) Redefining Machine Simultaneous Interpretation: From Incremental Translation to Human-Like Strategies | https://aclanthology.org/2026.findings-acl.611/
+43. (2026) Probing Multimodal Large Language Models on Cognitive Biases in {C}hinese Short-Video Misinformation | https://aclanthology.org/2026.findings-acl.616/
+44. (2026) Self-Reflection Improves Safety of Large Reasoning Models | https://aclanthology.org/2026.findings-acl.678/
+46. (2026) Decision Biases and Intent-Irony Decoupling in Large Language Models | https://aclanthology.org/2026.findings-acl.962/
+48. (2026) Progressive Planning and Reinforced Reasoning: Large Language Model-Guided Multi-hop Question Answering over Knowledge Graph | https://aclanthology.org/2026.findings-acl.1147/
+50. (2026) {HER}: Human-like Reasoning and Reinforcement Learning for {LLM} Role-playing | https://aclanthology.org/2026.findings-acl.1283/
+51. (2026) How Value Induction Reshapes {LLM} Behavior | https://aclanthology.org/2026.findings-acl.1302/
+52. (2026) Almieyar-Oryx-{B}loom{B}ench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models | https://aclanthology.org/2026.findings-acl.1416/
+53. (2026) {OPT}-{BENCH}: Evaluating the Iterative Self-Optimization of {LLM} Agents in Large-Scale Search Spaces | https://aclanthology.org/2026.findings-acl.1417/
+54. (2026) Lending Eyesight to Language Models: Modeling and Probing Human scanpath through Transformer Decoder | https://aclanthology.org/2026.findings-acl.1591/
+55. (2026) Unlocking Human-Like Visible Logic: How Logic Diagrams Boost Logic Reasoning in Large Language Models? | https://aclanthology.org/2026.findings-acl.1602/
+56. (2026) Modeling and Solving Stable Matching under Probabilistic Preferences with Large Language Models | https://aclanthology.org/2026.findings-acl.1845/
+57. (2026) Why Can Distillation Work with Limited Resources? A Systematic Study | https://aclanthology.org/2026.findings-acl.1899/
+58. (2026) Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models | https://aclanthology.org/2026.findings-acl.1905/
+59. (2026) Why Did Apple Fall: Evaluating Curiosity in Large Language Models | https://aclanthology.org/2026.findings-acl.1954/
+60. (2026) Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models | https://aclanthology.org/2026.findings-acl.2049/
+61. (2026) Real or Robotic? Assessing Whether {LLM}s Accurately Simulate Qualities of Human Responses in Human-{LLM} Dialogue | https://aclanthology.org/2026.findings-acl.2060/
+62. (2026) Can Small {LLM}s Learn a Robust Theory of Mind via {RLVR}? Investigating Generalization through the False-Belief Task | https://aclanthology.org/2026.findings-acl.2061/
+63. (2026) Grounded Concreteness: Human-Like Concreteness Sensitivity in Vision{--}Language Models | https://aclanthology.org/2026.findings-acl.2081/
+64. (2026) More Agents Improve Math Problem Solving but Adversarial Robustness Gap Persists | https://aclanthology.org/2026.findings-acl.2158/
+65. (2026) {SC}o{PE} {VLM}: Selective Context Processing for Efficient Document Navigation in Vision-Language Models | https://aclanthology.org/2026.eacl-long.6/
+66. (2026) {S}earch{LLM}: Detecting {LLM} Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine | https://aclanthology.org/2026.eacl-long.79/
+67. (2026) Generative Personality Simulation via Theory-Informed Structured Interview | https://aclanthology.org/2026.eacl-long.82/
+68. (2026) Vision-Language Models Align with Human Neural Representations in Concept Processing | https://aclanthology.org/2026.eacl-long.150/
+69. (2026) Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-{LLM} Interactions | https://aclanthology.org/2026.eacl-long.234/
+70. (2026) {C}onv{A}pparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders | https://aclanthology.org/2026.eacl-long.244/
+71. (2026) A Review of Incorporating Psychological Theories in {LLM}s | https://aclanthology.org/2026.eacl-long.350/
+72. (2026) {M}obile{C}ity: An Efficient Framework for Large-Scale Urban Behavior Simulation | https://aclanthology.org/2026.eacl-industry.21/
+73. (2026) Evaluating Humanlike Memory Effects in Transformers Using Item Recognition Tasks | https://aclanthology.org/2026.conll-main.1/
+74. (2026) Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking | https://aclanthology.org/2026.conll-main.16/
+75. (2026) Presupposition and Reasoning in Conditionals: A Theory-Based Study of Humans and {LLM}s | https://aclanthology.org/2026.conll-main.26/
+76. (2026) Mechanistic Interpretability of {A}nimacy Effects on Structure Choice in {GPT}-2 | https://aclanthology.org/2026.conll-main.38/
+77. (2026) An Information-Theoretic Study of {RLHF}-Induced Uniformity in Large Language Model Outputs | https://aclanthology.org/2026.conll-main.43/
+78. (2026) The Attachment Index: Auditing Attachment Language Cues and Relational Safety Risks in Human-{LLM} Dialogue | https://aclanthology.org/2026.clpsych-1.26/
+79. (2026) The Text Aphasia Battery ({TAB}): A Clinically-Grounded Benchmark for Aphasia-Like Deficits in Language Models | https://aclanthology.org/2026.clpsych-1.27/
+80. (2026) Anthropocentric Bias in Language Model Evaluation | https://aclanthology.org/2026.cl-1.11/
+81. (2026) Can a Large Language Model Replace Humans at Rating Lexical Semantic Relations Strength? | https://aclanthology.org/2026.cl-2.7/
+82. (2026) {L}1 Influence in {L}2 Language Models: A Human-centric Approach | https://aclanthology.org/2026.cdl-1.15/
+83. (2026) Challenging the Myth: A Research Arc on {LLM}s as Human Simulacra | https://aclanthology.org/2026.bigpicture-main.4/
+84. (2026) Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models | https://aclanthology.org/2026.acl-long.6/
+85. (2026) Using Perspectival Words Is Harder Than Vocabulary Words for Humans {---}and {E}ven More So for Multimodal Language Models | https://aclanthology.org/2026.acl-long.84/
+87. (2026) Investigating the Representation of Backchannels and Fillers in Fine-tuned Language Models | https://aclanthology.org/2026.acl-long.241/
+88. (2026) Modeling Human-Like Cognition for Stance Detection: Integrating Intuitive Judgment and Analytical Reasoning | https://aclanthology.org/2026.acl-long.264/
+89. (2026) {GRAPHIA}: Harnessing Social Graph Data to Enhance {LLM}-Based Social Simulation | https://aclanthology.org/2026.acl-long.322/
+90. (2026) {C}ity{C}ube: Benchmarking Cross-view Spatial Reasoning on Vision-Language Models in Urban Environments | https://aclanthology.org/2026.acl-long.416/
+91. (2026) {C}o{ST}o{M}: Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models | https://aclanthology.org/2026.acl-long.421/
+92. (2026) {VAPO}: End-to-end Slide-Enhanced Speech Recognition with Omni-modal Large Language Models | https://aclanthology.org/2026.acl-long.425/
+93. (2026) {OS}-Sentinel: Towards Safety-Enhanced Mobile {GUI} Agents via Hybrid Validation in Realistic Workflows | https://aclanthology.org/2026.acl-long.431/
+94. (2026) Benchmarking and Learning Real-World Customer Service Dialogue | https://aclanthology.org/2026.acl-long.439/
+95. (2026) ``{I} See What You Did There'': Can Large Vision-Language Models Understand Multimodal Puns? | https://aclanthology.org/2026.acl-long.444/
+96. (2026) Mind the ({DH}) Gap! A Contrast in Risky Choices Between Reasoning and Conversational {LLM}s | https://aclanthology.org/2026.acl-long.479/
+97. (2026) Cognitive Alpha Mining via {LLM}-Driven Code-Based Evolution | https://aclanthology.org/2026.acl-long.538/
+98. (2026) A Dual-Task Paradigm to Investigate Sentence Comprehension Strategies in Language Models | https://aclanthology.org/2026.acl-long.552/
+99. (2026) Probing for Reading Times | https://aclanthology.org/2026.acl-long.575/
+100. (2026) Is Human-Like Text Liked by Humans? Multilingual Human Detection and Preference Against {AI} | https://aclanthology.org/2026.acl-long.639/
+101. (2026) Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning | https://aclanthology.org/2026.acl-long.701/
+102. (2026) Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors | https://aclanthology.org/2026.acl-long.729/
+103. (2026) {XT}o{M}: Exploring the Multilingual Theory of Mind for Large Language Models | https://aclanthology.org/2026.acl-long.805/
+104. (2026) Causal-{ESC}: Reliable Policy Learning for Emotional Support Conversation via Causal Inference | https://aclanthology.org/2026.acl-long.886/
+105. (2026) Language Acquisition Device in Large Language Models | https://aclanthology.org/2026.acl-long.895/
+106. (2026) Controllable {LLM} Reasoning via Sparse Autoencoder-Based Steering | https://aclanthology.org/2026.acl-long.974/
+107. (2026) Traffic-R1: Reinforced {LLM}s Bring Human-Like Reasoning to Traffic Signal Control Systems | https://aclanthology.org/2026.acl-long.995/
+108. (2026) Comparing human and language models sentence processing difficulties on complex structures | https://aclanthology.org/2026.acl-long.1040/
+109. (2026) Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment | https://aclanthology.org/2026.acl-long.1104/
+110. (2026) {M}ath{C}anvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning | https://aclanthology.org/2026.acl-long.1287/
+111. (2026) {C}og{T}o{M}: A Comprehensive Theory of Mind Benchmark inspired by Human Cognition for Large Language Models | https://aclanthology.org/2026.acl-long.1448/
+112. (2026) From Naturalness to Norms: Interactional Cultural Competence for {S}peech{LM}s | https://aclanthology.org/2026.acl-long.1466/
+113. (2026) {S}trat{M}em-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall | https://aclanthology.org/2026.acl-long.1491/
+114. (2026) Clozing the Gap: Exploring Why Language Model Surprisal Outperforms Cloze Surprisal | https://aclanthology.org/2026.acl-long.1534/
+115. (2026) {S}2{S}-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models | https://aclanthology.org/2026.acl-long.1615/
+116. (2026) If an {LLM} Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in {LLM}s | https://aclanthology.org/2026.acl-long.1659/
+117. (2026) {PICTURE}: Enhancing Theory-of-Mind in Large Language Models by Revealing, Not Hiding, Characters' Lack of Knowledge | https://aclanthology.org/2026.acl-long.1674/
+119. (2026) Teaching {LLM}s Human-Like Editing of Inappropriate Argumentation via Reinforcement Learning | https://aclanthology.org/2026.acl-long.1789/
+120. (2026) {J}o{PR}: Joint Emotion Perception and Reasoning for Conversational Emotion Recognition | https://aclanthology.org/2026.acl-long.1800/
+121. (2026) {E}-{V}i{C}: Reasoning Beyond Text via Embodied Visual Chain for Spatial Intelligence | https://aclanthology.org/2026.acl-long.1870/
+122. (2026) Tiny Scales, Great Challenges: The Limits of Multimodal {LLM}s in Scale Recognition | https://aclanthology.org/2026.acl-long.1887/
+123. (2026) Authorship Attribution in Multilingual Machine-Generated Texts | https://aclanthology.org/2026.acl-long.2091/
+124. (2026) {JARVIS} or Ultron? A Survey on the Safety and Security Threats of Computer-Using Agents | https://aclanthology.org/2026.acl-long.2106/
+125. (2026) {MARCH}: Multi-Agent Radiology Clinical Hierarchy for {CT} Report Generation | https://aclanthology.org/2026.acl-short.24/
+126. (2026) {C}a{BSALLM}: Efficient Context-Aware Batch Annotation of Conversational Streams with Large Language Models | https://aclanthology.org/2026.acl-short.51/
+127. (2026) {H}uozi{IME}: An On-Device {LLM}-Enhanced Input Method for Deep Personalization | https://aclanthology.org/2026.acl-demo.32/
+128. (2026) Debiasing Logical Fallacy Detection for Real-World Robustness via Counterfactually Augmented Data | https://aclanthology.org/2026.acl-srw.30/
+129. (2026) Understanding Conversational Implicatures in Humans and {LLM}s | https://aclanthology.org/2026.acl-srw.66/
+130. (2026) Teaching {LLM} to be Persuasive: Reward-Enhanced Policy Optimization for Alignment from Heterogeneous Rewards | https://aclanthology.org/2026.acl-industry.34/
+131. (2026) Kashif-{AI} at {A}bjad{G}en{E}val Shared Task: A Transformer-based Approach for {A}rabic {AI}-Generated Text Detection | https://aclanthology.org/2026.abjadnlp-1.60/
+133. (2025) Reference-Guided Verdict: {LLM}s-as-Judges in Automatic Evaluation of Free-Form {QA} | https://aclanthology.org/2025.winlp-main.37/
+134. (2025) Can Vision-Language Models Infer Speaker{'}s Ignorance? The Role of Visual and Linguistic Cues | https://aclanthology.org/2025.uncertainlp-main.25/
+135. (2025) Large Language Models Are Human-Like Internally | https://aclanthology.org/2025.tacl-1.78/
+136. (2025) Early Humorous Interaction: Towards a Formal Model | https://aclanthology.org/2025.sigdial-1.20/
+138. (2025) Design and Evaluation of a Courtroom Examination {AI} Simulation System with Behavioral Fidelity | https://aclanthology.org/2025.rocling-main.3/
+139. (2025) Do Large Language Models Learn Human-Like Strategic Preferences? | https://aclanthology.org/2025.realm-1.8/
+140. (2025) Measuring How (Not Just Whether) {VLM}s Build Common Ground | https://aclanthology.org/2025.ranlp-1.53/
+141. (2025) Prompting Techniques for Reducing Social Bias in {LLM}s through System 1 and System 2 Cognitive Processes | https://aclanthology.org/2025.ranlp-1.60/
+142. (2025) Exploiting Primacy Effect to Improve Large Language Models | https://aclanthology.org/2025.ranlp-1.113/
+147. (2025) {CINEMETRIC}: A Framework for Multi-Perspective Evaluation of Conversational Agents using Human-{AI} Collaboration | https://aclanthology.org/2025.nlperspectives-1.2/
+148. (2025) What Counts Underlying {LLM}s' Moral Dilemma Judgments? | https://aclanthology.org/2025.nlp4pi-1.12/
+149. (2025) {C}og{LM}: Tracking Cognitive Development of Large Language Models | https://aclanthology.org/2025.naacl-long.4/
+150. (2025) Language Models Largely Exhibit Human-like Constituent Ordering Preferences | https://aclanthology.org/2025.naacl-long.126/
+151. (2025) Benchmarking Language Model Creativity: A Case Study on Code Generation | https://aclanthology.org/2025.naacl-long.141/
+152. (2025) Smurfs: Multi-Agent System using Context-Efficient {DFSDT} for Tool Planning | https://aclanthology.org/2025.naacl-long.169/
+153. (2025) Who Relies More on World Knowledge and Bias for Syntactic Ambiguity Resolution: Humans or {LLM}s? | https://aclanthology.org/2025.naacl-long.177/
+154. (2025) Hello Again! {LLM}-powered Personalized Agent for Long-term Dialogue | https://aclanthology.org/2025.naacl-long.272/
+155. (2025) {C}haracter{B}ox: Evaluating the Role-Playing Capabilities of {LLM}s in Text-Based Virtual Worlds | https://aclanthology.org/2025.naacl-long.323/
+156. (2025) {SANDW}i{CH}: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc | https://aclanthology.org/2025.naacl-long.358/
+157. (2025) Yeah, Un, Oh: Continuous and Real-time Backchannel Prediction with Fine-tuning of Voice Activity Projection | https://aclanthology.org/2025.naacl-long.367/
+158. (2025) {MAD}ial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation | https://aclanthology.org/2025.naacl-long.499/
+159. (2025) One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity | https://aclanthology.org/2025.naacl-long.561/
+160. (2025) Are explicit belief representations necessary? A comparison between Large Language Models and {B}ayesian probabilistic models | https://aclanthology.org/2025.naacl-long.572/
+161. (2025) {DART}: An {AIGT} Detector using {AMR} of Rephrased Text | https://aclanthology.org/2025.naacl-short.59/
+162. (2025) {M}ed-{C}o{DE}: Medical Critique based Disagreement Evaluation Framework | https://aclanthology.org/2025.naacl-srw.11/
+163. (2025) Social Intelligence in the Age of {LLM}s | https://aclanthology.org/2025.naacl-tutorial.8/
+164. (2025) Can postgraduate translation students identify machine-generated text? | https://aclanthology.org/2025.mtsummit-1.34/
+165. (2025) Multilingual Learning Strategies in Multilingual Large Language Models | https://aclanthology.org/2025.mrl-main.34/
+166. (2025) Controlled Evaluation of Syntactic Knowledge in Multilingual Language Models | https://aclanthology.org/2025.loreslm-1.30/
+167. (2025) {R}e{S}p{A}ct: Harmonizing Reasoning, Speaking, and Acting Towards Building Large Language Model-Based Conversational {AI} Agents | https://aclanthology.org/2025.iwsds-1.7/
+168. (2025) Which Model Mimics Human Mental Lexicon Better? A Comparative Study of Word Embedding and Generative Models | https://aclanthology.org/2025.iwcs-main.19/
+169. (2025) Analysing Reference Production of Large Language Models | https://aclanthology.org/2025.inlg-main.12/
+170. (2025) {LLM}-Based Behavior Prediction for Social Media Users with Continuous Memory | https://aclanthology.org/2025.ijcnlp-long.27/
+171. (2025) Investigating Feasibility of Large Language Model Agent Collaboration in {M}inecraft and Comparison with Human-Human Collaboration | https://aclanthology.org/2025.ijcnlp-long.73/
+172. (2025) {AI} Through the Human Lens: Investigating Cognitive Theories in Machine Psychology | https://aclanthology.org/2025.ijcnlp-srw.14/
+173. (2025) {S}ilver{S}peak: Evading {AI}-Generated Text Detectors using Homoglyphs | https://aclanthology.org/2025.genaidetect-1.1/
+174. (2025) The Consistent Lack of Variance of Psychological Factors Expressed by {LLM}s and Spambots | https://aclanthology.org/2025.genaidetect-1.8/
+175. (2025) {CNLP}-{NITS}-{PP} at {G}en{AI} Detection Task 1: {AI}-Generated Text Using Transformer-Based Approaches | https://aclanthology.org/2025.genaidetect-1.20/
+176. (2025) Using {LLM} Judgements for Sanity Checking Results and Reproducibility of Human Evaluations in {NLP} | https://aclanthology.org/2025.gem-1.30/
+177. (2025) Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges | https://aclanthology.org/2025.gem-1.42/
+178. (2025) Neuro-symbolic Training for Reasoning over Spatial Language | https://aclanthology.org/2025.findings-naacl.128/
+179. (2025) {E}go{S}peak: Learning When to Speak for Egocentric Conversational Agents in the Wild | https://aclanthology.org/2025.findings-naacl.163/
+180. (2025) Concise and Organized Perception Facilitates Reasoning in Large Language Models | https://aclanthology.org/2025.findings-naacl.193/
+181. (2025) {R}etriever{G}uard: Empowering Information Retrieval to Combat {LLM}-Generated Misinformation | https://aclanthology.org/2025.findings-naacl.249/
+182. (2025) {MMAU}: A Holistic Benchmark of Agent Capabilities Across Diverse Domains | https://aclanthology.org/2025.findings-naacl.267/
+183. (2025) Causally Testing Gender Bias in {LLM}s: A Case Study on Occupational Bias | https://aclanthology.org/2025.findings-naacl.281/
+184. (2025) Investigating the Zone of Proximal Development of Language Models for In-Context Learning | https://aclanthology.org/2025.findings-naacl.362/
+185. (2025) {SHARP}: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing {LLM}s | https://aclanthology.org/2025.findings-acl.47/
+186. (2025) Ponder {\&} Press: Advancing Visual {GUI} Agent towards General Computer Control | https://aclanthology.org/2025.findings-acl.76/
+187. (2025) Exploring the Choice Behavior of Large Language Models | https://aclanthology.org/2025.findings-acl.270/
+188. (2025) Chain of Methodologies: Scaling Test Time Computation without Training | https://aclanthology.org/2025.findings-acl.276/
+190. (2025) Self-attention-based Graph-of-Thought for Math Problem Solving | https://aclanthology.org/2025.findings-acl.317/
+191. (2025) {P}-React: Synthesizing Topic-Adaptive Reactions of Personality Traits via Mixture of Specialized {L}o{RA} Experts | https://aclanthology.org/2025.findings-acl.328/
+192. (2025) Leveraging {LLM}s for {B}angla Grammar Error Correction: Error Categorization, Synthetic Data, and Model Evaluation | https://aclanthology.org/2025.findings-acl.431/
+193. (2025) A Cognitive Writing Perspective for Constrained Long-Form Text Generation | https://aclanthology.org/2025.findings-acl.511/
+194. (2025) Learning to Play Like Humans: A Framework for {LLM} Adaptation in Interactive Fiction Games | https://aclanthology.org/2025.findings-acl.531/
+195. (2025) When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text | https://aclanthology.org/2025.findings-acl.695/
+196. (2025) {IDEA}: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction | https://aclanthology.org/2025.findings-acl.698/
+197. (2025) ``{I} understand your perspective'': {LLM} Persuasion through the Lens of Communicative Action Theory | https://aclanthology.org/2025.findings-acl.793/
+198. (2025) {UI}-{E}2{I}-Synth: Advancing {GUI} Grounding with Large-Scale Instruction Synthesis | https://aclanthology.org/2025.findings-acl.809/
+199. (2025) Word Form Matters: {LLM}s' Semantic Reconstruction under Typoglycemia | https://aclanthology.org/2025.findings-acl.866/
+200. (2025) {MAGIC}-{VQA}: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering | https://aclanthology.org/2025.findings-acl.872/
+201. (2025) Bridging Intuitive Associations and Deliberate Recall: Empowering {LLM} Personal Assistant with Graph-Structured Long-term Memory | https://aclanthology.org/2025.findings-acl.901/
+203. (2025) Towards a Design Guideline for {RPA} Evaluation: A Survey of Large Language Model-Based Role-Playing Agents | https://aclanthology.org/2025.findings-acl.938/
+204. (2025) Patterns Over Principles: The Fragility of Inductive Reasoning in {LLM}s under Noisy Observations | https://aclanthology.org/2025.findings-acl.1006/
+205. (2025) {M}otive{B}ench: How Far Are We From Human-Like Motivational Reasoning in Large Language Models? | https://aclanthology.org/2025.findings-acl.1029/
+206. (2025) Unveiling the Lack of {LVLM} Robustness to Fundamental Visual Variations: Why and Path Forward | https://aclanthology.org/2025.findings-acl.1037/
+207. (2025) Dynamic Personality in {LLM} Agents: A Framework for Evolutionary Modeling and Behavioral Analysis in the Prisoner{'}s Dilemma | https://aclanthology.org/2025.findings-acl.1185/
+208. (2025) {M}2{PA}: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory | https://aclanthology.org/2025.findings-acl.1191/
+209. (2025) Toward Structured Knowledge Reasoning: Contrastive Retrieval-Augmented Generation on Experience | https://aclanthology.org/2025.findings-acl.1224/
+210. (2025) {STORM}-{BORN}: A Challenging Mathematical Derivations Dataset Curated via a Human-in-the-Loop Multi-Agent Framework | https://aclanthology.org/2025.findings-acl.1227/
+211. (2025) Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in {LLM}s | https://aclanthology.org/2025.findings-acl.1316/
+212. (2025) Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders | https://aclanthology.org/2025.findings-acl.1321/
+213. (2025) {A}ura{D}ial: A Large-Scale Human-Centric Dialogue Dataset for {C}hinese {AI} Psychological Counseling | https://aclanthology.org/2025.findings-emnlp.155/
+214. (2025) {M}eta{L}adder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer | https://aclanthology.org/2025.findings-emnlp.232/
+215. (2025) Beyond Inherent Cognition Biases in {LLM}-Based Event Forecasting: A Multi-Cognition Agentic Framework | https://aclanthology.org/2025.findings-emnlp.258/
+216. (2025) {P}ers{LLM}: A Personified Training Approach for Large Language Models | https://aclanthology.org/2025.findings-emnlp.457/
+217. (2025) {MIND}: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue | https://aclanthology.org/2025.findings-emnlp.499/
+218. (2025) A {M}onte-{C}arlo Sampling Framework For Reliable Evaluation of Large Language Models Using Behavioral Analysis | https://aclanthology.org/2025.findings-emnlp.500/
+219. (2025) {VIVA}+: Human-Centered Situational Decision-Making | https://aclanthology.org/2025.findings-emnlp.944/
+221. (2025) {VIBE}: Can a {VLM} Read the Room? | https://aclanthology.org/2025.findings-emnlp.1252/
+222. (2025) Third-Person Appraisal Agent: Simulating Human Emotional Reasoning in Text with Large Language Models | https://aclanthology.org/2025.findings-emnlp.1288/
+223. (2025) From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation | https://aclanthology.org/2025.findings-emnlp.1316/
+224. (2025) {MPF}: Aligning and Debiasing Language Models post Deployment via Multi-Perspective Fusion | https://aclanthology.org/2025.findings-ijcnlp.1/
+225. (2025) From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks | https://aclanthology.org/2025.findings-ijcnlp.60/
+226. (2025) Iterative Critique-Driven Simplification: Targeted Enhancement of Complex Definitions with Small Language Models | https://aclanthology.org/2025.findings-ijcnlp.64/
+227. (2025) Can You Really Trust That Review? {P}roto{F}ew{R}o{BERT}a and {D}etect{AIR}ev: A Prototypical Few-Shot Method and Multi-Domain Benchmark for Detecting {AI}-Generated Reviews | https://aclanthology.org/2025.findings-ijcnlp.132/
+228. (2025) {O}mni{T}hink: Expanding Knowledge Boundaries in Machine Writing through Thinking | https://aclanthology.org/2025.emnlp-main.50/
+229. (2025) Ask Patients with Patience: Enabling {LLM}s for Human-Centric Medical Dialogue with Grounded Reasoning | https://aclanthology.org/2025.emnlp-main.142/
+231. (2025) In-Context Learning Boosts Speech Recognition via Human-like Adaptation to Speakers and Language Varieties | https://aclanthology.org/2025.emnlp-main.219/
+232. (2025) {M}ulti{A}gent{ESC}: A {LLM}-based Multi-Agent Collaboration Framework for Emotional Support Conversation | https://aclanthology.org/2025.emnlp-main.232/
+233. (2025) Scalable Data Synthesis through Human-like Cognitive Imitation and Data Recombination | https://aclanthology.org/2025.emnlp-main.236/
+234. (2025) {Z}oom{E}ye: Enhancing Multimodal {LLM}s with Human-Like Zooming Capabilities through Tree-Based Image Exploration | https://aclanthology.org/2025.emnlp-main.335/
+235. (2025) Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on {LLM}-Generated Text Detectors | https://aclanthology.org/2025.emnlp-main.433/
+236. (2025) Steering Language Models in Multi-Token Generation: A Case Study on Tense and Aspect | https://aclanthology.org/2025.emnlp-main.435/
+237. (2025) On {LLM}-Based Scientific Inductive Reasoning Beyond Equations | https://aclanthology.org/2025.emnlp-main.476/
+238. (2025) Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning | https://aclanthology.org/2025.emnlp-main.615/
+239. (2025) {S}im{VBG}: Simulating Individual Values by Backstory Generation | https://aclanthology.org/2025.emnlp-main.662/
+240. (2025) Please Translate Again: Two Simple Experiments on Whether Human-Like Reasoning Helps Translation | https://aclanthology.org/2025.emnlp-main.1031/
+241. (2025) {PLAN}-{TUNING}: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving | https://aclanthology.org/2025.emnlp-main.1087/
+242. (2025) Enhancing {LLM}-Based Social Bot via an Adversarial Learning Framework | https://aclanthology.org/2025.emnlp-main.1185/
+243. (2025) Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences | https://aclanthology.org/2025.emnlp-main.1207/
+244. (2025) Beyond Outlining: Heterogeneous Recursive Planning for Adaptive Long-form Writing with Language Models | https://aclanthology.org/2025.emnlp-main.1254/
+246. (2025) Enhancing {RLHF} with Human Gaze Modeling | https://aclanthology.org/2025.emnlp-main.1559/
+247. (2025) {F}iller{S}peech: Towards Human-Like Text-to-Speech Synthesis with Filler Insertion and Filler Style Control | https://aclanthology.org/2025.emnlp-main.1730/
+248. (2025) {A}gent{CPM}-{GUI}: Building Mobile-Use Agents with Reinforcement Fine-Tuning | https://aclanthology.org/2025.emnlp-demos.12/
+249. (2025) {V}i{D}ove: A Translation Agent System with Multimodal Context and Memory-Augmented Reasoning | https://aclanthology.org/2025.emnlp-demos.17/
+251. (2025) Laughter use by virtual agents increases task success | https://aclanthology.org/2025.dnd-16.9/
+252. (2025) Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History | https://aclanthology.org/2025.conll-1.4/
+253. (2025) Experiential Semantic Information and Brain Alignment: Are Multimodal Models Better than Language Models? | https://aclanthology.org/2025.conll-1.10/
+254. (2025) A Continuous Approach to Metaphorically Motivated Regular Polysemy in Language Models | https://aclanthology.org/2025.conll-1.28/
+257. (2025) Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations | https://aclanthology.org/2025.coling-main.51/
+258. (2025) A Testset for Context-Aware {LLM} Translation in {K}orean-to-{E}nglish Discourse Level Translation | https://aclanthology.org/2025.coling-main.110/
+259. (2025) Multi-perspective Preference Alignment of {LLM}s for Programming-Community Question Answering | https://aclanthology.org/2025.coling-main.113/
+260. (2025) {ALYMPICS}: {LLM} Agents Meet Game Theory | https://aclanthology.org/2025.coling-main.193/
+261. (2025) Rethinking-based Code Summarization with Chain of Comments | https://aclanthology.org/2025.coling-main.204/
+262. (2025) Reasoning with Trees: Faithful Question Answering over Knowledge Graph | https://aclanthology.org/2025.coling-main.211/
+263. (2025) {HLU}: Human Vs {LLM} Generated Text Detection Dataset for {U}rdu at Multiple Granularities | https://aclanthology.org/2025.coling-main.235/
+265. (2025) Investigating the Impact of Incremental Processing and Voice Activity Projection on Spoken Dialogue Systems | https://aclanthology.org/2025.coling-main.249/
+266. (2025) Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of {C}hinese Reflexive Ziji | https://aclanthology.org/2025.coling-main.257/
+267. (2025) Learning from Impairment: Leveraging Insights from Clinical Linguistics in Language Modelling Research | https://aclanthology.org/2025.coling-main.281/
+268. (2025) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas | https://aclanthology.org/2025.coling-main.404/
+269. (2025) {C}o{MIF}: Modeling of Complex Multiple Interaction Factors for Conversation Generation | https://aclanthology.org/2025.coling-main.492/
+270. (2025) Searching for Structure: Investigating Emergent Communication with Large Language Models | https://aclanthology.org/2025.coling-main.667/
+271. (2025) Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability | https://aclanthology.org/2025.coling-main.677/
+272. (2025) {AMAN}: Agent for Mentoring and Assisting Newbies in {MMORPG} | https://aclanthology.org/2025.coling-industry.45/
+273. (2025) Distinct social-linguistic processing between humans and large audio-language models: Evidence from model-brain alignment | https://aclanthology.org/2025.cmcl-1.18/
+274. (2025) The Theater Stage as Laboratory: Review of Real-Time Comedy {LLM} Systems for Live Performance | https://aclanthology.org/2025.chum-1.10/
+275. (2025) Unveiling the Linguistic Acceptability Judgments of Large Language Models in Multilingual Contexts | https://aclanthology.org/2025.ccl-1.65/
+276. (2025) Enabling Real-Time Conversations with Minimal Training Costs | https://aclanthology.org/2025.ccl-1.85/
+277. (2025) Plural Interpretive Biases: A Comparison Between Human Language Processing and Language Models | https://aclanthology.org/2025.brigap-1.9/
+278. (2025) Can {LLM}s Detect Ambiguous Plural Reference? An Analysis of Split-Antecedent and Mereological Reference | https://aclanthology.org/2025.blackboxnlp-1.16/
+279. (2025) Advancing Biomedical Claim Verification by Using Large Language Models with Better Structured Prompting Strategies | https://aclanthology.org/2025.bionlp-1.14/
+280. (2025) Do {LLM}s Give Psychometrically Plausible Responses in Educational Assessments? | https://aclanthology.org/2025.bea-1.21/
+281. (2025) Phaedrus at {BEA} 2025 Shared Task: Assessment of Mathematical Tutoring Dialogues through Tutor Identity Classification and Actionability Evaluation | https://aclanthology.org/2025.bea-1.85/
+282. (2025) {B}it{M}ar: Low-Bit Multimodal Fusion with Episodic Memory for Edge Devices | https://aclanthology.org/2025.babylm-main.11/
+283. (2025) Two ways into the hall of mirrors: Language exposure and lossy memory drive cross-linguistic grammaticality illusions in language models | https://aclanthology.org/2025.babylm-main.17/
+284. (2025) Findings of the Third {B}aby{LM} Challenge: Accelerating Language Modeling Research with Cognitively Plausible Data | https://aclanthology.org/2025.babylm-main.28/
+285. (2025) Masked Diffusion Language Models with Frequency-Informed Training | https://aclanthology.org/2025.babylm-main.38/
+286. (2025) On choosing the vehicles of metaphors without a body: evidence from Large Language Models | https://aclanthology.org/2025.analogyangle-1.4/
+287. (2025) Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales | https://aclanthology.org/2025.acl-long.121/
+288. (2025) Ensemble Watermarks for Large Language Models | https://aclanthology.org/2025.acl-long.145/
+289. (2025) Which of These Best Describes Multiple Choice Evaluation with {LLM}s? A) Forced {B}) Flawed {C}) Fixable {D}) All of the Above | https://aclanthology.org/2025.acl-long.169/
+290. (2025) {OS}-Genesis: Automating {GUI} Agent Trajectory Construction via Reverse Task Synthesis | https://aclanthology.org/2025.acl-long.277/
+291. (2025) What Makes a Good Natural Language Prompt? | https://aclanthology.org/2025.acl-long.292/
+292. (2025) {X}-{TURING}: Towards an Enhanced and Efficient {T}uring Test for Long-Term Dialogue Agents | https://aclanthology.org/2025.acl-long.293/
+293. (2025) {M}-{MAD}: Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation | https://aclanthology.org/2025.acl-long.351/
+294. (2025) Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models | https://aclanthology.org/2025.acl-long.374/
+295. (2025) When the {LM} misunderstood the human chuckled: Analyzing garden path effects in humans and language models | https://aclanthology.org/2025.acl-long.403/
+296. (2025) Exploring the Potential of {LLM}s as Personalized Assistants: Dataset, Evaluation, and Analysis | https://aclanthology.org/2025.acl-long.504/
+297. (2025) {W}eb{W}alker: Benchmarking {LLM}s in Web Traversal | https://aclanthology.org/2025.acl-long.508/
+298. (2025) Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics | https://aclanthology.org/2025.acl-long.567/
+299. (2025) {SPHERE}: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation | https://aclanthology.org/2025.acl-long.568/
+300. (2025) {S}kill{A}ggregation: Reference-free {LLM}-Dependent Aggregation | https://aclanthology.org/2025.acl-long.756/
+301. (2025) Com$^2$ : A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models | https://aclanthology.org/2025.acl-long.785/
+302. (2025) {LLM}s Can Simulate Standardized Patients via Agent Coevolution | https://aclanthology.org/2025.acl-long.846/
+303. (2025) Meta-Learning Neural Mechanisms rather than {B}ayesian Priors | https://aclanthology.org/2025.acl-long.860/
+304. (2025) {C}hat{SOP}: An {SOP}-Guided {MCTS} Planning Framework for Controllable {LLM} Dialogue Agents | https://aclanthology.org/2025.acl-long.863/
+305. (2025) The {AI} Gap: How Socioeconomic Status Affects Language Technology Interactions | https://aclanthology.org/2025.acl-long.914/
+306. (2025) Dynamic Evaluation with Cognitive Reasoning for Multi-turn Safety of Large Language Models | https://aclanthology.org/2025.acl-long.963/
+307. (2025) Deep Temporal Reasoning in Video Language Models: A Cross-Linguistic Evaluation of Action Duration and Completion through Perfect Times | https://aclanthology.org/2025.acl-long.1000/
+308. (2025) Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles | https://aclanthology.org/2025.acl-long.1025/
+309. (2025) {XDAC}: {XAI}-Driven Detection and Attribution of {LLM}-Generated News Comments in {K}orean | https://aclanthology.org/2025.acl-long.1108/
+310. (2025) Tracing and Dissecting How {LLM}s Recall Factual Knowledge for Real World Questions | https://aclanthology.org/2025.acl-long.1133/
+311. (2025) Language Models Grow Less Humanlike beyond Phase Transition | https://aclanthology.org/2025.acl-long.1214/
+312. (2025) Improving Automatic Evaluation of Large Language Models ({LLM}s) in Biomedical Relation Extraction via {LLM}s-as-the-Judge | https://aclanthology.org/2025.acl-long.1238/
+314. (2025) {H}um{T} {D}um{T}: Measuring and controlling human-like language in {LLM}s | https://aclanthology.org/2025.acl-long.1261/
+315. (2025) Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in {LM}s | https://aclanthology.org/2025.acl-long.1264/
+316. (2025) Understanding the Dark Side of {LLM}s' Intrinsic Self-Correction | https://aclanthology.org/2025.acl-long.1314/
+317. (2025) Controllable and Reliable Knowledge-Intensive Task-Oriented Conversational Agents with Declarative Genie Worksheets | https://aclanthology.org/2025.acl-long.1323/
+318. (2025) How {LLM}s Comprehend Temporal Meaning in Narratives: A Case Study in Cognitive Evaluation of {LLM}s | https://aclanthology.org/2025.acl-long.1415/
+319. (2025) {D}eep{R}eview: Improving {LLM}-based Paper Review with Human-like Deep Thinking Process | https://aclanthology.org/2025.acl-long.1420/
+320. (2025) Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions | https://aclanthology.org/2025.acl-long.1519/
+321. (2025) Towards {LLM}-powered Attentive Listener: A Pragmatic Approach through Quantity Self-Repair | https://aclanthology.org/2025.acl-short.1/
+322. (2025) Leveraging Human Production-Interpretation Asymmetries to Test {LLM} Cognitive Plausibility | https://aclanthology.org/2025.acl-short.14/
+323. (2024) Towards a Real-Time Multimodal Emotion Estimation Model for Dialogue Systems | https://aclanthology.org/2024.yrrsds-1.22/
+324. (2024) Toward More Human-like {SDS}s: Advancing Emotional and Social Engagement in Embodied Conversational Agents | https://aclanthology.org/2024.yrrsds-1.32/
+325. (2024) Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts | https://aclanthology.org/2024.wmt-1.123/
+326. (2024) Towards Healthy {AI}: Large Language Models Need Therapists Too | https://aclanthology.org/2024.trustnlp-1.6/
+327. (2024) Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models | https://aclanthology.org/2024.trustnlp-1.13/
+328. (2024) Exploring Human-Like Translation Strategy with Large Language Models | https://aclanthology.org/2024.tacl-1.13/
+329. (2024) Beyond Boundaries: A Human-like Approach for Question Answering over Structured and Unstructured Information Sources | https://aclanthology.org/2024.tacl-1.44/
+330. (2024) Do {LLM}s Exhibit Human-like Response Biases? A Case Study in Survey Design | https://aclanthology.org/2024.tacl-1.56/
+331. (2024) Self-Emotion Blended Dialogue Generation in Social Simulation Agents | https://aclanthology.org/2024.sigdial-1.21/
+332. (2024) Affect Recognition in Conversations Using Large Language Models | https://aclanthology.org/2024.sigdial-1.23/
+333. (2024) {M}ind{D}ial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation | https://aclanthology.org/2024.sigdial-1.63/
+334. (2024) {D}e{BERT}a at {S}em{E}val-2024 Task 9: Using {D}e{BERT}a for Defying Common Sense | https://aclanthology.org/2024.semeval-1.45/
+335. (2024) {KI}n{IT} at {S}em{E}val-2024 Task 8: Fine-tuned {LLM}s for Multilingual Machine-Generated Text Detection | https://aclanthology.org/2024.semeval-1.84/
+336. (2024) iimas{NLP} at {S}em{E}val-2024 Task 8: Unveiling structure-aware language models for automatic generated text identification | https://aclanthology.org/2024.semeval-1.161/
+337. (2024) {O}ctavian{B} at {S}em{E}val-2024 Task 6: An exploration of humanlike qualities of hallucinated {LLM} texts | https://aclanthology.org/2024.semeval-1.169/
+338. (2024) {D}eep{P}avlov at {S}em{E}val-2024 Task 3: Multimodal Large Language Models in Emotion Reasoning | https://aclanthology.org/2024.semeval-1.249/
+339. (2024) Zero Shot is All You Need at {S}em{E}val-2024 Task 9: A study of State of the Art {LLM}s on Lateral Thinking Puzzles | https://aclanthology.org/2024.semeval-1.264/
+340. (2024) Dreaming with {C}hat{GPT}: Unraveling the Challenges of {LLM}s Dream Generation | https://aclanthology.org/2024.nlp4science-1.11/
+341. (2024) Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models | https://aclanthology.org/2024.naacl-long.11/
+342. (2024) Visual Grounding Helps Learn Word Meanings in Low-Data Regimes | https://aclanthology.org/2024.naacl-long.71/
+343. (2024) Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation | https://aclanthology.org/2024.naacl-long.83/
+344. (2024) {COSIGN}: Contextual Facts Guided Generation for Knowledge Graph Completion | https://aclanthology.org/2024.naacl-long.93/
+345. (2024) {C}hat{GPT} as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger | https://aclanthology.org/2024.naacl-long.165/
+346. (2024) Better Zero-Shot Reasoning with Role-Play Prompting | https://aclanthology.org/2024.naacl-long.228/
+347. (2024) Does {GPT}-4 pass the {T}uring test? | https://aclanthology.org/2024.naacl-long.290/
+349. (2024) Can {LLM}{'}s Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis | https://aclanthology.org/2024.naacl-short.24/
+350. (2024) Human-{AI} Interaction in the Age of {LLM}s | https://aclanthology.org/2024.naacl-tutorials.5/
+351. (2024) A Comparative Study of Explicit and Implicit Gender Biases in Large Language Models via Self-evaluation | https://aclanthology.org/2024.lrec-main.17/
+352. (2024) Combining Discourse Coherence with Large Language Models for More Inclusive, Equitable, and Robust Task-Oriented Dialogue | https://aclanthology.org/2024.lrec-main.314/
+353. (2024) From Text to Source: Results in Detecting Large Language Model-Generated Content | https://aclanthology.org/2024.lrec-main.665/
+354. (2024) Linguistic Nudges and Verbal Interaction with Robots, Smart-Speakers, and Humans | https://aclanthology.org/2024.lrec-main.923/
+355. (2024) {PSYDIAL}: Personality-based Synthetic Dialogue Generation Using Large Language Models | https://aclanthology.org/2024.lrec-main.1166/
+356. (2024) {C}linical{RAG}: Enhancing Clinical Decision Support through Heterogeneous Knowledge Retrieval | https://aclanthology.org/2024.knowllm-1.6/
+357. (2024) Summary of the Visually Grounded Story Generation Challenge | https://aclanthology.org/2024.inlg-genchal.3/
+358. (2024) Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling | https://aclanthology.org/2024.icon-1.51/
+359. (2024) Persuasion Games with Large Language Models | https://aclanthology.org/2024.icon-1.67/
+360. (2024) Landscape Painter: Mimicking Human Like Art Using Generative Adversarial Networks | https://aclanthology.org/2024.icon-1.71/
+361. (2024) Aligning to Adults Is Easy, Aligning to Children Is Hard: A Study of Linguistic Alignment in Dialogue Systems | https://aclanthology.org/2024.hucllm-1.7/
+362. (2024) From Language to Pixels: Task Recognition and Task Learning in {LLM}s | https://aclanthology.org/2024.genbench-1.2/
+363. (2024) Is artificial intelligence still intelligence? {LLM}s generalize to novel adjective-noun pairs, but don{'}t mimic the full human distribution | https://aclanthology.org/2024.genbench-1.9/
+364. (2024) A Parameter-Efficient Multi-Objective Approach to Mitigate Stereotypical Bias in Language Models | https://aclanthology.org/2024.gebnlp-1.1/
+365. (2024) Investigating grammatical abstraction in language models using few-shot learning of novel noun gender | https://aclanthology.org/2024.findings-eacl.50/
+366. (2024) Sorted {LL}a{MA}: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference | https://aclanthology.org/2024.findings-eacl.141/
+367. (2024) Psychometric Predictive Power of Large Language Models | https://aclanthology.org/2024.findings-naacl.129/
+368. (2024) {METAL}: Towards Multilingual Meta-Evaluation | https://aclanthology.org/2024.findings-naacl.148/
+369. (2024) {B}ot{C}hat: Evaluating {LLM}s' Capabilities of Having Multi-Turn Dialogues | https://aclanthology.org/2024.findings-naacl.201/
+370. (2024) When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models | https://aclanthology.org/2024.findings-naacl.237/
+371. (2024) Think Before You Speak: Cultivating Communication Skills of Large Language Models via Inner Monologue | https://aclanthology.org/2024.findings-naacl.248/
+372. (2024) {ATG}: Benchmarking Automated Theorem Generation for Generative Language Models | https://aclanthology.org/2024.findings-naacl.279/
+373. (2024) Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling | https://aclanthology.org/2024.findings-acl.15/
+374. (2024) Data-Centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models | https://aclanthology.org/2024.findings-acl.226/
+375. (2024) Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision | https://aclanthology.org/2024.findings-acl.303/
+376. (2024) Bi-Chainer: Automated Large Language Models Reasoning with Bidirectional Chaining | https://aclanthology.org/2024.findings-acl.507/
+377. (2024) Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models | https://aclanthology.org/2024.findings-acl.520/
+378. (2024) {C}o{C}o-Agent: A Comprehensive Cognitive {MLLM} Agent for Smartphone {GUI} Automation | https://aclanthology.org/2024.findings-acl.539/
+379. (2024) P4: Plug-and-Play Discrete Prompting for Large Language Models Personalization | https://aclanthology.org/2024.findings-acl.541/
+380. (2024) Do Language Models Exhibit Human-like Structural Priming Effects? | https://aclanthology.org/2024.findings-acl.877/
+381. (2024) What Makes Language Models Good-enough? | https://aclanthology.org/2024.findings-acl.913/
+382. (2024) {BASES}: Large-scale Web Search User Simulation with Large Language Model based Agents | https://aclanthology.org/2024.findings-emnlp.50/
+383. (2024) Evaluating Language Model Character Traits | https://aclanthology.org/2024.findings-emnlp.77/
+384. (2024) Towards Explainable Computerized Adaptive Testing with Large Language Model | https://aclanthology.org/2024.findings-emnlp.149/
+385. (2024) Are Large Language Models ({LLM}s) Good Social Predictors? | https://aclanthology.org/2024.findings-emnlp.153/
+386. (2024) Self-Renewal Prompt Optimizing with Implicit Reasoning | https://aclanthology.org/2024.findings-emnlp.171/
+387. (2024) Learning Autonomous Driving Tasks via Human Feedbacks with Large Language Models | https://aclanthology.org/2024.findings-emnlp.287/
+388. (2024) Shall We Team Up: Exploring Spontaneous Cooperation of Competing {LLM} Agents | https://aclanthology.org/2024.findings-emnlp.297/
+389. (2024) In-Context Learning May Not Elicit Trustworthy Reasoning: A-Not-{B} Errors in Pretrained Language Models | https://aclanthology.org/2024.findings-emnlp.322/
+391. (2024) Multi-Loss Fusion: Angular and Contrastive Integration for Machine-Generated Text Detection | https://aclanthology.org/2024.findings-emnlp.421/
+392. (2024) The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models | https://aclanthology.org/2024.findings-emnlp.513/
+394. (2024) Will {LLM}s Sink or Swim? Exploring Decision-Making Under Pressure | https://aclanthology.org/2024.findings-emnlp.668/
+395. (2024) ``Vorbești Rom{\^a}nește?'' A Recipe to Train Powerful {R}omanian {LLM}s with {E}nglish Instructions | https://aclanthology.org/2024.findings-emnlp.681/
+396. (2024) Cognitive Bias in Decision-Making with {LLM}s | https://aclanthology.org/2024.findings-emnlp.739/
+397. (2024) Beyond Demographics: Aligning Role-playing {LLM}-based Agents Using Human Belief Networks | https://aclanthology.org/2024.findings-emnlp.819/
+398. (2024) Systematic Biases in {LLM} Simulations of Debates | https://aclanthology.org/2024.emnlp-main.16/
+399. (2024) Aligning Translation-Specific Understanding to General Understanding in Large Language Models | https://aclanthology.org/2024.emnlp-main.289/
+400. (2024) Perceptions of Linguistic Uncertainty by Language Models and Humans | https://aclanthology.org/2024.emnlp-main.483/
+401. (2024) Detecting Subtle Differences between Human and Model Languages Using Spectrum of Relative Likelihood | https://aclanthology.org/2024.emnlp-main.564/
+402. (2024) Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models | https://aclanthology.org/2024.emnlp-main.644/
+403. (2024) Puzzle Solving using Reasoning of Large Language Models: A Survey | https://aclanthology.org/2024.emnlp-main.646/
+404. (2024) Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction | https://aclanthology.org/2024.emnlp-main.760/
+405. (2024) Community-Cross-Instruct: Unsupervised Instruction Generation for Aligning Large Language Models to Online Communities | https://aclanthology.org/2024.emnlp-main.945/
+406. (2024) Do {LLM}s learn a true syntactic universal? | https://aclanthology.org/2024.emnlp-main.950/
+407. (2024) Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate | https://aclanthology.org/2024.emnlp-main.992/
+408. (2024) Multi-{L}ogi{E}val: Towards Evaluating Multi-Step Logical Reasoning Ability of Large Language Models | https://aclanthology.org/2024.emnlp-main.1160/
+409. (2024) {O}pen{O}mni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents | https://aclanthology.org/2024.emnlp-demo.5/
+410. (2024) Patentformer: A Novel Method to Automate the Generation of Patent Applications | https://aclanthology.org/2024.emnlp-industry.101/
+411. (2024) Iterative Translation Refinement with Large Language Models | https://aclanthology.org/2024.eamt-1.17/
+413. (2024) Investigating Agency of {LLM}s in Human-{AI} Collaboration Tasks | https://aclanthology.org/2024.eacl-long.119/
+414. (2024) Frequency Explains the Inverse Correlation of Large Language Models' Size, Training Data Amount, and Surprisal{'}s Fit to Reading Times | https://aclanthology.org/2024.eacl-long.162/
+415. (2024) Multi-party Multimodal Conversations Between Patients, Their Companions, and a Social Robot in a Hospital Memory Clinic | https://aclanthology.org/2024.eacl-demo.8/
+416. (2024) {N}arrative{P}lay: Interactive Narrative Understanding | https://aclanthology.org/2024.eacl-demo.10/
+417. (2024) Forged-{GAN}-{BERT}: Authorship Attribution for {LLM}-Generated Forged Novels | https://aclanthology.org/2024.eacl-srw.26/
+418. (2024) Developmentally Plausible Multimodal Language Models Are Highly Modular | https://aclanthology.org/2024.conll-babylm.10/
+419. (2024) Dreaming Out Loud: A Self-Synthesis Approach For Training Vision-Language Models With Developmentally Plausible Data | https://aclanthology.org/2024.conll-babylm.22/
+420. (2024) How Human-Like Are Word Associations in Generative Models? An Experiment in {S}lovene | https://aclanthology.org/2024.cogalex-1.5/
+421. (2024) Do large language models resemble humans in language use? | https://aclanthology.org/2024.cmcl-1.4/
+422. (2024) Hierarchical syntactic structure in human-like language models | https://aclanthology.org/2024.cmcl-1.6/
+423. (2024) Large language models fail to derive atypicality inferences in a human-like manner | https://aclanthology.org/2024.cmcl-1.8/
+424. (2024) {S}imil{E}x: The First {I}talian Dataset for Sentence Similarity with Natural Language Explanations | https://aclanthology.org/2024.clicit-1.4/
+425. (2024) Are You a Good Assistant? Assessing {LLM} Trustability in Task-oriented Dialogues | https://aclanthology.org/2024.clicit-1.56/
+426. (2024) Unraveling the Enigma of {SPLIT} in Large-Language Models: The Unforeseen Impact of System Prompts on {LLM}s with Dissociative Identity Disorder | https://aclanthology.org/2024.clicit-1.84/
+427. (2024) Automated Question-Answer Generation for Evaluating {RAG}-based Chatbots | https://aclanthology.org/2024.cl4health-1.25/
+428. (2024) Bias and Fairness in Large Language Models: A Survey | https://aclanthology.org/2024.cl-3.8/
+429. (2024) Humans Learn Language from Situated Communicative Interactions. What about Machines? | https://aclanthology.org/2024.cl-4.3/
+430. (2024) From Form(s) to Meaning: Probing the Semantic Depths of Language Models Using Multisense Consistency | https://aclanthology.org/2024.cl-4.10/
+431. (2024) Do Large Language Models Understand Conversational Implicature- A case study with a {C}hinese sitcom | https://aclanthology.org/2024.ccl-1.98/
+432. (2024) {W}ell{D}unn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions | https://aclanthology.org/2024.blackboxnlp-1.23/
+433. (2024) Large Language Models as Legal Translators of {A}rabic Legislation: Do {C}hat{GPT} and {G}emini Care for Context and Terminology? | https://aclanthology.org/2024.arabicnlp-1.10/
+434. (2024) Exploring the Advantages and Challenges of a Concept-Guided Approach in Large Language Model Aided Machine Translation: Integrating Generative {AI} And Human-like Cognition | https://aclanthology.org/2024.amta-research.7/
+435. (2024) Examining Cognitive Biases in {C}hat{GPT} 3.5 and {C}hat{GPT} 4 through Human Evaluation and Linguistic Comparison | https://aclanthology.org/2024.amta-research.21/
+436. (2024) Causal and Temporal Inference in Visual Question Generation by Utilizing Pre-trained Models | https://aclanthology.org/2024.alvr-1.12/
+437. (2024) Text Generation Indistinguishable from Target Person by Prompting Few Examples Using {LLM} | https://aclanthology.org/2024.aiwolfdial-1.2/
+438. (2024) An Implementation of Werewolf Agent That does not Truly Trust {LLM}s | https://aclanthology.org/2024.aiwolfdial-1.7/
+439. (2024) {ANALOGYKB}: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base | https://aclanthology.org/2024.acl-long.68/
+440. (2024) {IBSEN}: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation | https://aclanthology.org/2024.acl-long.88/
+441. (2024) {T}ime{A}rena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation | https://aclanthology.org/2024.acl-long.215/
+442. (2024) Open Grounded Planning: Challenges and Benchmark Construction | https://aclanthology.org/2024.acl-long.272/
+443. (2024) {G}umbel{S}oft: Diversified Language Model Watermarking via the {G}umbel{M}ax-trick | https://aclanthology.org/2024.acl-long.315/
+444. (2024) Can {LLM}s Reason with Rules? Logic Scaffolding for Stress-Testing and Improving {LLM}s | https://aclanthology.org/2024.acl-long.406/
+445. (2024) {P}lato{LM}: Teaching {LLM}s in Multi-Round Dialogue via a User Simulator | https://aclanthology.org/2024.acl-long.424/
+446. (2024) Parrot: Enhancing Multi-Turn Instruction Following for Large Language Models | https://aclanthology.org/2024.acl-long.525/
+447. (2024) {J}ump{C}oder: Go Beyond Autoregressive Coder via Online Modification | https://aclanthology.org/2024.acl-long.619/
+448. (2024) Symbol-{LLM}: Towards Foundational Symbol-centric Interface For Large Language Models | https://aclanthology.org/2024.acl-long.707/
+449. (2024) How Johnny Can Persuade {LLM}s to Jailbreak Them: Rethinking Persuasion to Challenge {AI} Safety by Humanizing {LLM}s | https://aclanthology.org/2024.acl-long.773/
+450. (2024) Exploring Collaboration Mechanisms for {LLM} Agents: A Social Psychology View | https://aclanthology.org/2024.acl-long.782/
+451. (2024) Cendol: Open Instruction-tuned Generative Large Language Models for {I}ndonesian Languages | https://aclanthology.org/2024.acl-long.796/
+453. (2024) {E}con{A}gent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities | https://aclanthology.org/2024.acl-long.829/
+454. (2024) {B}atch{E}val: Towards Human-like Text Evaluation | https://aclanthology.org/2024.acl-long.846/
+455. (2024) The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models | https://aclanthology.org/2024.acl-short.49/
+456. (2024) {DUAL}-{REFLECT}: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms | https://aclanthology.org/2024.acl-short.64/
+458. (2024) {LEGENT}: Open Platform for Embodied Agents | https://aclanthology.org/2024.acl-demos.32/
+461. (2023) Commonsense Enabled Conversational Model and System-Initiated transitions in Unified {SDS}s | https://aclanthology.org/2023.yrrsds-1.22/
+463. (2023) Enhancing Pipeline-Based Conversational Agents with Large Language Models | https://aclanthology.org/2023.tllm-1.6/
+464. (2023) Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times? | https://aclanthology.org/2023.tacl-1.20/
+465. (2023) From Chatter to Matter: Addressing Critical Steps of Emotion Recognition Learning in Task-oriented Dialogue | https://aclanthology.org/2023.sigdial-1.8/
+466. (2023) {C}hat{GPT} vs. Crowdsourcing vs. Experts: Annotating Open-Domain Conversations with Speech Functions | https://aclanthology.org/2023.sigdial-1.23/
+467. (2023) Enhancing Task Bot Engagement with Synthesized Open-Domain Dialog | https://aclanthology.org/2023.sigdial-1.46/
+470. (2023) Detecting {C}hat{GPT}: A Survey of the State of Detecting {C}hat{GPT}-Generated Text | https://aclanthology.org/2023.ranlp-stud.1/
+471. (2023) Prompting {C}hat{GPT} to Draw Morphological Connections for New Word Comprehension | https://aclanthology.org/2023.ranlp-stud.11/
+472. (2023) Banning of {C}hat{GPT} from Educational Spaces: A {R}eddit Perspective | https://aclanthology.org/2023.nlp4dh-1.22/
+474. (2023) Evaluating Large Language Models with {N}eu{BAROCO}: Syllogistic Reasoning Ability and Human-like Biases | https://aclanthology.org/2023.naloma-1.1/
+475. (2023) Does {C}hat{GPT} Resemble Humans in Processing Implicatures? | https://aclanthology.org/2023.naloma-1.3/
+476. (2023) Long Story Generation Challenge | https://aclanthology.org/2023.inlg-genchal.2/
+477. (2023) Human-Like Distractor Response in Vision-Language Model | https://aclanthology.org/2023.ijcnlp-main.12/
+478. (2023) Targeted Image Data Augmentation Increases Basic Skills Captioning Robustness | https://aclanthology.org/2023.gem-1.21/
+479. (2023) Post {T}uring: Mapping the landscape of {LLM} Evaluation | https://aclanthology.org/2023.gem-1.31/
+480. (2023) How Much Syntactic Supervision is ``Good Enough''? | https://aclanthology.org/2023.findings-eacl.173/
+481. (2023) Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning | https://aclanthology.org/2023.findings-acl.17/
+482. (2023) Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models | https://aclanthology.org/2023.findings-acl.227/
+483. (2023) Numeric Magnitude Comparison Effects in Large Language Models | https://aclanthology.org/2023.findings-acl.383/
+486. (2023) Second Language Acquisition of Neural Language Models | https://aclanthology.org/2023.findings-acl.856/
+487. (2023) Lexical Entrainment for Conversational Systems | https://aclanthology.org/2023.findings-emnlp.22/
+488. (2023) Can {C}hat{GPT} Assess Human Personalities? A General Evaluation Framework | https://aclanthology.org/2023.findings-emnlp.84/
+489. (2023) How Reliable Are {AI}-Generated-Text Detectors? An Assessment Framework Using Evasive Soft Prompts | https://aclanthology.org/2023.findings-emnlp.94/
+490. (2023) Transformer-Based Language Model Surprisal Predicts Human Reading Times Best with About Two Billion Training Tokens | https://aclanthology.org/2023.findings-emnlp.128/
+491. (2023) Exploring the Sensitivity of {LLM}s' Decision-Making Capabilities: Insights from Prompt Variations and Hyperparameters | https://aclanthology.org/2023.findings-emnlp.241/
+492. (2023) Logic-{LM}: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning | https://aclanthology.org/2023.findings-emnlp.248/
+493. (2023) Comparing the Evaluation and Production of Loophole Behavior in Humans and Large Language Models | https://aclanthology.org/2023.findings-emnlp.264/
+494. (2023) Miracle: Towards Personalized Dialogue Generation with Latent-Space Multiple Personal Attribute Control | https://aclanthology.org/2023.findings-emnlp.395/
+495. (2023) Are Language Models Worse than Humans at Following Prompts? It{'}s Complicated | https://aclanthology.org/2023.findings-emnlp.514/
+496. (2023) {LLM}-in-the-loop: Leveraging Large Language Model for Thematic Analysis | https://aclanthology.org/2023.findings-emnlp.669/
+497. (2023) Natural Response Generation for {C}hinese Reading Comprehension | https://aclanthology.org/2023.findings-emnlp.739/
+498. (2023) Self-{P}olish: Enhance Reasoning in Large Language Models via Problem Refinement | https://aclanthology.org/2023.findings-emnlp.762/
+499. (2023) {S}eq{XGPT}: Sentence-Level {AI}-Generated Text Detection | https://aclanthology.org/2023.emnlp-main.73/
+500. (2023) {QTS}umm: Query-Focused Summarization over Tabular Data | https://aclanthology.org/2023.emnlp-main.74/
+501. (2023) ``Fifty Shades of Bias'': Normative Ratings of Gender Bias in {GPT} Generated {E}nglish Text | https://aclanthology.org/2023.emnlp-main.115/
+502. (2023) {DPP}-{TTS}: Diversifying prosodic features of speech via determinantal point processes | https://aclanthology.org/2023.emnlp-main.267/
+504. (2023) Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents | https://aclanthology.org/2023.emnlp-main.342/
+505. (2023) Can You Follow Me? Testing Situational Understanding for {C}hat{GPT} | https://aclanthology.org/2023.emnlp-main.394/
+506. (2023) Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding | https://aclanthology.org/2023.emnlp-main.400/
+507. (2023) Counting the Bugs in {C}hat{GPT}{'}s Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model | https://aclanthology.org/2023.emnlp-main.401/
+508. (2023) From Heuristic to Analytic: Cognitively Motivated Strategies for Coherent Physical Commonsense Reasoning | https://aclanthology.org/2023.emnlp-main.456/
+509. (2023) Improving Language Models' Meaning Understanding and Consistency by Learning Conceptual Roles from Dictionary | https://aclanthology.org/2023.emnlp-main.527/
+510. (2023) {S}tereo{M}ap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models | https://aclanthology.org/2023.emnlp-main.752/
+511. (2023) {BRAINTEASER}: Lateral Thinking Puzzles for Large Language Models | https://aclanthology.org/2023.emnlp-main.885/
+512. (2023) {S}can{DL}: A Diffusion Model for Generating Synthetic Scanpaths on Texts | https://aclanthology.org/2023.emnlp-main.960/
+513. (2023) {LLM}4{V}is: Explainable Visualization Recommendation using {C}hat{GPT} | https://aclanthology.org/2023.emnlp-industry.64/
+514. (2023) {S}ty{LE}x: Explaining Style Using Human Lexical Annotations | https://aclanthology.org/2023.eacl-main.208/
+515. (2023) Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey | https://aclanthology.org/2023.eacl-main.241/
+516. (2023) Attribution and Alignment: Effects of Local Context Repetition on Utterance Production and Comprehension in Dialogue | https://aclanthology.org/2023.conll-1.18/
+517. (2023) {C}og{M}em{LM}: Human-Like Memory Mechanisms Improve Performance and Cognitive Plausibility of {LLM}s | https://aclanthology.org/2023.conll-babylm.15/
+518. (2023) Lil-Bevo: Explorations of Strategies for Training Language Models in More Humanlike Ways | https://aclanthology.org/2023.conll-babylm.27/
+519. (2023) Towards more Human-like Language Models based on Contextualizer Pretraining Strategy | https://aclanthology.org/2023.conll-babylm.28/
+520. (2023) Pre-training {LLM}s using human-like development data corpus | https://aclanthology.org/2023.conll-babylm.30/
+521. (2023) Assessing Cross-Cultural Alignment between {C}hat{GPT} and Human Societies: An Empirical Study | https://aclanthology.org/2023.c3nlp-1.7/
+522. (2023) Knowledge of cultural moral norms in large language models | https://aclanthology.org/2023.acl-long.26/
+523. (2023) Learning to Generate Equitable Text in Dialogue from Biased Training Data | https://aclanthology.org/2023.acl-long.163/
+524. (2023) We Understand Elliptical Sentences, and Language Models should Too: A New Dataset for Studying Ellipsis and its Interaction with Thematic Fit | https://aclanthology.org/2023.acl-long.188/
+525. (2023) {M}v{P}: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction | https://aclanthology.org/2023.acl-long.240/
+526. (2023) Solving Math Word Problems via Cooperative Reasoning induced Language Models | https://aclanthology.org/2023.acl-long.245/
+527. (2023) Toward Human-Like Evaluation for Natural Language Generation with Error Analysis | https://aclanthology.org/2023.acl-long.324/
+528. (2023) {M}ix{CE}: Training Autoregressive Language Models by Mixing Forward and Reverse Cross-Entropies | https://aclanthology.org/2023.acl-long.502/
+529. (2023) An Empirical Analysis of Parameter-Efficient Methods for Debiasing Pre-Trained Language Models | https://aclanthology.org/2023.acl-long.876/
+530. (2023) Evaluating pragmatic abilities of image captioners on {A}3{DS} | https://aclanthology.org/2023.acl-short.110/
+531. (2022) Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning | https://aclanthology.org/2022.wassa-1.14/
+532. (2022) Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification | https://aclanthology.org/2022.wassa-1.22/
+533. (2022) Word Acquisition in Neural Language Models | https://aclanthology.org/2022.tacl-1.1/
+534. (2022) Text-based {NP} Enrichment | https://aclanthology.org/2022.tacl-1.44/
+535. (2022) A Masked Segmental Language Model for Unsupervised Natural Language Segmentation | https://aclanthology.org/2022.sigmorphon-1.5/
+536. (2022) Building a Knowledge-Based Dialogue System with Text Infilling | https://aclanthology.org/2022.sigdial-1.25/
+537. (2022) {CMCC}: A Comprehensive and Large-Scale Human-Human Dataset for Dialogue Systems | https://aclanthology.org/2022.seretod-1.7/
+538. (2022) Offline-to-Online Co-Evolutional User Simulator and Dialogue System | https://aclanthology.org/2022.seretod-1.11/
+539. (2022) On Curriculum Learning for Commonsense Reasoning | https://aclanthology.org/2022.naacl-main.72/
+540. (2022) Towards a Progression-Aware Autonomous Dialogue Agent | https://aclanthology.org/2022.naacl-main.87/
+541. (2022) Robust Conversational Agents against Imperceptible Toxicity Triggers | https://aclanthology.org/2022.naacl-main.204/
+542. (2022) {C}o{MPM}: Context Modeling with Speaker{'}s Pre-trained Memory Tracking for Emotion Recognition in Conversation | https://aclanthology.org/2022.naacl-main.416/
+543. (2022) Grounding in social media: An approach to building a chit-chat dialogue model | https://aclanthology.org/2022.naacl-srw.2/
+544. (2022) Personalized Filled-pause Generation with Group-wise Prediction Models | https://aclanthology.org/2022.lrec-1.40/
+545. (2022) A Speculative and Tentative Common Ground Handling for Efficient Composition of Uncertain Dialogue | https://aclanthology.org/2022.lrec-1.337/
+546. (2022) {HADREB}: Human Appraisals and ({E}nglish) Descriptions of Robot Emotional Behaviors | https://aclanthology.org/2022.lrec-1.617/
+547. (2022) Event Transition Planning for Open-ended Text Generation | https://aclanthology.org/2022.findings-acl.269/
+548. (2022) {D}ialo{KG}: Knowledge-Structure Aware Task-Oriented Dialogue Generation | https://aclanthology.org/2022.findings-naacl.195/
+549. (2022) {KETOD}: Knowledge-Enriched Task-Oriented Dialogue | https://aclanthology.org/2022.findings-naacl.197/
+551. (2022) History-Aware Hierarchical Transformer for Multi-session Open-domain Dialogue System | https://aclanthology.org/2022.findings-emnlp.247/
+552. (2022) Composition, Attention, or Both? | https://aclanthology.org/2022.findings-emnlp.428/
+553. (2022) Sequentially Controlled Text Generation | https://aclanthology.org/2022.findings-emnlp.509/
+554. (2022) Visual Spatial Description: Controlled Spatial-Oriented Image-to-Text Generation | https://aclanthology.org/2022.emnlp-main.93/
+556. (2022) {COPEN}: Probing Conceptual Knowledge in Pre-trained Language Models | https://aclanthology.org/2022.emnlp-main.335/
+557. (2022) Context Limitations Make Neural Language Models More Human-Like | https://aclanthology.org/2022.emnlp-main.712/
+558. (2022) The better your Syntax, the better your Semantics? Probing Pretrained Language Models for the {E}nglish Comparative Correlative | https://aclanthology.org/2022.emnlp-main.746/
+559. (2022) Low-Resource Adaptation of Open-Domain Generative Chatbots | https://aclanthology.org/2022.dialdoc-1.3/
+562. (2022) Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts | https://aclanthology.org/2022.acl-long.72/
+563. (2022) Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning | https://aclanthology.org/2022.acl-long.85/
+564. (2022) Multilingual unsupervised sequence segmentation transfers to extremely low-resource languages | https://aclanthology.org/2022.acl-long.366/
+565. (2022) Learning to Rank Visual Stories From Human Ranking Data | https://aclanthology.org/2022.acl-long.441/
+566. (2022) Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation | https://aclanthology.org/2022.acl-long.530/
+567. (2022) On the probability{--}quality paradox in language generation | https://aclanthology.org/2022.acl-short.5/
+568. (2022) Building a Dialogue Corpus Annotated with Expressed and Experienced Emotions | https://aclanthology.org/2022.acl-srw.3/
+569. (2021) Team Phoenix at {WASSA} 2021: Emotion Analysis on News Stories with Pre-Trained Language Models | https://aclanthology.org/2021.wassa-1.30/
+571. (2021) Building a {S}wedish Open-Domain Conversational Language Model | https://aclanthology.org/2021.nodalida-main.38/
+573. (2021) Put Chatbot into Its Interlocutor{'}s Shoes: New Framework to Learn Chatbot Responding with Intention | https://aclanthology.org/2021.naacl-main.123/
+574. (2021) Adding Chit-Chat to Enhance Task-Oriented Dialogues | https://aclanthology.org/2021.naacl-main.124/
+575. (2021) Emotion-Infused Models for Explainable Psychological Stress Detection | https://aclanthology.org/2021.naacl-main.230/
+576. (2021) {D}i{SC}o{L}: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation | https://aclanthology.org/2021.naacl-demos.4/
+577. (2021) Personalized Response Generation with Tensor Factorization | https://aclanthology.org/2021.gem-1.5/
+579. (2021) {TURINGBENCH}: A Benchmark Environment for {T}uring Test in the Age of Neural Text Generation | https://aclanthology.org/2021.findings-emnlp.172/
+580. (2021) Retrieval Augmentation Reduces Hallucination in Conversation | https://aclanthology.org/2021.findings-emnlp.320/
+581. (2021) {EARL}: Informative Knowledge-Grounded Conversation Generation with Entity-Agnostic Representation Learning | https://aclanthology.org/2021.emnlp-main.184/
+582. (2021) Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars | https://aclanthology.org/2021.emnlp-main.235/
+583. (2021) Multi-Modal Open-Domain Dialogue | https://aclanthology.org/2021.emnlp-main.398/
+584. (2021) Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models | https://aclanthology.org/2021.eacl-main.110/
+585. (2021) ``It{'}s our fault!'': Insights Into Users' Understanding and Interaction With an Explanatory Collaborative Dialog System | https://aclanthology.org/2021.conll-1.1/
+586. (2021) ``It seemed like an annoying woman'': On the Perception and Ethical Considerations of Affective Language in Text-Based Conversational Agents | https://aclanthology.org/2021.conll-1.4/
+587. (2021) Pragmatic competence of pre-trained language models through the lens of discourse connectives | https://aclanthology.org/2021.conll-1.29/
+588. (2021) Assessing the Generalization Capacity of Pre-trained Language Models through {J}apanese Adversarial Natural Language Inference | https://aclanthology.org/2021.blackboxnlp-1.26/
+589. (2021) A Targeted Assessment of Incremental Processing in Neural Language Models and Humans | https://aclanthology.org/2021.acl-long.76/
+590. (2021) Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning | https://aclanthology.org/2021.acl-long.93/
+591. (2021) Structural Guidance for Transformer Language Models | https://aclanthology.org/2021.acl-long.289/
+592. (2021) Surprisal Estimators for Human Reading Times Need Character Models | https://aclanthology.org/2021.acl-long.290/
+593. (2021) Lower Perplexity is Not Always Human-Like | https://aclanthology.org/2021.acl-long.405/
+594. (2021) Maria: A Visual Experience Powered Conversational Agent | https://aclanthology.org/2021.acl-long.435/
+595. (2021) ``{I}{'}ve Seen Things You People Wouldn{'}t Believe'': Hallucinating Entities in {G}uess{W}hat?! | https://aclanthology.org/2021.acl-srw.11/
+597. (2020) It{'}s About Time: Turn-Entry Timing For Situated Human-Robot Dialogue | https://aclanthology.org/2020.sigdial-1.12/
+598. (2020) Boosting Naturalness of Language in Task-oriented Dialogues via Adversarial Training | https://aclanthology.org/2020.sigdial-1.33/
+600. (2020) The {JDDC} Corpus: A Large-Scale Multi-Turn {C}hinese Dialogue Dataset for {E}-commerce Customer Service | https://aclanthology.org/2020.lrec-1.58/
+601. (2020) Syntactic Parsing in Humans and Machines | https://aclanthology.org/2020.iwpt-1.1/
+602. (2020) Learning to Plan and Realize Separately for Open-Ended Dialogue Systems | https://aclanthology.org/2020.findings-emnlp.247/
+603. (2020) Dialogue Response Ranking Training with Large-Scale Human Feedback Data | https://aclanthology.org/2020.emnlp-main.28/
+604. (2020) Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training | https://aclanthology.org/2020.emnlp-main.281/
+605. (2020) Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems | https://aclanthology.org/2020.emnlp-main.326/
+606. (2020) Distill and Replay for Continual Language Learning | https://aclanthology.org/2020.coling-main.318/
+607. (2020) {AI} {S}ensing for Robotics using Deep Learning based Visual and Language Modeling | https://aclanthology.org/2020.challengehml-1.8/
+609. (2020) A Systematic Assessment of Syntactic Generalization in Neural Language Models | https://aclanthology.org/2020.acl-main.158/
+610. (2020) On Faithfulness and Factuality in Abstractive Summarization | https://aclanthology.org/2020.acl-main.173/
+611. (2020) Recurrent Neural Network Language Models Always Learn {E}nglish-Like Relative Clause Attachment | https://aclanthology.org/2020.acl-main.179/
+612. (2020) Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly | https://aclanthology.org/2020.acl-main.698/
+613. (2020) Commonsense Reasoning for Natural Language Processing | https://aclanthology.org/2020.acl-tutorials.7/

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "seed_devrio",
+    "query": "ti:\"taxonomy of linguistic expressions\" AND ti:anthropomorphism",
+    "hits": [
+      {
+        "id": "http://arxiv.org/abs/2502.09870v1",
+        "title": "ATaxonomyofLinguisticExpressionsThatContributeToAnthropomorphismofLanguageTechnologies",
+        "pdf": "https://arxiv.org/pdf/2502.09870v1"
+      }
+    ]
+  },
+  {
+    "name": "seed_ibrahim",
+    "query": "id:2502.07077",
+    "hits": [
+      {
+        "id": "http://arxiv.org/abs/2502.07077v3",
+        "title": "Multi-turnEvaluationofAnthropomorphicBehavioursinLargeLanguageModels",
+        "pdf": "https://arxiv.org/pdf/2502.07077v3"
+      }
+    ]
+  },
+  {
+    "name": "seed_acl_dehumanizing",
+    "query": "ti:\"dehumanizing machines\"",
+    "hits": [
+      {
+        "id": "http://arxiv.org/abs/2502.14019v2",
+        "title": "DehumanizingMachines:MitigatingAnthropomorphicBehaviorsinTextGenerationSystems",
+        "pdf": "https://arxiv.org/pdf/2502.14019v2"
+      }
+    ]
+  },
+  {
+    "name": "shanahan",
+    "query": "ti:\"role play\" AND ti:\"large language models\"",
+    "hits": [
+      {
+        "id": "http://arxiv.org/abs/2305.16367v1",
+        "title": "Role-PlaywithLargeLanguageModels",
+        "pdf": "https://arxiv.org/pdf/2305.16367v1"
+      },
+      {
+        "id": "http://arxiv.org/abs/2505.13157v1",
+        "title": "Role-PlayingEvaluationforLargeLanguageModels",
+        "pdf": "https://arxiv.org/pdf/2505.13157v1"
+      },
+      {
+        "id": "http://arxiv.org/abs/2411.00585v2",
+        "title": "FairnessTestingofLargeLanguageModelsinRole-Playing",
+        "pdf": "https://arxiv.org/pdf/2411.00585v2"
+      }
+    ]
+  },
+  {
+    "name": "pmid_42648233",
+    "query": "ti:\"seeing humans in technology\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_42463863",
+    "query": "ti:\"stickiness intentions\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_42269974",
+    "query": "ti:\"engagement-validation loop\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_41548427",
+    "query": "ti:\"therapy chatbots and emotional complexity\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_40810905",
+    "query": "ti:\"IPALLM\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_40694494",
+    "query": "ti:\"epistemic trust\" AND ti:conversational",
+    "hits": []
+  },
+  {
+    "name": "pmid_40562106",
+    "query": "ti:\"depression intervention\" AND ti:chatbots",
+    "hits": []
+  },
+  {
+    "name": "pmid_40286349",
+    "query": "ti:\"cringe, lit, or mid\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_38428201",
+    "query": "ti:\"unlocking human-like conversations\"",
+    "hits": []
+  },
+  {
+    "name": "pmid_35976080",
+    "query": "ti:\"when a chatbot smiles\"",
+    "hits": []
+  }
+]

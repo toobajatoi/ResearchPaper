@@ -1,0 +1,50 @@
+22. (2026) Empathy in {G}reek Exam-Related Support Conversations: A Comparative Evaluation of {LLM} Responses | https://aclanthology.org/2026.lrec-1.210/
+23. (2026) {I} Am Not Them: Persistent Outgroup Bias in Large Language Models Arising from Social Identity Persona Setting | https://aclanthology.org/2026.lrec-1.217/
+41. (2026) Persona-Assigned Large Language Models Exhibit Human-Like Motivated Reasoning | https://aclanthology.org/2026.findings-acl.585/
+45. (2026) Beyond Static Personas: Situational Personality Steering for Large Language Models | https://aclanthology.org/2026.findings-acl.958/
+47. (2026) {T}win{V}oice: A Multi-dimensional Benchmark Towards Digital Twins via {LLM} Persona Simulation | https://aclanthology.org/2026.findings-acl.981/
+49. (2026) {L}ong{MP}-Bench: A Benchmark for Multimodal Persona Understanding in Long-Term Dialogues | https://aclanthology.org/2026.findings-acl.1159/
+86. (2026) Thinking beyond the anthropomorphic paradigm benefits {LLM} research | https://aclanthology.org/2026.acl-long.118/
+118. (2026) {H}uman{LLM}: Benchmarking and Improving {LLM} Anthropomorphism via Human Cognitive Patterns | https://aclanthology.org/2026.acl-long.1783/
+132. (2025) Towards Human-Like Dialogue Systems: Integrating Multimodal Emotion Recognition and Non-Verbal Cue Generation | https://aclanthology.org/2025.yrrsds-1.6/
+137. (2025) Text Overlap: An {LLM} with Human-like Conversational Behaviors | https://aclanthology.org/2025.sicon-1.10/
+143. (2025) {A}nthro{S}et: a Challenge Dataset for Anthropomorphic Language Detection | https://aclanthology.org/2025.ommm-1.3/
+144. (2025) Anthropomorphizing {AI}: A Multi-Label Analysis of Public Discourse on Social Media | https://aclanthology.org/2025.ommm-1.8/
+145. (2025) Learn, Achieve, Predict, Propose, Forget, Suffer: Analysing and Classifying Anthropomorphisms of {LLM}s | https://aclanthology.org/2025.ommm-1.10/
+146. (2025) Explicit Cooperation Shapes Human-Like Multi-agent {LLM} Negotiation | https://aclanthology.org/2025.nlpsi-1.6/
+189. (2025) Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment | https://aclanthology.org/2025.findings-acl.287/
+202. (2025) Exploring Supervised Approaches to the Detection of Anthropomorphic Language in the Reporting of {NLP} Venues | https://aclanthology.org/2025.findings-acl.926/
+220. (2025) Crafting Customisable Characters with {LLM}s: A Persona-Driven Role-Playing Agent Framework | https://aclanthology.org/2025.findings-emnlp.1100/
+230. (2025) Humanizing Machines: Rethinking {LLM} Anthropomorphism Through a Multi-Level Framework of Design | https://aclanthology.org/2025.emnlp-main.164/
+245. (2025) {V}-{VAE}: A Variational Auto Encoding Framework Towards Fine-Grained Control over Human-Like Chat | https://aclanthology.org/2025.emnlp-main.1508/
+250. (2025) {O}pen{S}2{S}: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model | https://aclanthology.org/2025.emnlp-demos.70/
+255. (2025) Human-likeness of {LLM}s in the Mental Lexicon | https://aclanthology.org/2025.conll-1.38/
+256. (2025) Sibyl: Empowering Empathetic Dialogue Generation in Large Language Models via Sensible and Visionary Commonsense Inference | https://aclanthology.org/2025.coling-main.10/
+264. (2025) Assessing the Human Likeness of {AI}-Generated Counterspeech | https://aclanthology.org/2025.coling-main.239/
+313. (2025) Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems | https://aclanthology.org/2025.acl-long.1259/
+348. (2024) {D}ialog{B}ench: Evaluating {LLM}s as Human-like Dialogue Systems | https://aclanthology.org/2024.naacl-long.341/
+390. (2024) Modeling Human Subjectivity in {LLM}s Using Explicit and Implicit Human Factors in Personas | https://aclanthology.org/2024.findings-emnlp.420/
+393. (2024) From Pixels to Personas: Investigating and Modeling Self-Anthropomorphism in Human-Robot Dialogues | https://aclanthology.org/2024.findings-emnlp.567/
+412. (2024) {A}nthro{S}core: A Computational Linguistic Measure of Anthropomorphism | https://aclanthology.org/2024.eacl-long.49/
+452. (2024) Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction | https://aclanthology.org/2024.acl-long.801/
+457. (2024) {E}mpathy{E}ar: An Open-source Avatar Multimodal Empathetic Chatbot | https://aclanthology.org/2024.acl-demos.7/
+459. (2023) Exploring the Synergy of Deep Learning and Anthropomorphism in Multimodal Dialogue Systems | https://aclanthology.org/2023.yrrsds-1.12/
+460. (2023) More Human-Like Interaction in Spoken Dialogue Systems: Global Context for Natural Language Understanding and Multimodal Solutions | https://aclanthology.org/2023.yrrsds-1.14/
+462. (2023) Causality Reasoning for Empathy-Enriched and Personality-Conditioned Spoken Dialogue System | https://aclanthology.org/2023.yrrsds-1.23/
+468. (2023) The Open-domain Paradox for Chatbots: Common Ground as the Basis for Human-like Dialogue | https://aclanthology.org/2023.sigdial-1.57/
+469. (2023) Beyond Information: Is {C}hat{GPT} Empathetic Enough? | https://aclanthology.org/2023.ranlp-1.18/
+473. (2023) Anthropomorphization of {AI}: Opportunities and Risks | https://aclanthology.org/2023.nllp-1.1/
+484. (2023) Large Language Models Are Partially Primed in Pronoun Interpretation | https://aclanthology.org/2023.findings-acl.605/
+485. (2023) Don{'}t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness | https://aclanthology.org/2023.findings-acl.843/
+503. (2023) Mirages. On Anthropomorphism in Dialogue Systems | https://aclanthology.org/2023.emnlp-main.290/
+550. (2022) Assessing How Users Display Self-Disclosure and Authenticity in Conversation with Human-Like Agents: A Case Study of Luda Lee | https://aclanthology.org/2022.findings-aacl.14/
+555. (2022) Robots-Dont-Cry: Understanding Falsely Anthropomorphic Utterances in Dialog Systems | https://aclanthology.org/2022.emnlp-main.215/
+560. (2022) Do Language Models Make Human-like Predictions about the Coreferents of {I}talian Anaphoric Zero Pronouns? | https://aclanthology.org/2022.coling-1.1/
+561. (2022) Evaluating How Users Game and Display Conversation with Human-Like Agents | https://aclanthology.org/2022.codi-1.3/
+570. (2021) Empathetic {BERT}2{BERT} Conversational Model: Learning {A}rabic Language Generation with Little Data | https://aclanthology.org/2021.wanlp-1.17/
+572. (2021) Human-like informative conversations: Better acknowledgements using conditional mutual information | https://aclanthology.org/2021.naacl-main.61/
+578. (2021) {A}lexa, {G}oogle, {S}iri: What are Your Pronouns? Gender and Anthropomorphism in the Design and Perception of Conversational Assistants | https://aclanthology.org/2021.gebnlp-1.4/
+596. (2020) Empathy-driven {A}rabic Conversational Chatbot | https://aclanthology.org/2020.wanlp-1.6/
+599. (2020) Sketch-Fill-A-{R}: A Persona-Grounded Chit-Chat Generation Framework | https://aclanthology.org/2020.nlp4convai-1.14/
+608. (2020) You Impress Me: Dialogue Generation via Mutual Persona Perception | https://aclanthology.org/2020.acl-main.131/
+614. (2020) {DAPPER}: Learning Domain-Adapted Persona Representation Using Pretrained {BERT} and External Memory | https://aclanthology.org/2020.aacl-main.65/

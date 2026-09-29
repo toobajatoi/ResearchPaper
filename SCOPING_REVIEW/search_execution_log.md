@@ -64,11 +64,70 @@ The 21 inclusions are not a finished review set. They include scripted chatbot s
 
 Publisher pages for the remaining 11 returned HTTP 403 or a bot challenge. They are not excluded for lack of a file.
 
+## PubMed Search 2 and CASA extra
+
+Both were run on 29 September 2026. Search 2 returned **80** records, of which 32 were already in Search 1. The CASA extra query returned **11**, of which 4 were already in Search 1. New records are in `data/screening.csv`.
+
+Of the 48 Search 2 records that were not already in Search 1: 43 were excluded at title, 2 were excluded at abstract, and 3 were kept for full text (Japanese workplace politeness and honorifics, PMID 42507678; culturally aware prompting and politeness, PMID 42277102; French and German address pronouns, PMID 35071147). The 7 new CASA-extra records were excluded at title. None of these is an included study yet.
+
+## ACL Anthology
+
+The public abstracts file `anthology+abstracts.bib.gz` was downloaded on 29 September 2026 (42,441,419 bytes) and filtered locally. The Anthology website search is Google Custom Search and was not used as the count.
+
+Records from 2020 through 2026 whose title or abstract matched Search 1: **614**. Title screening kept **49** for abstract reading and excluded **564**. One of the 614, Cheng et al. (2025), was read in full from the open text and included, so it is not in the 49. Search 2 on the same file returned **210** before deduplication with Search 1. Those 210 have not been added as a separate screened set.
+
+## Open full texts read
+
+These were read from arXiv HTML and included:
+
+- DeVrio, Cheng, Egede, Olteanu, and Blodgett (2025), DOI 10.1145/3706598.3714038
+- Ibrahim et al., arXiv 2502.07077
+- Cheng, Blodgett, DeVrio, Egede, and Olteanu (2025), DOI 10.18653/v1/2025.acl-long.1259
+- Shanahan, McDonell, and Reynolds (2023), PMID 37938776, arXiv 2305.16367
+
+## ACL abstracts
+
+On 29 September 2026 the 49 ACL Search 1 titles that had been kept were read at abstract. **10** were kept for full text. **39** were excluded at abstract. Cheng et al. (2025) was already included and was not counted again. None of the 10 is an included study. The reasons are in `data/screening.csv`.
+
+## Who screened
+
+Title, abstract, and full-text decisions in this log were assisted by the Cursor agent. The author has not yet checked them. `data/author_verification_sample.csv` lists every included study and a random 10 percent of the exclusions, drawn with seed 20260929 after the records below were added. The Preregistered badge will not be requested. Screening began on 29 September 2026, before any OSF deposit.
+
+## OpenAlex as the multidisciplinary index
+
+Scopus and Web of Science were dropped on 29 September 2026 because this review has no subscription.
+
+The wide OpenAlex Search 1 count remains **11,245**. Dropping chatbot terms but keeping "human-like" and "social presence" still returned **7,330**. The exported query requires an anthropomorphism stem and an LLM or generative-AI term, in title and abstract, from 2020-01-01 through 2026-09-29. OpenAlex reported **1,411**. All 1,411 records were saved. Three DOIs were already in the screening log. The other **1,408** were added as records whose abstracts have not been read. They are not inclusions.
+
+## IEEE Xplore and ACM
+
+The IEEE Xplore website search was run on 29 September 2026 with the same anthropomorphism and LLM terms, years 2020–2026. It returned **70** records. Twenty-one were already in the log. Of the 49 new records, **9** were kept for abstract reading and **40** were excluded at title. None is included.
+
+The ACM Digital Library website returned HTTP 403, a bot challenge. It was not searched. Those 403 records are not an ACM result set.
+
+## Citation chasing of the four seed papers
+
+OpenAlex was asked, on 29 September 2026, for references and citing papers. These lists are saved and have not been screened.
+
+- DeVrio et al. (2025): 66 references saved; 29 citing papers saved (OpenAlex cited-by count 28).
+- Cheng et al. (2025): OpenAlex returned no reference list; 8 citing papers saved (cited-by count 7).
+- Shanahan et al. (2023): 13 references saved; the first 200 of 454 citing papers were saved.
+- Ibrahim et al. (arXiv 2502.07077): OpenAlex returned no reference list; 8 citing papers saved.
+
+## Evidence matrix
+
+`data/evidence_matrix.csv` has one row for each of the 27 included studies. Most cells are empty. The filled cells come from the full-text decision notes. This is not a finished extraction.
+
+A second request for one *Human-Machine Communication* PDF, Concannon et al. (2023), using a browser user agent, returned HTTP 403. The 15 journal PDFs remain unread. They are not excluded for lack of a file.
+
+Two PubMed full texts were read from open PDFs and included. Ollier, Nißen, and von Wangenheim (2022), PMID 35071147, manipulated French *tu/vous* and German *du/Sie* in a rule-based text chatbot and measured humanlike ratings. Gao and colleagues (2026), PMID 42507678, had native raters score Japanese politeness and honorifics in LLM workplace replies. The authors call this cultural alignment, not anthropomorphism. Shen and colleagues, PMID 42277102, and the other unread PubMed papers are still unread.
+
 ## Not done
 
-- ACL Anthology metadata filter
-- Citation chasing
-- Deduplication across sources
-- Full text for 11 PubMed records and 15 *Human-Machine Communication* PDFs
-- Evidence matrix
+- ACM Digital Library, after the website block
+- Abstract screening of the 1,408 new OpenAlex records and the 9 new IEEE titles
+- Screening the citation-chase lists
+- Full text for 10 remaining PubMed Search 1 records, 1 remaining Search 2 record (PMID 42277102), 15 *Human-Machine Communication* PDFs, and 10 ACL papers kept at abstract
+- Author verification of the included studies and the exclusion sample
+- A complete evidence matrix
 - Manuscript

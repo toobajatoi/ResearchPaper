@@ -1,0 +1,80 @@
+1. PMID:42775852 (2026 Sep 23) Parental Attachment Anxiety and Adolescents' Authentic Self-Disclosure to Generative AI: The Roles of Rumination, Depression, and Gender. [also Search 1]
+2. PMID:42656298 (2026) Addicted to AI? Prevalence and psychological drivers of generative AI dependency among pre-service teachers. [also Search 1]
+3. PMID:42638723 (2026) Quality, readability, and clinical-risk signals of default public-interface LLM responses to vascular and perioperative patient questions: a cross-sectional snapshot.
+4. PMID:42600040 (2026) Relational intelligence in AI chatbots: Examining the trust-engagement-emotion-social presence model using PLS-SEM and fsQCA. [also Search 1]
+5. PMID:42507678 (2026) Evaluating the cultural alignment of multilingual LLMs in typical Japanese workplace scenarios.
+6. PMID:42482727 (2026) 'She lifted me up': kinship construction in human-AI resilient communication among Chinese users. [also Search 1]
+7. PMID:42477680 (2026 Jul 20) Language-dependent performance variation in large language models for dental trauma management: a comparative evaluation of ChatGPT-5.2, Gemini 3.0, and Claude 4.5 Sonnet.
+8. PMID:42466203 (2026) GMTW-Ro: a deterministic benchmark for evaluating large language models on grounded Romanian tasks.
+9. PMID:42391624 (2026 Jul 2) Agreement Between Reasoning-Oriented Generative AI Models and Clinical Educators in Evaluating Japanese Objective Structured Clinical Examination Transcripts: Preliminary Comparative Study.
+10. PMID:42358891 (2026 Jun) Large-language-models for pediatric diagnosis: Performance evaluation using real-world clinical notes from common and rare cases.
+11. PMID:42323560 (2026 Jun 20) Evaluation of ChatGPT-4o's and DeepSeek R1's responses to urological problems: a comparative study.
+12. PMID:42305844 (2026) Tracking the dynamic breakdown of contextual coherence in schizophrenia using language models.
+13. PMID:42277102 (2026 Jun 11) Culturally-Aware Prompting in conversational AI: supporting perceived communicative effectiveness in cross-cultural teams in Australia.
+14. PMID:42158049 (2026) Child-Directed Speech Facilitates Semantic Role Learning: A Machine Learning Approach.
+15. PMID:42120739 (2026 May 12) A triaxial benchmark for assessing responses from large language models in traditional Chinese medicine.
+16. PMID:42094955 (2026) TCM-DiffRAG: personalized syndrome differentiation reasoning method for traditional Chinese medicine based on knowledge graph and chain of thought.
+17. PMID:42055983 (2026 Sep) When 'Yes' Meets 'But': Can AI Comprehend Contradictory Humor in Comics? [also Search 1]
+18. PMID:42051326 (2026) Co-designing animated videos to explain large language models and their use in healthcare and research. [also Search 1]
+19. PMID:42048380 (2026) Behavioral mechanisms and learning outcomes of University Students' GAI-assisted learning in human-AI collaboration.
+20. PMID:42043690 (2026 Aug) Performance evaluation of large language models in real-world perinatal medication consultations: a cross-sectional study.
+21. PMID:42022410 (2026) The effects of responsiveness, perceived warmth, and anthropomorphism on university students' use of conversational AI for learning support: a chain mediation analysis based on S-O-R framework. [also Search 1]
+22. PMID:41982350 (2026) Simulating the "cultural other": the impact of GenAI interlocutors on EFL learners' intercultural communicative competence, speaking anxiety, and learning engagement.
+23. PMID:41961980 (2026 Apr 10) Context-Aware Sentence Classification of Radiology Reports Using Synthetic Data: Development and Validation Study.
+24. PMID:41932978 (2026 Apr 3) ModernBERT is more efficient than conventional BERT for chest CT findings classification in Japanese radiology reports.
+25. PMID:41892920 (2026 Mar 10) Talking Head Generation Through Generative Models and Cross-Modal Synthesis Techniques. [also Search 1]
+26. PMID:41880603 (2026 Mar 25) Improving Retrieval Augmented Generation for Health Care by Fine-Tuning Clinical Embedding Models: Development and Evaluation Study.
+27. PMID:41876633 (2026 Mar 24) Performance of DeepSeek in the generation of in-training examination questions in radiology resident education.
+28. PMID:41869487 (2026 Jan-Mar) Does ChatGPT Show Gender Bias When Drafting Letters of Recommendation for Applicants to Orthopaedic Surgery Residency Programs?
+29. PMID:41811800 (2026) Community size rather than grammatical complexity better predicts Large Language Model accuracy in a novel Wug Test. [also Search 1]
+30. PMID:41776164 (2026 Sep) Co-designing DESI-Heart: Conversational agent based self-care intervention for people with cardiovascular disease. [also Search 1]
+31. PMID:41741518 (2026 Feb 25) Large language models show Dunning-Kruger-like effects in multilingual fact-checking.
+32. PMID:41720888 (2026 Feb 20) Evaluation of cross-ethnic emotion recognition capabilities in multimodal large language models using the reading the mind in the eyes test.
+33. PMID:41719880 (2026 Mar) Unraveling the multimodal features and audience responses to thinspiration videos: A computational analysis of Chinese TikTok (Douyin).
+34. PMID:41717650 (2026 Apr) MedQA-MA: A Moroccan Arabic medical question-answering dataset for virtual healthcare assistants and large language models. [also Search 1]
+35. PMID:41709874 (2026 Feb) Political censorship in large language models originating from China.
+36. PMID:41605184 (2026 Apr) Interactive Visual Assessment for Text-to-Image Generation Models.
+37. PMID:41594191 (2026 Jan 9) Automated Tumor and Node Staging from Esophageal Cancer Endoscopic Ultrasound Reports: A Benchmark of Advanced Reasoning Models with Prompt Engineering and Cross-Lingual Evaluation.
+38. PMID:41576425 (2026 Mar) Relationship between resource utilization and diagnostic accuracy of large language models for efficient multimodal reasoning in radiologic image interpretation.
+39. PMID:41388270 (2025 Dec 12) From needs assessment to usability testing: evaluating the AinoAid™ chatbot for domestic violence support. [also Search 1]
+40. PMID:41382092 (2025 Dec 12) The paradox of agency in psychotherapy: How people with mental distress experience support from generative AI chatbots and human therapists. [also Search 1]
+41. PMID:41324732 (2025 Dec 1) New chapter in pediatric medicine: technological evolution, application, and evaluation system of large language models. [also Search 1]
+42. PMID:41285997 (2025 Nov 24) Value-based large language model agent simulation for mutual evaluation of trust and interpersonal closeness. [also Search 1]
+43. PMID:41270264 (2025 Nov 21) Evaluating the Effectiveness of Generative AI for the Creation of Patient Education Materials on Coronary Heart Disease: A Comparative Study.
+44. PMID:41234618 (2025 Jan-Dec) BetterMood: A human-like AI counseling service for adolescents and young adults. [also Search 1]
+45. PMID:41221268 (2025) Artificial intelligence adoption and corporate ESG performance: evidence from a refined large language model.
+46. PMID:41197517 (2026 Feb) LLM-based pedagogical agent for ICU simulation instructor training: A quasi-experimental study.
+47. PMID:41102216 (2025 Oct 16) Exploring biases related to the use of large language models in a multilingual depression corpus.
+48. PMID:41026689 (2025) Sugar intake trajectories in adolescents: Evaluating behavioral change with group-based trajectory modeling.
+49. PMID:41000411 (2025) Named entity recognition for Chinese electronic medical records by integrating knowledge graph and ClinicalBERT.
+50. PMID:40880528 (2025) How does public digital procurement enhance corporate total factor productivity? The role of industry-university-research collaboration.
+51. PMID:40868395 (2025 Aug 19) Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media.
+52. PMID:40873934 (2025) Attachment Anxiety and Problematic Use of Conversational Artificial Intelligence: Mediation of Emotional Attachment and Moderation of Anthropomorphic Tendencies. [also Search 1]
+53. PMID:40746673 (2025) Determinants of rural middle school students' adoption of AI chatbots for mental health. [also Search 1]
+54. PMID:40606858 (2025) How Well Do Simulated Population Samples with GPT-4 Align with Real Ones? The Case of the Eysenck Personality Questionnaire Revised-Abbreviated Personality Test. [also Search 1]
+55. PMID:40512870 (2025) First-person pronouns as linguistic markers of depression among Brazilian youths.
+56. PMID:40463593 (2025) Enhancing the performance of neurosurgery medical question-answering systems using a multi-task knowledge graph-augmented answer generation model.
+57. PMID:40455759 (2025) Does LLM translation align with translation universals? A cross-genre simplification study on English-Chinese translation based on dependency grammar.
+58. PMID:40424870 (2025 Aug) Investigating the interpretability of ChatGPT in mental health counseling: An analysis of artificial intelligence generated content differentiation. [also Search 1]
+59. PMID:40397922 (2025) Large-scale moral machine experiment on large language models. [also Search 1]
+60. PMID:40379850 (2025 May 16) Large language model comparisons between English and Chinese query performance for cardiovascular prevention. [also Search 1]
+61. PMID:40282614 (2025 Apr 2) Lightweight Pre-Trained Korean Language Model Based on Knowledge Distillation and Low-Rank Factorization.
+62. PMID:40160265 (2025 Apr) Cultural Variation in Attitudes Toward Social Chatbots. [also Search 1]
+63. PMID:40148331 (2025 Mar 27) Bilingual Dialogue Dataset with Personality and Emotion Annotations for Personality Recognition in Education.
+64. PMID:39854354 (2025) Low-resource MobileBERT for emotion recognition in imbalanced text datasets mitigating challenges with limited resources. [also Search 1]
+65. PMID:39752663 (2025 Jan 3) Development and Evaluation of a Mental Health Chatbot Using ChatGPT 4.0: Mixed Methods User Experience Study With Korean Users.
+66. PMID:39497638 (2026 Oct) Ethical and Regulatory Challenges of Generative Artificial Intelligence in Healthcare: A Chinese Perspective.
+67. PMID:39330068 (2024 Aug 29) Language Statistics at Different Spatial, Temporal, and Grammatical Scales.
+68. PMID:39259341 (2024 Sep 11) Analysis of Responses of GPT-4 V to the Japanese National Clinical Engineer Licensing Examination. [also Search 1]
+69. PMID:39217782 (2024 Dec) Colour/shape-taste correspondences across three languages in ChatGPT.
+70. PMID:39169090 (2024 Aug 21) Strong and weak alignment of large language models with human values. [also Search 1]
+71. PMID:38959061 (2024 Jul 3) News Media Framing of Suicide Circumstances and Gender: Mixed Methods Analysis.
+72. PMID:38854920 (2024 Jan-Dec) Assessing usability of intelligent guidance chatbots in Chinese hospitals: Cross-sectional study. [also Search 1]
+73. PMID:38131050 (2023) Multi3Generation: Multitask, Multilingual, and Multimodal Language Generation.
+74. PMID:38092821 (2023 Dec 13) Harnessing ChatGPT and GPT-4 for evaluating the rheumatology questions of the Spanish access exam to specialized medical training. [also Search 1]
+75. PMID:37780059 (2023 Jan-Dec) Changes in patient perceptions regarding ChatGPT-written explanations on lifestyle modifications for preventing urolithiasis recurrence. [also Search 1]
+76. PMID:37537126 (2023 Sep) Success of ChatGPT, an AI language model, in taking the French language version of the European Board of Ophthalmology examination: A novel approach to medical knowledge assessment. [also Search 1]
+77. PMID:37290040 (2023 Dec 28) Democratizing the Development of Chatbots to Improve Public Health: Feasibility Study of COVID-19 Misinformation.
+78. PMID:37271176 (2023 Jul 24) Understanding computational dialogue understanding. [also Search 1]
+79. PMID:35071147 (2021) The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture.
+80. PMID:35603227 (2021) What makes you continuously use chatbot services? Evidence from chinese online travel agencies. [also Search 1]

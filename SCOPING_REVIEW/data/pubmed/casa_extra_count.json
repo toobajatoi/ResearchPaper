@@ -1,0 +1,7 @@
+{
+  "search_date": "2026-09-29",
+  "name": "casa_extra",
+  "count": 11,
+  "querytranslation": "\"CASA\"[Title/Abstract] AND (\"anthropomorph*\"[Title/Abstract] OR \"chatbot*\"[Title/Abstract] OR \"language model*\"[Title/Abstract] OR \"LLM\"[Title/Abstract] OR \"LLMs\"[Title/Abstract]) AND 2020/01/01:2026/09/29[Date - Publication]",
+  "term": "(CASA[tiab] AND (anthropomorph*[tiab] OR chatbot*[tiab] OR \"language model*\"[tiab] OR LLM[tiab] OR LLMs[tiab])) AND (\"2020/01/01\"[dp] : \"2026/09/29\"[dp])"
+}

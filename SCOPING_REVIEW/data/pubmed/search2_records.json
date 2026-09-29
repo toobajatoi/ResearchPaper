@@ -1,0 +1,681 @@
+{
+  "search_date": "2026-09-29",
+  "name": "search2",
+  "count": 80,
+  "overlap_with_search1": [
+    "42775852",
+    "42656298",
+    "42600040",
+    "42482727",
+    "42055983",
+    "42051326",
+    "42022410",
+    "41892920",
+    "41811800",
+    "41776164",
+    "41717650",
+    "41388270",
+    "41382092",
+    "41324732",
+    "41285997",
+    "41234618",
+    "40873934",
+    "40746673",
+    "40606858",
+    "40424870",
+    "40397922",
+    "40379850",
+    "40160265",
+    "39854354",
+    "39259341",
+    "39169090",
+    "38854920",
+    "38092821",
+    "37780059",
+    "37537126",
+    "37271176",
+    "35603227"
+  ],
+  "items": [
+    {
+      "pmid": "42775852",
+      "title": "Parental Attachment Anxiety and Adolescents' Authentic Self-Disclosure to Generative AI: The Roles of Rumination, Depression, and Gender.",
+      "authors": "Yue Y; Wang P; Li B; Sun Y; Wang J; Yin L",
+      "source": "Health Commun",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1080/10410236.2026.2734161"
+    },
+    {
+      "pmid": "42656298",
+      "title": "Addicted to AI? Prevalence and psychological drivers of generative AI dependency among pre-service teachers.",
+      "authors": "Jiang B; Wang Z",
+      "source": "Front Psychol",
+      "pubdate": "2026",
+      "doi": "10.3389/fpsyg.2026.1922716"
+    },
+    {
+      "pmid": "42638723",
+      "title": "Quality, readability, and clinical-risk signals of default public-interface LLM responses to vascular and perioperative patient questions: a cross-sectional snapshot.",
+      "authors": "Zhong W; Zhang Y; Huang Y; Yang J; Zheng G; Li Q; Li G; Liu Q",
+      "source": "Front Public Health",
+      "pubdate": "2026",
+      "doi": "10.3389/fpubh.2026.1905883"
+    },
+    {
+      "pmid": "42600040",
+      "title": "Relational intelligence in AI chatbots: Examining the trust-engagement-emotion-social presence model using PLS-SEM and fsQCA.",
+      "authors": "Wang Y; Safeer AA; Zhou Y",
+      "source": "PLoS One",
+      "pubdate": "2026",
+      "doi": "10.1371/journal.pone.0356073"
+    },
+    {
+      "pmid": "42507678",
+      "title": "Evaluating the cultural alignment of multilingual LLMs in typical Japanese workplace scenarios.",
+      "authors": "Gao Z; Shimizu N; Fujita S; Peng S; Wakamiya S; Aramaki E",
+      "source": "PLoS One",
+      "pubdate": "2026",
+      "doi": "10.1371/journal.pone.0338524"
+    },
+    {
+      "pmid": "42482727",
+      "title": "'She lifted me up': kinship construction in human-AI resilient communication among Chinese users.",
+      "authors": "Li Y; Luo M; Ren H",
+      "source": "Front Psychol",
+      "pubdate": "2026",
+      "doi": "10.3389/fpsyg.2026.1832594"
+    },
+    {
+      "pmid": "42477680",
+      "title": "Language-dependent performance variation in large language models for dental trauma management: a comparative evaluation of ChatGPT-5.2, Gemini 3.0, and Claude 4.5 Sonnet.",
+      "authors": "Öz H; Dundar M",
+      "source": "BMC Oral Health",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1186/s12903-026-09191-9"
+    },
+    {
+      "pmid": "42466203",
+      "title": "GMTW-Ro: a deterministic benchmark for evaluating large language models on grounded Romanian tasks.",
+      "authors": "Bulzan AŞ; Morariu B; Joldea AR; Cernăzanu-Glăvan D; Cernăzanu-Glăvan C",
+      "source": "Front Artif Intell",
+      "pubdate": "2026",
+      "doi": "10.3389/frai.2026.1831918"
+    },
+    {
+      "pmid": "42391624",
+      "title": "Agreement Between Reasoning-Oriented Generative AI Models and Clinical Educators in Evaluating Japanese Objective Structured Clinical Examination Transcripts: Preliminary Comparative Study.",
+      "authors": "Hirosawa T; Yokose M; Sakamoto T; Hayashi A; Harada Y; Tokumasu K; Mizuta K; Shimizu T",
+      "source": "JMIR Form Res",
+      "pubdate": "2026 Jul 2",
+      "doi": "10.2196/92016"
+    },
+    {
+      "pmid": "42358891",
+      "title": "Large-language-models for pediatric diagnosis: Performance evaluation using real-world clinical notes from common and rare cases.",
+      "authors": "Launes C; Esteller-Cucala P; Alvarez-Estape M; Cano I; Pino R; González-Grado C; Aldemira-Liz A; Logroño J; Mascías C; do-Olmo J; Isla J; Cossio Y; Garcia-Cuyas F",
+      "source": "Pediatr Investig",
+      "pubdate": "2026 Jun",
+      "doi": "10.1002/ped4.70053"
+    },
+    {
+      "pmid": "42323560",
+      "title": "Evaluation of ChatGPT-4o's and DeepSeek R1's responses to urological problems: a comparative study.",
+      "authors": "Lu H; Zhang Y; Wang Z; Zhao Y; Liu J; Qiu D; Zhang Y",
+      "source": "BMC Urol",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1186/s12894-026-02228-9"
+    },
+    {
+      "pmid": "42305844",
+      "title": "Tracking the dynamic breakdown of contextual coherence in schizophrenia using language models.",
+      "authors": "Ryu S; Kim JW; Jhon M; Chung YC; Kim SJ; Lee S; Kim JM; Kim SW",
+      "source": "Front Psychiatry",
+      "pubdate": "2026",
+      "doi": "10.3389/fpsyt.2026.1848956"
+    },
+    {
+      "pmid": "42277102",
+      "title": "Culturally-Aware Prompting in conversational AI: supporting perceived communicative effectiveness in cross-cultural teams in Australia.",
+      "authors": "Shen Y; Yang W; Shie AJ",
+      "source": "Sci Rep",
+      "pubdate": "2026 Jun 11",
+      "doi": "10.1038/s41598-026-56781-2"
+    },
+    {
+      "pmid": "42158049",
+      "title": "Child-Directed Speech Facilitates Semantic Role Learning: A Machine Learning Approach.",
+      "authors": "Huber E; Bickel B; Stoll S",
+      "source": "Open Mind (Camb)",
+      "pubdate": "2026",
+      "doi": "10.1162/OPMI.a.351"
+    },
+    {
+      "pmid": "42120739",
+      "title": "A triaxial benchmark for assessing responses from large language models in traditional Chinese medicine.",
+      "authors": "Huang T; Lu L; Chen J; Liu L; He J; Zhao Y; Tang W; Xu J",
+      "source": "Commun Med (Lond)",
+      "pubdate": "2026 May 12",
+      "doi": "10.1038/s43856-026-01631-5"
+    },
+    {
+      "pmid": "42094955",
+      "title": "TCM-DiffRAG: personalized syndrome differentiation reasoning method for traditional Chinese medicine based on knowledge graph and chain of thought.",
+      "authors": "Li J; Chang Y; Liu Y; Wang Y; Ou B; Lin S; Tang SK; Zheng L",
+      "source": "Front Med (Lausanne)",
+      "pubdate": "2026",
+      "doi": "10.3389/fmed.2026.1804478"
+    },
+    {
+      "pmid": "42055983",
+      "title": "When 'Yes' Meets 'But': Can AI Comprehend Contradictory Humor in Comics?",
+      "authors": "Liang T; Hu Z; Li J; Zhang H; Lu Y; Zhou Y; Qiao Y; Liu D; Peng J; Ma J; Yin Y",
+      "source": "IEEE Trans Pattern Anal Mach Intell",
+      "pubdate": "2026 Sep",
+      "doi": "10.1109/TPAMI.2026.3688191"
+    },
+    {
+      "pmid": "42051326",
+      "title": "Co-designing animated videos to explain large language models and their use in healthcare and research.",
+      "authors": "Remfry E; Chaturvedi J; Markham S; Ford E; Ramasawmy M",
+      "source": "Front Digit Health",
+      "pubdate": "2026",
+      "doi": "10.3389/fdgth.2026.1758463"
+    },
+    {
+      "pmid": "42048380",
+      "title": "Behavioral mechanisms and learning outcomes of University Students' GAI-assisted learning in human-AI collaboration.",
+      "authors": "Zeng Y; Kang J; Piaw CY",
+      "source": "PLoS One",
+      "pubdate": "2026",
+      "doi": "10.1371/journal.pone.0346696"
+    },
+    {
+      "pmid": "42043690",
+      "title": "Performance evaluation of large language models in real-world perinatal medication consultations: a cross-sectional study.",
+      "authors": "Wang R; Li Y; Feng X; Feng X",
+      "source": "Int J Clin Pharm",
+      "pubdate": "2026 Aug",
+      "doi": "10.1007/s11096-026-02138-8"
+    },
+    {
+      "pmid": "42022410",
+      "title": "The effects of responsiveness, perceived warmth, and anthropomorphism on university students' use of conversational AI for learning support: a chain mediation analysis based on S-O-R framework.",
+      "authors": "Lan Y; Liu S; Chen H",
+      "source": "Front Psychol",
+      "pubdate": "2026",
+      "doi": "10.3389/fpsyg.2026.1769964"
+    },
+    {
+      "pmid": "41982350",
+      "title": "Simulating the \"cultural other\": the impact of GenAI interlocutors on EFL learners' intercultural communicative competence, speaking anxiety, and learning engagement.",
+      "authors": "Qu Z; Chen L",
+      "source": "Front Psychol",
+      "pubdate": "2026",
+      "doi": "10.3389/fpsyg.2026.1799695"
+    },
+    {
+      "pmid": "41961980",
+      "title": "Context-Aware Sentence Classification of Radiology Reports Using Synthetic Data: Development and Validation Study.",
+      "authors": "Kikuchi T; Yamagishi Y; Yamamoto K; Akashi T; Mori H; Makimoto H; Kohro T",
+      "source": "J Med Internet Res",
+      "pubdate": "2026 Apr 10",
+      "doi": "10.2196/86365"
+    },
+    {
+      "pmid": "41932978",
+      "title": "ModernBERT is more efficient than conventional BERT for chest CT findings classification in Japanese radiology reports.",
+      "authors": "Yamagishi Y; Kikuchi T; Hanaoka S; Yoshikawa T; Abe O",
+      "source": "Sci Rep",
+      "pubdate": "2026 Apr 3",
+      "doi": "10.1038/s41598-026-44292-z"
+    },
+    {
+      "pmid": "41892920",
+      "title": "Talking Head Generation Through Generative Models and Cross-Modal Synthesis Techniques.",
+      "authors": "Nisar H; Masood S; Malik Z; Abid A",
+      "source": "J Imaging",
+      "pubdate": "2026 Mar 10",
+      "doi": "10.3390/jimaging12030119"
+    },
+    {
+      "pmid": "41880603",
+      "title": "Improving Retrieval Augmented Generation for Health Care by Fine-Tuning Clinical Embedding Models: Development and Evaluation Study.",
+      "authors": "Arzideh K; Schäfer H; Idrissi-Yaghir A; Schmidt CS; Eryilmaz B; Bahn M; Turki AT; Pollok OB; Hartmann EM; Winnekens P; Borys K; Haubold J; Nensa F; Hosch R",
+      "source": "J Med Internet Res",
+      "pubdate": "2026 Mar 25",
+      "doi": "10.2196/82997"
+    },
+    {
+      "pmid": "41876633",
+      "title": "Performance of DeepSeek in the generation of in-training examination questions in radiology resident education.",
+      "authors": "Qian W; Li K; Cao F; Wang S; Mao J; Wang C",
+      "source": "NPJ Digit Med",
+      "pubdate": "2026 Mar 24",
+      "doi": "10.1038/s41746-026-02568-8"
+    },
+    {
+      "pmid": "41869487",
+      "title": "Does ChatGPT Show Gender Bias When Drafting Letters of Recommendation for Applicants to Orthopaedic Surgery Residency Programs?",
+      "authors": "Mao E; Glenn ER; LaPorte DM; Hsu NN; Thompson JM; Aiyer A",
+      "source": "JB JS Open Access",
+      "pubdate": "2026 Jan-Mar",
+      "doi": "10.2106/JBJS.OA.25.00319"
+    },
+    {
+      "pmid": "41811800",
+      "title": "Community size rather than grammatical complexity better predicts Large Language Model accuracy in a novel Wug Test.",
+      "authors": "Pantelidou N; Leivada E; Montero R; Morosi P",
+      "source": "PLoS One",
+      "pubdate": "2026",
+      "doi": "10.1371/journal.pone.0343164"
+    },
+    {
+      "pmid": "41776164",
+      "title": "Co-designing DESI-Heart: Conversational agent based self-care intervention for people with cardiovascular disease.",
+      "authors": "Sebastian AT; Daryabeygi-Khotbehsara R; Jansons P; Maddison R",
+      "source": "J Telemed Telecare",
+      "pubdate": "2026 Sep",
+      "doi": "10.1177/1357633X261424170"
+    },
+    {
+      "pmid": "41741518",
+      "title": "Large language models show Dunning-Kruger-like effects in multilingual fact-checking.",
+      "authors": "Qazi IA; Khan Z; Ghani A; Raza AA; Qazi ZA; Sajjad W; Ali A; Javaid A; Sohail MA; Azeemi AH",
+      "source": "Sci Rep",
+      "pubdate": "2026 Feb 25",
+      "doi": "10.1038/s41598-026-39046-w"
+    },
+    {
+      "pmid": "41720888",
+      "title": "Evaluation of cross-ethnic emotion recognition capabilities in multimodal large language models using the reading the mind in the eyes test.",
+      "authors": "Refoua E; Elyoseph Z; Piterman D; Geller A; Meinlschmidt G; Hadar Shoval D",
+      "source": "Sci Rep",
+      "pubdate": "2026 Feb 20",
+      "doi": "10.1038/s41598-026-39292-y"
+    },
+    {
+      "pmid": "41719880",
+      "title": "Unraveling the multimodal features and audience responses to thinspiration videos: A computational analysis of Chinese TikTok (Douyin).",
+      "authors": "Tao Y; Sun S; He J",
+      "source": "Body Image",
+      "pubdate": "2026 Mar",
+      "doi": "10.1016/j.bodyim.2026.102053"
+    },
+    {
+      "pmid": "41717650",
+      "title": "MedQA-MA: A Moroccan Arabic medical question-answering dataset for virtual healthcare assistants and large language models.",
+      "authors": "Ouali S; Garouani SE",
+      "source": "Data Brief",
+      "pubdate": "2026 Apr",
+      "doi": "10.1016/j.dib.2026.112537"
+    },
+    {
+      "pmid": "41709874",
+      "title": "Political censorship in large language models originating from China.",
+      "authors": "Pan J; Xu X",
+      "source": "PNAS Nexus",
+      "pubdate": "2026 Feb",
+      "doi": "10.1093/pnasnexus/pgag013"
+    },
+    {
+      "pmid": "41605184",
+      "title": "Interactive Visual Assessment for Text-to-Image Generation Models.",
+      "authors": "Mi X; Tang F; Cao J; Sheng Q; Huang Z; Li P; Liu Y; Lee TY",
+      "source": "IEEE Trans Vis Comput Graph",
+      "pubdate": "2026 Apr",
+      "doi": "10.1109/TVCG.2026.3658714"
+    },
+    {
+      "pmid": "41594191",
+      "title": "Automated Tumor and Node Staging from Esophageal Cancer Endoscopic Ultrasound Reports: A Benchmark of Advanced Reasoning Models with Prompt Engineering and Cross-Lingual Evaluation.",
+      "authors": "Hu X; Feng L; Jing B; Luo L; Tan W; Li Y; Zheng X; Huang X; Lin S; Wu H; He L",
+      "source": "Diagnostics (Basel)",
+      "pubdate": "2026 Jan 9",
+      "doi": "10.3390/diagnostics16020215"
+    },
+    {
+      "pmid": "41576425",
+      "title": "Relationship between resource utilization and diagnostic accuracy of large language models for efficient multimodal reasoning in radiologic image interpretation.",
+      "authors": "Han T; Lee JH; Jeong WK; Shin J; Roh YH; Kim MJ",
+      "source": "Eur J Radiol",
+      "pubdate": "2026 Mar",
+      "doi": "10.1016/j.ejrad.2026.112677"
+    },
+    {
+      "pmid": "41388270",
+      "title": "From needs assessment to usability testing: evaluating the AinoAid™ chatbot for domestic violence support.",
+      "authors": "Vogt C; Giljohann S; Köpsel N; González Cabezas S; Houtsonen J; Izaguirre Choperena A; Juusela A; Tananau Blumenschein E; Vassileva M",
+      "source": "BMC Womens Health",
+      "pubdate": "2025 Dec 12",
+      "doi": "10.1186/s12905-025-04202-3"
+    },
+    {
+      "pmid": "41382092",
+      "title": "The paradox of agency in psychotherapy: How people with mental distress experience support from generative AI chatbots and human therapists.",
+      "authors": "Dai X; Leng LL; Liu Y; Huang YT; Wong DFK",
+      "source": "BMC Psychiatry",
+      "pubdate": "2025 Dec 12",
+      "doi": "10.1186/s12888-025-07671-w"
+    },
+    {
+      "pmid": "41324732",
+      "title": "New chapter in pediatric medicine: technological evolution, application, and evaluation system of large language models.",
+      "authors": "Zhu S; Xie Y; Tang Y; Yu Z; Zhao R; Dong X",
+      "source": "Eur J Pediatr",
+      "pubdate": "2025 Dec 1",
+      "doi": "10.1007/s00431-025-06602-x"
+    },
+    {
+      "pmid": "41285997",
+      "title": "Value-based large language model agent simulation for mutual evaluation of trust and interpersonal closeness.",
+      "authors": "Sakamoto Y; Uchida T; Ishiguro H",
+      "source": "Sci Rep",
+      "pubdate": "2025 Nov 24",
+      "doi": "10.1038/s41598-025-25531-1"
+    },
+    {
+      "pmid": "41270264",
+      "title": "Evaluating the Effectiveness of Generative AI for the Creation of Patient Education Materials on Coronary Heart Disease: A Comparative Study.",
+      "authors": "Jiang X; Liu J; Dai S; Mao X; Cha R; Wu L",
+      "source": "JMIR Form Res",
+      "pubdate": "2025 Nov 21",
+      "doi": "10.2196/78816"
+    },
+    {
+      "pmid": "41234618",
+      "title": "BetterMood: A human-like AI counseling service for adolescents and young adults.",
+      "authors": "Kim DH; Baek S; Lee J; Lee T; Park S; You B; Hur JW; Kim M; Lee CG",
+      "source": "Digit Health",
+      "pubdate": "2025 Jan-Dec",
+      "doi": "10.1177/20552076251392294"
+    },
+    {
+      "pmid": "41221268",
+      "title": "Artificial intelligence adoption and corporate ESG performance: evidence from a refined large language model.",
+      "authors": "Shen L; Li Z; Liang Y; Feng Y; Zhang Z",
+      "source": "Front Artif Intell",
+      "pubdate": "2025",
+      "doi": "10.3389/frai.2025.1691468"
+    },
+    {
+      "pmid": "41197517",
+      "title": "LLM-based pedagogical agent for ICU simulation instructor training: A quasi-experimental study.",
+      "authors": "Liu J; Chen T; Li S; Xia Y; Zhu H; Wu R; Cao Q; Gong X; Wu L",
+      "source": "Nurse Educ Today",
+      "pubdate": "2026 Feb",
+      "doi": "10.1016/j.nedt.2025.106901"
+    },
+    {
+      "pmid": "41102216",
+      "title": "Exploring biases related to the use of large language models in a multilingual depression corpus.",
+      "authors": "Perez-Toro PA; Dineley J; Iniesta R; Zhang Y; Matcham F; Siddi S; Lamers F; Haro JM; Penninx BWJH; Folarin AA; Arias-Vergara T; Orozco-Arroyave JR; Nöth E; Maier A; Wykes T; Vairavan S; Dobson R; Narayan VA; Hotopf M; Cummins N",
+      "source": "Sci Rep",
+      "pubdate": "2025 Oct 16",
+      "doi": "10.1038/s41598-025-19980-x"
+    },
+    {
+      "pmid": "41026689",
+      "title": "Sugar intake trajectories in adolescents: Evaluating behavioral change with group-based trajectory modeling.",
+      "authors": "Lee J; Lee H; Shim SY; Park CG; Lee H",
+      "source": "PLoS One",
+      "pubdate": "2025",
+      "doi": "10.1371/journal.pone.0333389"
+    },
+    {
+      "pmid": "41000411",
+      "title": "Named entity recognition for Chinese electronic medical records by integrating knowledge graph and ClinicalBERT.",
+      "authors": "Xu X; Li Z; Zhang H; Ma K",
+      "source": "Front Artif Intell",
+      "pubdate": "2025",
+      "doi": "10.3389/frai.2025.1634774"
+    },
+    {
+      "pmid": "40880528",
+      "title": "How does public digital procurement enhance corporate total factor productivity? The role of industry-university-research collaboration.",
+      "authors": "Jia K; Qin J; Li Y",
+      "source": "PLoS One",
+      "pubdate": "2025",
+      "doi": "10.1371/journal.pone.0330160"
+    },
+    {
+      "pmid": "40868395",
+      "title": "Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media.",
+      "authors": "Qi H; Fu G; Li J; Song C; Zhai W; Luo D; Liu S; Yu Y; Yang B; Zhao Q",
+      "source": "Bioengineering (Basel)",
+      "pubdate": "2025 Aug 19",
+      "doi": "10.3390/bioengineering12080882"
+    },
+    {
+      "pmid": "40873934",
+      "title": "Attachment Anxiety and Problematic Use of Conversational Artificial Intelligence: Mediation of Emotional Attachment and Moderation of Anthropomorphic Tendencies.",
+      "authors": "Heng S; Zhang Z",
+      "source": "Psychol Res Behav Manag",
+      "pubdate": "2025",
+      "doi": "10.2147/PRBM.S531805"
+    },
+    {
+      "pmid": "40746673",
+      "title": "Determinants of rural middle school students' adoption of AI chatbots for mental health.",
+      "authors": "Li S; Liu L; Wang Y; Deng X",
+      "source": "Front Public Health",
+      "pubdate": "2025",
+      "doi": "10.3389/fpubh.2025.1619535"
+    },
+    {
+      "pmid": "40606858",
+      "title": "How Well Do Simulated Population Samples with GPT-4 Align with Real Ones? The Case of the Eysenck Personality Questionnaire Revised-Abbreviated Personality Test.",
+      "authors": "Ferreira G; Amidei J; Nieto R; Kaltenbrunner A",
+      "source": "Health Data Sci",
+      "pubdate": "2025",
+      "doi": "10.34133/hds.0284"
+    },
+    {
+      "pmid": "40512870",
+      "title": "First-person pronouns as linguistic markers of depression among Brazilian youths.",
+      "authors": "Viduani A; Cosenza V; Fisher HL; Buchweitz C; Mota N; Piccin J; Pereira R; Kohrt BA; Mondelli V; van Heerden A; Araújo RM; Kieling C",
+      "source": "Braz J Psychiatry",
+      "pubdate": "2025",
+      "doi": "10.47626/1516-4446-2024-4058"
+    },
+    {
+      "pmid": "40463593",
+      "title": "Enhancing the performance of neurosurgery medical question-answering systems using a multi-task knowledge graph-augmented answer generation model.",
+      "authors": "Pan T; Shen J; Xu M",
+      "source": "Front Neurosci",
+      "pubdate": "2025",
+      "doi": "10.3389/fnins.2025.1606038"
+    },
+    {
+      "pmid": "40455759",
+      "title": "Does LLM translation align with translation universals? A cross-genre simplification study on English-Chinese translation based on dependency grammar.",
+      "authors": "Jiang Z",
+      "source": "PLoS One",
+      "pubdate": "2025",
+      "doi": "10.1371/journal.pone.0324830"
+    },
+    {
+      "pmid": "40424870",
+      "title": "Investigating the interpretability of ChatGPT in mental health counseling: An analysis of artificial intelligence generated content differentiation.",
+      "authors": "Liu Y; Wang F",
+      "source": "Comput Methods Programs Biomed",
+      "pubdate": "2025 Aug",
+      "doi": "10.1016/j.cmpb.2025.108864"
+    },
+    {
+      "pmid": "40397922",
+      "title": "Large-scale moral machine experiment on large language models.",
+      "authors": "Zaim Bin Ahmad MS; Takemoto K",
+      "source": "PLoS One",
+      "pubdate": "2025",
+      "doi": "10.1371/journal.pone.0322776"
+    },
+    {
+      "pmid": "40379850",
+      "title": "Large language model comparisons between English and Chinese query performance for cardiovascular prevention.",
+      "authors": "Ji H; Wang X; Sia CH; Yap J; Lim ST; Djohan AH; Chang Y; Zhang N; Guo M; Li F; Lim ZW; Wang YX; Sheng B; Wong TY; Cheng S; Yeo KK; Tham YC",
+      "source": "Commun Med (Lond)",
+      "pubdate": "2025 May 16",
+      "doi": "10.1038/s43856-025-00802-0"
+    },
+    {
+      "pmid": "40282614",
+      "title": "Lightweight Pre-Trained Korean Language Model Based on Knowledge Distillation and Low-Rank Factorization.",
+      "authors": "Kim JH; Choi YS",
+      "source": "Entropy (Basel)",
+      "pubdate": "2025 Apr 2",
+      "doi": "10.3390/e27040379"
+    },
+    {
+      "pmid": "40160265",
+      "title": "Cultural Variation in Attitudes Toward Social Chatbots.",
+      "authors": "Folk DP; Wu C; Heine SJ",
+      "source": "J Cross Cult Psychol",
+      "pubdate": "2025 Apr",
+      "doi": "10.1177/00220221251317950"
+    },
+    {
+      "pmid": "40148331",
+      "title": "Bilingual Dialogue Dataset with Personality and Emotion Annotations for Personality Recognition in Education.",
+      "authors": "Liu Z; Xiao Y; Su Z; Ye L; Lu K; Peng X",
+      "source": "Sci Data",
+      "pubdate": "2025 Mar 27",
+      "doi": "10.1038/s41597-025-04836-w"
+    },
+    {
+      "pmid": "39854354",
+      "title": "Low-resource MobileBERT for emotion recognition in imbalanced text datasets mitigating challenges with limited resources.",
+      "authors": "Hussain M; Chen C; Albouq SS; Shinan K; Alanazi F; Iqbal MW; Ashraf MU",
+      "source": "PLoS One",
+      "pubdate": "2025",
+      "doi": "10.1371/journal.pone.0312867"
+    },
+    {
+      "pmid": "39752663",
+      "title": "Development and Evaluation of a Mental Health Chatbot Using ChatGPT 4.0: Mixed Methods User Experience Study With Korean Users.",
+      "authors": "Kang B; Hong M",
+      "source": "JMIR Med Inform",
+      "pubdate": "2025 Jan 3",
+      "doi": "10.2196/63538"
+    },
+    {
+      "pmid": "39497638",
+      "title": "Ethical and Regulatory Challenges of Generative Artificial Intelligence in Healthcare: A Chinese Perspective.",
+      "authors": "Yu L; Zhai X",
+      "source": "J Clin Nurs",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jocn.17493"
+    },
+    {
+      "pmid": "39330068",
+      "title": "Language Statistics at Different Spatial, Temporal, and Grammatical Scales.",
+      "authors": "Sánchez-Puig F; Lozano-Aranda R; Pérez-Méndez D; Colman E; Morales-Guzmán AJ; Rivera Torres PJ; Pineda C; Gershenson C",
+      "source": "Entropy (Basel)",
+      "pubdate": "2024 Aug 29",
+      "doi": "10.3390/e26090734"
+    },
+    {
+      "pmid": "39259341",
+      "title": "Analysis of Responses of GPT-4 V to the Japanese National Clinical Engineer Licensing Examination.",
+      "authors": "Ishida K; Arisaka N; Fujii K",
+      "source": "J Med Syst",
+      "pubdate": "2024 Sep 11",
+      "doi": "10.1007/s10916-024-02103-w"
+    },
+    {
+      "pmid": "39217782",
+      "title": "Colour/shape-taste correspondences across three languages in ChatGPT.",
+      "authors": "Motoki K; Spence C; Velasco C",
+      "source": "Cognition",
+      "pubdate": "2024 Dec",
+      "doi": "10.1016/j.cognition.2024.105936"
+    },
+    {
+      "pmid": "39169090",
+      "title": "Strong and weak alignment of large language models with human values.",
+      "authors": "Khamassi M; Nahon M; Chatila R",
+      "source": "Sci Rep",
+      "pubdate": "2024 Aug 21",
+      "doi": "10.1038/s41598-024-70031-3"
+    },
+    {
+      "pmid": "38959061",
+      "title": "News Media Framing of Suicide Circumstances and Gender: Mixed Methods Analysis.",
+      "authors": "Foriest JC; Mittal S; Kim E; Carmichael A; Lennon N; Sumner SA; De Choudhury M",
+      "source": "JMIR Ment Health",
+      "pubdate": "2024 Jul 3",
+      "doi": "10.2196/49879"
+    },
+    {
+      "pmid": "38854920",
+      "title": "Assessing usability of intelligent guidance chatbots in Chinese hospitals: Cross-sectional study.",
+      "authors": "Yang Y; Liu S; Lei P; Huang Z; Liu L; Tan Y",
+      "source": "Digit Health",
+      "pubdate": "2024 Jan-Dec",
+      "doi": "10.1177/20552076241260504"
+    },
+    {
+      "pmid": "38131050",
+      "title": "Multi3Generation: Multitask, Multilingual, and Multimodal Language Generation.",
+      "authors": "Lloret E; Barreiro A; Bhatt M; Bugarín-Diz A; Modoni GE; Silberztein M; Calixto I; Korvel G; Diamantaras K; Katsalis A; Turuta O; Russo I; Erdem A",
+      "source": "Open Res Eur",
+      "pubdate": "2023",
+      "doi": "10.12688/openreseurope.16307.2"
+    },
+    {
+      "pmid": "38092821",
+      "title": "Harnessing ChatGPT and GPT-4 for evaluating the rheumatology questions of the Spanish access exam to specialized medical training.",
+      "authors": "Madrid-García A; Rosales-Rosado Z; Freites-Nuñez D; Pérez-Sancristóbal I; Pato-Cour E; Plasencia-Rodríguez C; Cabeza-Osorio L; Abasolo-Alcázar L; León-Mateos L; Fernández-Gutiérrez B; Rodríguez-Rodríguez L",
+      "source": "Sci Rep",
+      "pubdate": "2023 Dec 13",
+      "doi": "10.1038/s41598-023-49483-6"
+    },
+    {
+      "pmid": "37780059",
+      "title": "Changes in patient perceptions regarding ChatGPT-written explanations on lifestyle modifications for preventing urolithiasis recurrence.",
+      "authors": "Kim SH; Tae JH; Chang IH; Kim TH; Myung SC; Nguyen TT; Choi J; Kim JH; Kim JW; Lee YS; Choi SY",
+      "source": "Digit Health",
+      "pubdate": "2023 Jan-Dec",
+      "doi": "10.1177/20552076231203940"
+    },
+    {
+      "pmid": "37537126",
+      "title": "Success of ChatGPT, an AI language model, in taking the French language version of the European Board of Ophthalmology examination: A novel approach to medical knowledge assessment.",
+      "authors": "Panthier C; Gatinel D",
+      "source": "J Fr Ophtalmol",
+      "pubdate": "2023 Sep",
+      "doi": "10.1016/j.jfo.2023.05.006"
+    },
+    {
+      "pmid": "37290040",
+      "title": "Democratizing the Development of Chatbots to Improve Public Health: Feasibility Study of COVID-19 Misinformation.",
+      "authors": "Powell L; Nour R; Sleibi R; Al Suwaidi H; Zary N",
+      "source": "JMIR Hum Factors",
+      "pubdate": "2023 Dec 28",
+      "doi": "10.2196/43120"
+    },
+    {
+      "pmid": "37271176",
+      "title": "Understanding computational dialogue understanding.",
+      "authors": "Wahlster W",
+      "source": "Philos Trans A Math Phys Eng Sci",
+      "pubdate": "2023 Jul 24",
+      "doi": "10.1098/rsta.2022.0049"
+    },
+    {
+      "pmid": "35071147",
+      "title": "The Terms of \"You(s)\": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture.",
+      "authors": "Ollier J; Nißen M; von Wangenheim F",
+      "source": "Front Public Health",
+      "pubdate": "2021",
+      "doi": "10.3389/fpubh.2021.691595"
+    },
+    {
+      "pmid": "35603227",
+      "title": "What makes you continuously use chatbot services? Evidence from chinese online travel agencies.",
+      "authors": "Li L; Lee KY; Emokpae E; Yang SB",
+      "source": "Electron Mark",
+      "pubdate": "2021",
+      "doi": "10.1007/s12525-020-00454-z"
+    }
+  ]
+}

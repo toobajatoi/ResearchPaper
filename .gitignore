@@ -11,4 +11,13 @@ SCOPING_REVIEW/data/fulltext/passages/
 SCOPING_REVIEW/data/fulltext/oa_attempts/
 SCOPING_REVIEW/data/pubmed/retained_abstracts.json
 SCOPING_REVIEW/data/pubmed/retained_abstracts.txt
+SCOPING_REVIEW/data/pubmed/search2_kept_abstracts.txt
 SCOPING_REVIEW/data/hmc/hmc_oai_records.json
+SCOPING_REVIEW/data/acl/anthology+abstracts.bib.gz
+SCOPING_REVIEW/data/fulltext/arxiv/
+SCOPING_REVIEW/data/acl/search1_keep_abstracts.txt
+SCOPING_REVIEW/data/openalex/*checkpoint.json
+SCOPING_REVIEW/data/openalex/*_raw.json
+SCOPING_REVIEW/data/openalex/search1_narrow_anthropomorph_llm.csv
+SCOPING_REVIEW/data/publisher_search/ieee_page1.json
+SCOPING_REVIEW/data/publisher_search/acm_page1.html

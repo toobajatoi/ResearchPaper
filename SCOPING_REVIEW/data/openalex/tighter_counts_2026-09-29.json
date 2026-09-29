@@ -1,0 +1,20 @@
+{
+  "search_date": "2026-09-29",
+  "counts": {
+    "title_abstract_anthropomorph_and_llm": {
+      "field": "title_and_abstract.search",
+      "count": 1411,
+      "query": "(anthropomorphism OR anthropomorphic OR anthropomorphised OR anthropomorphized) AND (\"large language model\" OR \"large language models\" OR LLM OR LLMs OR \"generative AI\" OR \"generative artificial intelligence\")"
+    },
+    "title_only_anthropomorph_and_llm": {
+      "field": "title.search",
+      "count": 125,
+      "query": "(anthropomorphism OR anthropomorphic OR anthropomorphised OR anthropomorphized) AND (\"large language model\" OR \"large language models\" OR LLM OR LLMs OR \"generative AI\" OR \"generative artificial intelligence\")"
+    },
+    "title_only_blockA_loose_not_run": {
+      "field": "title.search",
+      "count": 5260,
+      "query": "(anthropomorphism OR anthropomorphic OR anthropomorphised OR anthropomorphized)"
+    }
+  }
+}

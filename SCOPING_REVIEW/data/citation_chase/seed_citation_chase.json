@@ -1,0 +1,2000 @@
+{
+  "devrio_2025": {
+    "doi": "10.1145/3706598.3714038",
+    "found": true,
+    "openalex_id": "https://openalex.org/W4407632385",
+    "title": "A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies",
+    "cited_by_count": 28,
+    "referenced_saved": 66,
+    "citing_saved": 29,
+    "citing_capped": false,
+    "referenced_works": [
+      {
+        "openalex_id": "https://openalex.org/W2085028749",
+        "doi": "https://doi.org/10.1007/s10488-013-0528-y",
+        "year": 2013,
+        "title": "Purposeful Sampling for Qualitative Data Collection and Analysis in Mixed Method Implementation Research"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3133702157",
+        "doi": "https://doi.org/10.1145/3442188.3445922",
+        "year": 2021,
+        "title": "On the Dangers of Stochastic Parrots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2115040353",
+        "doi": "https://doi.org/10.1037/0033-295x.114.4.864",
+        "year": 2007,
+        "title": "On seeing human: A three-factor theory of anthropomorphism."
+      },
+      {
+        "openalex_id": "https://openalex.org/W4367310920",
+        "doi": "https://doi.org/10.1001/jamainternmed.2023.1838",
+        "year": 2023,
+        "title": "Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2156897926",
+        "doi": "https://doi.org/10.1145/191666.191703",
+        "year": 1994,
+        "title": "Computers are social actors"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2031112152",
+        "doi": "https://doi.org/10.2307/3322115",
+        "year": 1994,
+        "title": "What Is a Case? Exploring the Foundations of Social Inquiry"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2020650674",
+        "doi": "https://doi.org/10.1017/cbo9780511620836",
+        "year": 1983,
+        "title": "Language and Social Identity"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2021641437",
+        "doi": "https://doi.org/10.1016/s0921-8890(02)00374-3",
+        "year": 2003,
+        "title": "Anthropomorphism and the social robot"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2405187948",
+        "doi": "https://doi.org/10.1145/2858036.2858288",
+        "year": 2016,
+        "title": "\"Like Having a Really Bad PA\""
+      },
+      {
+        "openalex_id": "https://openalex.org/W4213145388",
+        "doi": "https://doi.org/10.1093/oso/9780192845290.001.0001",
+        "year": 2022,
+        "title": "Human-Centered AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2906579211",
+        "doi": "https://doi.org/10.1162/coli_a_00368",
+        "year": 2020,
+        "title": "The Design and Implementation of XiaoIce, an Empathetic Social Chatbot"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4283170666",
+        "doi": "https://doi.org/10.1145/3531146.3533088",
+        "year": 2022,
+        "title": "Taxonomy of Risks posed by Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2912296668",
+        "doi": "https://doi.org/10.1201/9781410615862",
+        "year": 2007,
+        "title": "The Human-Computer Interaction Handbook"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2499526086",
+        "doi": "https://doi.org/10.1037/xap0000092",
+        "year": 2016,
+        "title": "Almost human: Anthropomorphism increases trust resilience in cognitive agents."
+      },
+      {
+        "openalex_id": "https://openalex.org/W2162417293",
+        "doi": "https://doi.org/10.1111/j.1460-2466.2006.00318.x",
+        "year": 2006,
+        "title": "Can Robots Manifest Personality?: An Empirical Test of Personality Recognition, Social Responses, and Social Presence in Human\u2013Robot Interaction"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2165542916",
+        "doi": "https://doi.org/10.1007/978-3-642-34103-8_20",
+        "year": 2012,
+        "title": "Anthropomorphism and Human Likeness in the Design of Robots and Human-Robot Interaction"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3164564970",
+        "doi": "https://doi.org/10.1287/isre.2021.1015",
+        "year": 2021,
+        "title": "Estimating the Impact of \u201cHumanizing\u201d Customer Service Chatbots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W1270658374",
+        "doi": "https://doi.org/10.1007/978-3-319-22668-2_19",
+        "year": 2015,
+        "title": "Using Affinity Diagrams to Evaluate Interactive Prototypes"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2152536828",
+        "doi": "https://doi.org/10.1145/1514095.1514158",
+        "year": 2009,
+        "title": "How anthropomorphism affects empathy toward robots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2260848322",
+        "doi": "https://doi.org/10.1007/s12369-016-0338-y",
+        "year": 2016,
+        "title": "Blurring Human\u2013Machine Distinctions: Anthropomorphic Appearance in Social Robots as a Threat to Human Distinctiveness"
+      },
+      {
+        "openalex_id": "https://openalex.org/W1968697026",
+        "doi": "https://doi.org/10.1075/is.8.3.11tur",
+        "year": 2007,
+        "title": "Authenticity in the age of digital companions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3048870688",
+        "doi": "https://doi.org/10.1080/08874417.2020.1788473",
+        "year": 2020,
+        "title": "Do We Trust in AI? Role of Anthropomorphism and Intelligence"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2066165856",
+        "doi": "https://doi.org/10.1080/03637759209376270",
+        "year": 1992,
+        "title": "Communication: Inherently strategic and primarily automatic"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2083103089",
+        "doi": "https://doi.org/10.1037//0022-3514.70.4.820",
+        "year": 1996,
+        "title": "Perceiving interpersonal conflict and reacting to it: The case for agreeableness."
+      },
+      {
+        "openalex_id": "https://openalex.org/W2973907375",
+        "doi": "https://doi.org/10.1007/s11023-019-09506-6",
+        "year": 2019,
+        "title": "The Rhetoric and Reality of Anthropomorphism in Artificial Intelligence"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3153161395",
+        "doi": "https://doi.org/10.1075/is.8.3.04kah",
+        "year": 2007,
+        "title": "What is a Human?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2999685709",
+        "doi": "https://doi.org/10.1007/978-3-030-39540-7_3",
+        "year": 2020,
+        "title": "Privacy Concerns in Chatbot Interactions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3126354626",
+        "doi": "https://doi.org/10.7551/mitpress/13373.001.0001",
+        "year": 2021,
+        "title": "How Humans Judge Machines"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3187653187",
+        "doi": "https://doi.org/10.1145/3479515",
+        "year": 2021,
+        "title": "Exploring Interactions Between Trust, Anthropomorphism, and Relationship Development in Voice Assistants"
+      },
+      {
+        "openalex_id": "https://openalex.org/W1556575888",
+        "doi": "https://doi.org/10.1017/cbo9780511809880.017",
+        "year": 2004,
+        "title": "Language ideology and language prejudice"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3213705313",
+        "doi": "https://doi.org/10.1093/cje/beab040",
+        "year": 2021,
+        "title": "Social positioning theory"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4366547575",
+        "doi": "https://doi.org/10.1145/3544548.3580719",
+        "year": 2023,
+        "title": "Trust, Comfort and Relatability: Understanding Black Older Adults\u2019 Perceptions of Chatbot Design for Health Information Seeking"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2996348799",
+        "doi": "https://doi.org/10.1007/s10796-019-09969-z",
+        "year": 2019,
+        "title": "\u201cCan Computer Based Human-Likeness Endanger Humanness?\u201d \u2013 A Philosophical and Ethical Perspective on Digital Assistants Expressing Feelings They Can\u2019t Have\u201d"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4225105901",
+        "doi": "https://doi.org/10.1145/3491102.3517527",
+        "year": 2022,
+        "title": "\u201cLook! It\u2019s a Computer Program! It\u2019s an Algorithm! It\u2019s AI!\u201d: Does Terminology Affect Human Perceptions and Evaluations of Algorithmic Decision-Making Systems?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2059122314",
+        "doi": "https://doi.org/10.1145/782896.782913",
+        "year": 2003,
+        "title": "From seduction to fulfillment"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2040715910",
+        "doi": "https://doi.org/10.1016/0164-1212(92)90075-u",
+        "year": 1992,
+        "title": "Human agency and responsible computing: Implications for computer system design"
+      },
+      {
+        "openalex_id": "https://openalex.org/W1995513609",
+        "doi": "https://doi.org/10.1016/j.chb.2012.11.023",
+        "year": 2013,
+        "title": "A note of caution regarding anthropomorphism in HCI agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3036852263",
+        "doi": "https://doi.org/10.1186/s13059-020-02057-5",
+        "year": 2020,
+        "title": "The two languages of science"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2127228898",
+        "doi": "https://doi.org/10.1080/01434632.1982.9994085",
+        "year": 1982,
+        "title": "Language and group identity"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2943794164",
+        "doi": "https://doi.org/10.1145/3290607.3312941",
+        "year": 2019,
+        "title": "A Preliminary Investigation of the Role of Anthropomorphism in Designing Telehealth Bots for Older Adults"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4385573105",
+        "doi": "https://doi.org/10.18653/v1/2022.emnlp-main.215",
+        "year": 2022,
+        "title": "Robots-Dont-Cry: Understanding Falsely Anthropomorphic Utterances in Dialog Systems"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3174256071",
+        "doi": "https://doi.org/10.18653/v1/2021.acl-long.544",
+        "year": 2021,
+        "title": "The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4285263596",
+        "doi": "https://doi.org/10.54941/ahfe1001778",
+        "year": 2022,
+        "title": "An investigation of user perceptions of anthropomorphic linguistic expressions in guidance from home appliances"
+      },
+      {
+        "openalex_id": "https://openalex.org/W2133367045",
+        "doi": "https://doi.org/10.1145/267658.267684",
+        "year": 1997,
+        "title": "Entertaining agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3201775212",
+        "doi": "https://doi.org/10.1007/s11299-021-00281-5",
+        "year": 2021,
+        "title": "Social robots and digital well-being: how to design future artificial agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3178189372",
+        "doi": "https://doi.org/10.21606/drs.2004.121",
+        "year": 2004,
+        "title": "Kinds of Anthropomorphic Form."
+      },
+      {
+        "openalex_id": "https://openalex.org/W4234580964",
+        "doi": "https://doi.org/10.1080/17439760.2016.1262613",
+        "year": 2016,
+        "title": "Thematic analysis"
+      },
+      {
+        "openalex_id": "https://openalex.org/W3205692592",
+        "doi": "https://doi.org/10.17605/osf.io/53q6j",
+        "year": 2019,
+        "title": "Exploring Interactions Between Trust, Anthropomorphism, and Relationship Development in Voice Assistants"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4320085280",
+        "doi": "https://doi.org/10.31235/osf.io/jqxb6",
+        "year": 2023,
+        "title": "Pygmalion Displacement: When Humanising AI Dehumanises Women"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4394806371",
+        "doi": "https://doi.org/10.5210/fm.v29i4.13636",
+        "year": 2024,
+        "title": "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391532364",
+        "doi": "https://doi.org/10.1007/s43681-024-00419-4",
+        "year": 2024,
+        "title": "Anthropomorphism in AI: hype and fallacy"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4396802056",
+        "doi": "https://doi.org/10.1145/3630106.3658941",
+        "year": 2024,
+        "title": "\"I'm Not Sure, But...\": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4399362852",
+        "doi": "https://doi.org/10.1145/3630106.3658956",
+        "year": 2024,
+        "title": "When Human-AI Interactions Become Parasocial: Agency and Anthropomorphism in Affective Design"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4389263544",
+        "doi": "https://doi.org/10.3389/frobt.2023.1271610",
+        "year": 2023,
+        "title": "Real-time emotion generation in human-robot dialogue using large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4389523717",
+        "doi": "https://doi.org/10.18653/v1/2023.emnlp-main.290",
+        "year": 2023,
+        "title": "Mirages. On Anthropomorphism in Dialogue Systems"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4396833439",
+        "doi": "https://doi.org/10.1145/3613905.3650818",
+        "year": 2024,
+        "title": "Believing Anthropomorphism: Examining the Role of Anthropomorphic Cues on Trust in Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391476805",
+        "doi": "https://doi.org/10.1177/09637214231217286",
+        "year": 2024,
+        "title": "Resisting Dehumanization in the Age of \u201cAI\u201d"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404518554",
+        "doi": "https://doi.org/10.1609/aies.v7i1.31613",
+        "year": 2024,
+        "title": "All Too Human? Mapping and Mitigating the Risk from Anthropomorphic AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4395686533",
+        "doi": "https://doi.org/10.1145/3630106.3659040",
+        "year": 2024,
+        "title": "From \"AI\" to Probabilistic Automation: How Does Anthropomorphization of Technical Systems Descriptions Influence Trust?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404631594",
+        "doi": "https://doi.org/10.1007/s11023-024-09705-w",
+        "year": 2024,
+        "title": "How ChatGPT Changed the Media\u2019s Narratives on AI: A Semi-automated Narrative Analysis Through Frame Semantics"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391591617",
+        "doi": "https://doi.org/10.1145/3630106.3658946",
+        "year": 2024,
+        "title": "Beyond Behaviorist Representational Harms: A Plan for Measurement and Mitigation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391213551",
+        "doi": "https://doi.org/10.1145/3624716",
+        "year": 2024,
+        "title": "Anthropomorphism and Human-Robot Interaction"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4402670013",
+        "doi": "https://doi.org/10.18653/v1/2024.findings-acl.761",
+        "year": 2024,
+        "title": "Understanding the Impacts of Language Technologies\u2019 Performance Disparities on African American Language Speakers"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4387708086",
+        "doi": "https://doi.org/10.1145/3626185",
+        "year": 2023,
+        "title": "Robots\u2019 \u201cWoohoo\u201d and \u201cArgh\u201d Can Enhance Users\u2019 Emotional and Social Perceptions: An Exploratory Study on Non-lexical Vocalizations and Non-linguistic Sounds"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392646322",
+        "doi": "https://doi.org/10.1145/3610978.3640747",
+        "year": 2024,
+        "title": "Using Robot Social Agency Theory to Understand Robots' Linguistic Anthropomorphism"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401042727",
+        "doi": "https://doi.org/10.18653/v1/2024.naacl-long.61",
+        "year": 2024,
+        "title": "\u201cOne-Size-Fits-All\u201d? Examining Expectations around What Constitute \u201cFair\u201d or \u201cGood\u201d NLG System Behaviors"
+      }
+    ],
+    "citing_works": [
+      {
+        "openalex_id": "https://openalex.org/W4407012997",
+        "doi": "https://doi.org/10.1038/s44271-025-00376-6",
+        "year": 2026,
+        "title": "Metaphors of AI indicate that people increasingly perceive AI as warm and human-like"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411505929",
+        "doi": "https://doi.org/10.1145/3729176.3729204",
+        "year": 2025,
+        "title": "What Does Success Look Like? Catalyzing Meeting Intentionality with AI-Assisted Prospective Reflection"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7125696892",
+        "doi": "https://doi.org/10.1186/s40359-026-04047-x",
+        "year": 2026,
+        "title": "Psychological and technological predictors of AI literacy profiles: a latent profile analysis among Chinese college students"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7164895476",
+        "doi": "https://doi.org/10.1038/s44277-026-00065-0",
+        "year": 2026,
+        "title": "Characterizing the spiral: potential mechanisms in AI-associated delusions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7166522683",
+        "doi": "https://doi.org/10.1109/educon67543.2026.11574165",
+        "year": 2026,
+        "title": "The Psychology of Learning from Machines: Anthropomorphic AI and the Paradox of Automation in Education"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7119495441",
+        "doi": "https://doi.org/10.1038/s44271-025-00376-6",
+        "year": 2026,
+        "title": "Metaphors of AI indicate that people increasingly perceive AI as warm and human-like"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416813118",
+        "doi": "https://doi.org/10.1080/10572252.2025.2593840",
+        "year": 2025,
+        "title": "Anthropomorphizing Artificial Intelligence: A Corpus Study of Mental Verbs Used with AI and ChatGPT"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154019823",
+        "doi": "https://doi.org/10.1145/3772318.3791005",
+        "year": 2026,
+        "title": "Beyond Disposition: AI Knowledge Predicts Anthropomorphization of a Language Model Better Than Personality Traits in Lay and Expert Populations"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154144912",
+        "doi": "https://doi.org/10.1145/3772318.3790468",
+        "year": 2026,
+        "title": "Chaplains' Reflections on the Design and Usage of AI for Conversational Care"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417132445",
+        "doi": "https://doi.org/10.1109/istas65609.2025.11269646",
+        "year": 2025,
+        "title": "The Role of Robotic Response Speed in De-anthropomorphisation of AI Chatbots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154090109",
+        "doi": "https://doi.org/10.1145/3772318.3793192",
+        "year": 2026,
+        "title": "What is Digital Wellbeing? A Leverage Points Framework to Guide Research and Action"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154149282",
+        "doi": "https://doi.org/10.1145/3772318.3791657",
+        "year": 2026,
+        "title": "Good Fences Make Good Learning: How Self-Directed Language Learners Navigate LLM Delegation Decisions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412884610",
+        "doi": "https://doi.org/10.31548/hspedagog/2.2025.88",
+        "year": 2025,
+        "title": "From manipulation to expression: The philosophical shift to natural language interfaces"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4413193662",
+        "doi": "https://doi.org/10.2139/ssrn.5375608",
+        "year": 2025,
+        "title": "Policy Considerations for Socially Interactive AI Agents: A Systematic Literature Review"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415274332",
+        "doi": "https://doi.org/10.1145/3715070.3749272",
+        "year": 2025,
+        "title": "\"Was there Bias in your Response?\": LLM Anthropomorphic Traits in Context of Ability Bias Questioning"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7138167690",
+        "doi": "https://doi.org/10.1007/s00112-026-02362-6",
+        "year": 2026,
+        "title": "KI-Chatbots und Suizidalit\u00e4t bei Jugendlichen"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7153877310",
+        "doi": "https://doi.org/10.1145/3772363.3798646",
+        "year": 2026,
+        "title": "Blame as Sensemaking: A Computational Mapping of Target Framings Across Online AI Discourse"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7164991019",
+        "doi": "https://doi.org/10.1145/3834580.3838755",
+        "year": 2026,
+        "title": "When AI Says \"I have been in similar situations\": Synthetic Lived Experience in Peer-like Caregiver Support"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7165636960",
+        "doi": "https://doi.org/10.1145/3805689.3812377",
+        "year": 2026,
+        "title": "AI Automatons: AI Systems Intended to Imitate Humans"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7166522104",
+        "doi": "https://doi.org/10.1145/3805689.3812282",
+        "year": 2026,
+        "title": "Safety Theater in Anthropomorphic AI: Why We Need to Shift from Safety to Accountability Narratives"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7166679199",
+        "doi": "https://doi.org/10.1007/978-981-95-8023-1_5",
+        "year": 2026,
+        "title": "Refining the Ethical Guidelines for Conversational AI by Distinguishing Human Communication from Human\u2013AI Interaction"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7167512760",
+        "doi": "https://doi.org/10.1007/978-3-032-29596-5_15",
+        "year": 2026,
+        "title": "AugCog-LLM Anthropomorphic Language Index: A Transparent LIWC-22 Measure of Implicit Anthropomorphism in Human\u2013LLM Interaction"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7172318834",
+        "doi": "https://doi.org/10.1177/20563051261469393",
+        "year": 2026,
+        "title": "Anthropomorphizing AI: Perceptions, Interpretations, and the Humanization of Generative AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7196963736",
+        "doi": "https://doi.org/10.1007/s12652-026-05109-z",
+        "year": 2026,
+        "title": "ExpressionCueLens: a cross-cultural analysis of human-AI companion conversations on social media"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7204099268",
+        "doi": "https://doi.org/10.1051/shsconf/202623602010",
+        "year": 2026,
+        "title": "A Study of Language Practices in Human-Ai Interaction: A Case Study of Posts from the Douban \u201cHuman-Ai Romance\u201d Community"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7212002703",
+        "doi": "https://doi.org/10.1007/s43681-026-01346-2",
+        "year": 2026,
+        "title": "What does the correlation between the anthropomorphisation of technologies and the automation of humans mean?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7212391571",
+        "doi": "https://doi.org/10.1007/978-3-032-24819-0_2",
+        "year": 2026,
+        "title": "Generative AI Technologies, Techniques and Tensions: A Primer"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7214234157",
+        "doi": "https://doi.org/10.54392/ijll2636",
+        "year": 2026,
+        "title": "When Alignment becomes Reinforcement: Linguistic Mechanisms of Epistemic Drift in Human-LLM Dialogue"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7214241673",
+        "doi": "https://doi.org/10.54392/ijll2637",
+        "year": 2026,
+        "title": "Embodied Conceptualisation of Emotion Metaphors: A Cognitive Semantic Analysis of English, Hindi, Khortha and Marwari"
+      }
+    ]
+  },
+  "cheng_2025": {
+    "doi": "10.18653/v1/2025.acl-long.1259",
+    "found": true,
+    "openalex_id": "https://openalex.org/W4412889949",
+    "title": "Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems",
+    "cited_by_count": 7,
+    "referenced_saved": 0,
+    "citing_saved": 8,
+    "citing_capped": false,
+    "referenced_works": [],
+    "citing_works": [
+      {
+        "openalex_id": "https://openalex.org/W7140705274",
+        "doi": "https://doi.org/10.1126/science.aec8352",
+        "year": 2026,
+        "title": "Sycophantic AI decreases prosocial intentions and promotes dependence"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407012997",
+        "doi": "https://doi.org/10.1038/s44271-025-00376-6",
+        "year": 2026,
+        "title": "Metaphors of AI indicate that people increasingly perceive AI as warm and human-like"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7119495441",
+        "doi": "https://doi.org/10.1038/s44271-025-00376-6",
+        "year": 2026,
+        "title": "Metaphors of AI indicate that people increasingly perceive AI as warm and human-like"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154019823",
+        "doi": "https://doi.org/10.1145/3772318.3791005",
+        "year": 2026,
+        "title": "Beyond Disposition: AI Knowledge Predicts Anthropomorphization of a Language Model Better Than Personality Traits in Lay and Expert Populations"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416594247",
+        "doi": "https://doi.org/10.1007/s00146-025-02757-1",
+        "year": 2025,
+        "title": "\u2018AI lost the prompt!\u2019 Replacing \u2018AI hallucination\u2019 to distinguish between mere errors and irregularities"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7153975658",
+        "doi": "https://doi.org/10.1145/3772318.3790806",
+        "year": 2026,
+        "title": "Caught in a Mafia Romance: How Users Explore Intimate Narratives with Chatbots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7165636960",
+        "doi": "https://doi.org/10.1145/3805689.3812377",
+        "year": 2026,
+        "title": "AI Automatons: AI Systems Intended to Imitate Humans"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7203923786",
+        "doi": "https://doi.org/10.1007/s13347-026-01168-4",
+        "year": 2026,
+        "title": "Communicative Action in the Age of Artificial Intelligence: Theorizing LLMs as Communicative and Strategic Agents"
+      }
+    ]
+  },
+  "shanahan_2023": {
+    "doi": "10.1038/s41586-023-06647-8",
+    "found": true,
+    "openalex_id": "https://openalex.org/W4388488609",
+    "title": "Role play with large language models",
+    "cited_by_count": 454,
+    "referenced_saved": 13,
+    "citing_saved": 200,
+    "citing_capped": true,
+    "referenced_works": [
+      {
+        "openalex_id": "https://openalex.org/W3133702157",
+        "doi": "https://doi.org/10.1145/3442188.3445922",
+        "year": 2021,
+        "title": "On the Dangers of Stochastic Parrots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4387835442",
+        "doi": "https://doi.org/10.1145/3586183.3606763",
+        "year": 2023,
+        "title": "Generative Agents: Interactive Simulacra of Human Behavior"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4388488609",
+        "doi": "https://doi.org/10.1038/s41586-023-06647-8",
+        "year": 2023,
+        "title": "Role play with large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4385567134",
+        "doi": "https://doi.org/10.18653/v1/2022.findings-emnlp.423",
+        "year": 2022,
+        "title": "Language Models as Agent Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4244417226",
+        "doi": "https://doi.org/10.7312/perk14280",
+        "year": 2007,
+        "title": "Hollywood Science"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4226278401",
+        "doi": "https://doi.org/10.48550/arxiv.2203.02155",
+        "year": 2022,
+        "title": "Discernment and Social Learning as a Companion Training Layer"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4384918448",
+        "doi": "https://doi.org/10.48550/arxiv.2307.09288",
+        "year": 2023,
+        "title": "Behavioral Safety and Context Retention of Large Language Models in a Longitudinal ICU Simulation under Offline Conditions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4304195432",
+        "doi": "https://doi.org/10.48550/arxiv.2210.03629",
+        "year": 2022,
+        "title": "Distributing Accountability, Not Capability: Phase Separation and the LLM Workflow Quadrant in Autonomous AI Agent Architectures"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4320165837",
+        "doi": "https://doi.org/10.48550/arxiv.2302.04761",
+        "year": 2023,
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4363671832",
+        "doi": "https://doi.org/10.48550/arxiv.2304.03442",
+        "year": 2023,
+        "title": "Generative Agents: Interactive Simulacra of Human Behavior"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4298181573",
+        "doi": "https://doi.org/10.48550/arxiv.2209.14375",
+        "year": 2022,
+        "title": "Improving alignment of dialogue agents via targeted human judgements"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4385436553",
+        "doi": "https://doi.org/10.48550/arxiv.2307.15217",
+        "year": 2023,
+        "title": "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4312050653",
+        "doi": "https://doi.org/10.48550/arxiv.2212.09251",
+        "year": 2022,
+        "title": "Discovering Language Model Behaviors with Model-Written Evaluations"
+      }
+    ],
+    "citing_works": [
+      {
+        "openalex_id": "https://openalex.org/W4388488609",
+        "doi": "https://doi.org/10.1038/s41586-023-06647-8",
+        "year": 2023,
+        "title": "Role play with large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4393149408",
+        "doi": "https://doi.org/10.1016/j.techsoc.2024.102521",
+        "year": 2024,
+        "title": "Drivers of generative AI adoption in higher education through the lens of the Theory of Planned Behaviour"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410202262",
+        "doi": "https://doi.org/10.1016/j.patter.2025.101260",
+        "year": 2025,
+        "title": "Unleashing the potential of prompt engineering for large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401533174",
+        "doi": "https://doi.org/10.1287/orsc.2023.18430",
+        "year": 2024,
+        "title": "The Crowdless Future? Generative AI and Creative Problem-Solving"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4402901320",
+        "doi": "https://doi.org/10.1057/s41599-024-03611-3",
+        "year": 2024,
+        "title": "Large language models empowered agent-based modeling and simulation: a survey and perspectives"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405995927",
+        "doi": "https://doi.org/10.1038/s41591-024-03328-5",
+        "year": 2025,
+        "title": "An evaluation framework for clinical use of large language models in patient interaction tasks"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408145721",
+        "doi": "https://doi.org/10.3390/math13050856",
+        "year": 2025,
+        "title": "Hallucination Mitigation for Retrieval-Augmented Large Language Models: A Review"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391724817",
+        "doi": "https://doi.org/10.14722/ndss.2024.24188",
+        "year": 2024,
+        "title": "MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410431873",
+        "doi": "https://doi.org/10.1073/pnas.2415898122",
+        "year": 2025,
+        "title": "The benefits and dangers of anthropomorphic conversational agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410827098",
+        "doi": "https://doi.org/10.1057/s41599-025-04532-5",
+        "year": 2025,
+        "title": "Why human\u2013AI relationships need socioaffective alignment"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404826238",
+        "doi": "https://doi.org/10.1007/s00146-024-02127-3",
+        "year": 2024,
+        "title": "On the creativity of large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401847921",
+        "doi": "https://doi.org/10.1038/s41746-024-01219-0",
+        "year": 2024,
+        "title": "A scoping review of large language model based approaches for information extraction from radiology reports"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407775365",
+        "doi": "https://doi.org/10.1177/16094069251322346",
+        "year": 2025,
+        "title": "\u201cConversing\u201d With Qualitative Data: Enhancing Qualitative Research Through Large Language Models (LLMs)"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4403687389",
+        "doi": "https://doi.org/10.1016/j.trd.2024.104470",
+        "year": 2024,
+        "title": "ChatEV: Predicting electric vehicle charging demand as natural language processing"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411497629",
+        "doi": "https://doi.org/10.1038/s41562-025-02242-1",
+        "year": 2025,
+        "title": "Cultural tendencies in generative AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4400720339",
+        "doi": "https://doi.org/10.1016/j.ijinfomgt.2024.102824",
+        "year": 2024,
+        "title": "Conceptualizing generative AI as style engines: Application archetypes and implications"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404518047",
+        "doi": "https://doi.org/10.2196/59439",
+        "year": 2024,
+        "title": "Mitigating Cognitive Biases in Clinical Decision-Making Through Multi-Agent Conversations Using Large Language Models: Simulation Study"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4395689022",
+        "doi": "https://doi.org/10.2196/56569",
+        "year": 2024,
+        "title": "The Role of Humanization and Robustness of Large Language Models in Conversational Artificial Intelligence for Individuals With Depression: A Critical Analysis"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410382764",
+        "doi": "https://doi.org/10.1093/jcr/ucaf012",
+        "year": 2025,
+        "title": "Ideation with Generative AI\u2014in Consumer Research and Beyond"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391673398",
+        "doi": "https://doi.org/10.1145/3613904.3642229",
+        "year": 2024,
+        "title": "ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391682754",
+        "doi": "https://doi.org/10.1016/j.neuron.2024.01.016",
+        "year": 2024,
+        "title": "Data science opportunities of large language models for neuroscience and biomedicine"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415070954",
+        "doi": "https://doi.org/10.1016/j.patter.2025.101370",
+        "year": 2025,
+        "title": "Toward large reasoning models: A survey of reinforced reasoning with large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407598256",
+        "doi": "https://doi.org/10.1016/j.jmsy.2025.01.018",
+        "year": 2025,
+        "title": "ChatCNC: Conversational machine monitoring via large language model and real-time data retrieval augmented generation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392939433",
+        "doi": "https://doi.org/10.1038/s41598-024-56648-4",
+        "year": 2024,
+        "title": "STELA: a community-centred approach to norm elicitation for AI alignment"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407928447",
+        "doi": "https://doi.org/10.1038/s41539-025-00301-w",
+        "year": 2025,
+        "title": "On opportunities and challenges of large multimodal foundation models in education"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405288437",
+        "doi": "https://doi.org/10.1115/1.4067388",
+        "year": 2024,
+        "title": "Elicitron: A Large Language Model Agent-Based Simulation Framework for Design Requirements Elicitation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407406911",
+        "doi": "https://doi.org/10.1016/j.jare.2025.02.011",
+        "year": 2025,
+        "title": "AI-enabled language models (LMs) to large language models (LLMs) and multimodal large language models (MLLMs) in drug discovery and development"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4396706095",
+        "doi": "https://doi.org/10.1007/s43681-024-00451-4",
+        "year": 2024,
+        "title": "Safeguarding human values: rethinking US law for generative AI\u2019s societal impacts"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4396832765",
+        "doi": "https://doi.org/10.1145/3613904.3642081",
+        "year": 2024,
+        "title": "Understanding the Role of Large Language Models in Personalizing and Scaffolding Strategies to Combat Academic Procrastination"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410289083",
+        "doi": "https://doi.org/10.1016/j.autcon.2025.106257",
+        "year": 2025,
+        "title": "Multimodal framework integrating multiple large language model agents for intelligent geotechnical design"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4399700216",
+        "doi": "https://doi.org/10.1016/j.omtn.2024.102255",
+        "year": 2024,
+        "title": "Large language model to multimodal large language model: A journey to shape the biological macromolecules to biological sciences and medicine"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414065237",
+        "doi": "https://doi.org/10.1038/s43588-025-00846-1",
+        "year": 2025,
+        "title": "Urban planning in the era of large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7134947688",
+        "doi": "https://doi.org/10.1038/s44220-026-00595-8",
+        "year": 2026,
+        "title": "Technological folie \u00e0 deux: feedback loops between AI chatbots and mental health"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406205485",
+        "doi": "https://doi.org/10.1016/j.jnlest.2025.100301",
+        "year": 2025,
+        "title": "On large language models safety, security, and privacy: A survey"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4400142639",
+        "doi": "https://doi.org/10.1145/3643834.3660729",
+        "year": 2024,
+        "title": "Understanding Human-AI Workflows for Generating Personas"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414128359",
+        "doi": "https://doi.org/10.1145/3764113",
+        "year": 2025,
+        "title": "Unique Security and Privacy Threats of Large Language Models: A Comprehensive Survey"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401911676",
+        "doi": "https://doi.org/10.1080/17516234.2024.2386085",
+        "year": 2024,
+        "title": "Generative AI and the future of connectivist learning in higher education"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414333247",
+        "doi": "https://doi.org/10.1038/s41467-025-63913-1",
+        "year": 2025,
+        "title": "Risks of AI scientists: prioritizing safeguarding over autonomy"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411061089",
+        "doi": "https://doi.org/10.3390/pr13061791",
+        "year": 2025,
+        "title": "Recent Advances in Reinforcement Learning for Chemical Process Control"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412177686",
+        "doi": "https://doi.org/10.1186/s12909-025-07614-9",
+        "year": 2025,
+        "title": "Feasibility study of using GPT for history-taking training in medical education: a randomized clinical trial"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392716521",
+        "doi": "https://doi.org/10.1371/journal.pone.0300024",
+        "year": 2024,
+        "title": "Framework-based qualitative analysis of free responses of Large Language Models: Algorithmic fidelity"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392763134",
+        "doi": "https://doi.org/10.1371/journal.pone.0298522",
+        "year": 2024,
+        "title": "Large language models are able to downplay their cognitive abilities to fit the persona they simulate"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412952090",
+        "doi": "https://doi.org/10.1038/d41586-025-02454-5",
+        "year": 2025,
+        "title": "We need a new ethics for a world of AI agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4399391136",
+        "doi": "https://doi.org/10.3233/faia240190",
+        "year": 2024,
+        "title": "LLM-Augmented Agent-Based Modelling for Social Simulations: Challenges and Opportunities"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401845159",
+        "doi": "https://doi.org/10.1016/j.nlp.2024.100099",
+        "year": 2024,
+        "title": "A novel prompting method for few-shot NER via LLMs"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410942332",
+        "doi": "https://doi.org/10.1177/00491241251337316",
+        "year": 2025,
+        "title": "Simulating Subjects: The Promise and Peril of Artificial Intelligence Stand-Ins for Social Agents and Interactions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410951249",
+        "doi": "https://doi.org/10.1016/j.ait.2025.100001",
+        "year": 2025,
+        "title": "Toward LLM-agent-based modeling of transportation systems: A conceptual framework"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404935244",
+        "doi": "https://doi.org/10.1080/0020174x.2024.2434860",
+        "year": 2024,
+        "title": "Simulacra as conscious exotica"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408403178",
+        "doi": "https://doi.org/10.34133/research.0646",
+        "year": 2025,
+        "title": "When Large Language Models Meet Evolutionary Algorithms: Potential Enhancements and Challenges"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4403144637",
+        "doi": "https://doi.org/10.1007/s10676-024-09802-5",
+        "year": 2024,
+        "title": "Large language models and their big bullshit potential"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406729618",
+        "doi": "https://doi.org/10.1109/jbhi.2025.3528526",
+        "year": 2025,
+        "title": "Taming Unleashed Large Language Models With Blockchain for Massive Personalized Reliable Healthcare"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412907334",
+        "doi": "https://doi.org/10.3390/electronics14153064",
+        "year": 2025,
+        "title": "Strengths and Weaknesses of LLM-Based and Rule-Based NLP Technologies and Their Potential Synergies"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4413033826",
+        "doi": "https://doi.org/10.1016/j.technovation.2025.103323",
+        "year": 2025,
+        "title": "Human agents, generative AI, and innovation: A formal model of hybrid creative process"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406447713",
+        "doi": "https://doi.org/10.1038/s41746-024-01422-z",
+        "year": 2025,
+        "title": "Modelling the impact of environmental and social determinants on mental health using generative agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408954469",
+        "doi": "https://doi.org/10.1109/vr59515.2025.00025",
+        "year": 2025,
+        "title": "Exploring Large Language Model-Driven Agents for Environment-Aware Spatial Interactions and Conversations in Virtual Reality Role-Play Scenarios"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7122487524",
+        "doi": "https://doi.org/10.1038/s41568-025-00900-0",
+        "year": 2026,
+        "title": "Artificial intelligence agents in cancer research and oncology"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406869923",
+        "doi": "https://doi.org/10.1007/978-3-031-78952-6_4",
+        "year": 2025,
+        "title": "NeOn-GPT: A Large Language Model-Powered Pipeline for Ontology Learning"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412599472",
+        "doi": "https://doi.org/10.1016/j.ijmedinf.2025.106048",
+        "year": 2025,
+        "title": "Leveraging open-source large language models (LLMs) in scoping reviews: a case study on disability and AI applications"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407134979",
+        "doi": "https://doi.org/10.1145/3716320",
+        "year": 2025,
+        "title": "Reinforced Prompt Personalization for Recommendation with Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408789181",
+        "doi": "https://doi.org/10.1016/j.commtr.2025.100172",
+        "year": 2025,
+        "title": "Modular AI agents for transportation surveys and interviews: Advancing engagement, transparency, and cost efficiency"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410309468",
+        "doi": "https://doi.org/10.1561/3300000050",
+        "year": 2025,
+        "title": "Recommender Systems Meet Large Language Model Agents: A Survey"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414059045",
+        "doi": "https://doi.org/10.1021/acs.jchemed.5c00657",
+        "year": 2025,
+        "title": "Bridging Artificial Intelligence and Real Intelligence: Self-Scaffolding Computational Modeling with Generative AI in Chemistry"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411517545",
+        "doi": "https://doi.org/10.1007/s10869-025-10035-6",
+        "year": 2025,
+        "title": "Participant Interactions with Artificial Intelligence: Using Large Language Models to Generate Research Materials for Surveys and Experiments"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414041124",
+        "doi": "https://doi.org/10.1093/jamiaopen/ooaf097",
+        "year": 2025,
+        "title": "Generative artificial intelligence for automated data extraction from unstructured medical text"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4413459188",
+        "doi": "https://doi.org/10.1177/25152459251357566",
+        "year": 2025,
+        "title": "Six Fallacies in Substituting Large Language Models for Human Participants"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415445025",
+        "doi": "https://doi.org/10.1145/3663547.3746360",
+        "year": 2025,
+        "title": "AccessGuru: Leveraging LLMs to Detect and Correct Web Accessibility Violations in HTML Code"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416182800",
+        "doi": "https://doi.org/10.1016/j.jbvi.2025.e00581",
+        "year": 2025,
+        "title": "From humans to machines: Researching entrepreneurial AI agents built on large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417088107",
+        "doi": "https://doi.org/10.1038/s41467-025-67084-x",
+        "year": 2025,
+        "title": "CASSIA: a multi-agent large language model for automated and interpretable cell annotation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4403931334",
+        "doi": "https://doi.org/10.1016/j.annals.2024.103863",
+        "year": 2024,
+        "title": "Customized language models for tourism management: Implications and future research"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4394972221",
+        "doi": "https://doi.org/10.3390/su16135618",
+        "year": 2024,
+        "title": "Synthetic Participatory Planning of Shared Automated Electric Mobility Systems"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4391896145",
+        "doi": "https://doi.org/10.1002/aaai.12155",
+        "year": 2024,
+        "title": "Generative AI: An AI paradigm shift in the making?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405785037",
+        "doi": "https://doi.org/10.1109/iros58592.2024.10802229",
+        "year": 2024,
+        "title": "SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers\u2019 Driving-thinking Data"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407231813",
+        "doi": "https://doi.org/10.1145/3708359.3712142",
+        "year": 2025,
+        "title": "Designing LLM-simulated Immersive Spaces to Enhance Autistic Children's Social Affordances Understanding in Traffic Settings"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407736938",
+        "doi": "https://doi.org/10.1109/ickg63256.2024.00023",
+        "year": 2024,
+        "title": "Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404202190",
+        "doi": "https://doi.org/10.1016/j.chbah.2024.100103",
+        "year": 2024,
+        "title": "The fluency-based semantic network of LLMs differs from humans"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405613931",
+        "doi": "https://doi.org/10.1016/j.websem.2024.100843",
+        "year": 2024,
+        "title": "On the legal implications of Large Language Model answers: A prompt engineering approach and a view beyond by exploiting Knowledge Graphs"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408022558",
+        "doi": "https://doi.org/10.2196/63058",
+        "year": 2025,
+        "title": "Advancing Clinical Chatbot Validation Using AI-Powered Evaluation With a New 3-Bot Evaluation System: Instrument Validation Study"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408955119",
+        "doi": "https://doi.org/10.1109/vr59515.2025.00063",
+        "year": 2025,
+        "title": "Immersive Tailoring of Embodied Agents Using Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409434559",
+        "doi": "https://doi.org/10.1080/10447318.2025.2475991",
+        "year": 2025,
+        "title": "MindScratch: A Visual Programming Support Tool for Classroom Learning Based on Multimodal Generative AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411234290",
+        "doi": "https://doi.org/10.3390/buildings15122032",
+        "year": 2025,
+        "title": "The Impact of Role-Playing Game Experience on the Sustainable Development of Ancient Architectural Cultural Heritage Tourism: A Mediation Modeling Study Based on S-O-R Theory"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4402018350",
+        "doi": "https://doi.org/10.1007/978-3-031-70418-5_8",
+        "year": 2024,
+        "title": "NL2ProcessOps: Towards LLM-Guided Code Generation for Process Execution"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405602351",
+        "doi": "https://doi.org/10.1109/icsme58944.2024.00022",
+        "year": 2024,
+        "title": "Leveraging Large Vision-Language Model for Better Automatic Web GUI Testing"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410386633",
+        "doi": "https://doi.org/10.1038/s41598-025-01528-8",
+        "year": 2025,
+        "title": "LLM-based robot personality simulation and cognitive system"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401682334",
+        "doi": "https://doi.org/10.1111/japp.12758",
+        "year": 2024,
+        "title": "Something AI Should Tell You \u2013 The Case for Labelling Synthetic Content"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405152794",
+        "doi": "https://doi.org/10.1016/j.ijbiomac.2024.138547",
+        "year": 2024,
+        "title": "Prompt engineering-enabled LLM or MLLM and instigative bioinformatics pave the way to identify and characterize the significant SARS-CoV-2 antibody escape mutations"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412572142",
+        "doi": "https://doi.org/10.3758/s13421-025-01755-4",
+        "year": 2025,
+        "title": "Quantifying uncert-AI-nty: Testing the accuracy of LLMs\u2019 confidence judgments"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401975938",
+        "doi": "https://doi.org/10.1007/s13347-024-00790-4",
+        "year": 2024,
+        "title": "Crossing the Trust Gap in Medical AI: Building an Abductive Bridge for xAI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405219474",
+        "doi": "https://doi.org/10.1093/comjnl/bxae124",
+        "year": 2024,
+        "title": "Can LLMs deeply detect complex malicious queries? A framework for jailbreaking via obfuscating intent"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409889307",
+        "doi": "https://doi.org/10.1145/3706599.3720212",
+        "year": 2025,
+        "title": "LIGS: Developing an LLM-infused Game System for Emergent Narrative"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411359778",
+        "doi": "https://doi.org/10.1109/icpc66645.2025.00039",
+        "year": 2025,
+        "title": "Extracting Formal Specifications From Documents Using LLMS for Test Automation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416330235",
+        "doi": "https://doi.org/10.1007/s10956-025-10262-9",
+        "year": 2025,
+        "title": "NERIF: GPT-4V for Automatic Scoring of Drawn Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408029827",
+        "doi": "https://doi.org/10.1371/journal.pone.0316317",
+        "year": 2025,
+        "title": "Comparing the performance of a large language model and naive human interviewers in interviewing children about a witnessed mock-event"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410708708",
+        "doi": "https://doi.org/10.1016/j.newideapsych.2025.101167",
+        "year": 2025,
+        "title": "Large language models (LLMs) as research Subjects: Status, opportunities and challenges"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412476081",
+        "doi": "https://doi.org/10.1007/s00146-025-02464-x",
+        "year": 2025,
+        "title": "Comparing the persuasiveness of role-playing large language models and human experts on polarized U.S. political issues"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7128017779",
+        "doi": "https://doi.org/10.1016/j.compag.2026.111495",
+        "year": 2026,
+        "title": "Integrating remote sensing data assimilation, deep learning and large language model to interactive yield prediction for wheat breeding"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401723229",
+        "doi": "https://doi.org/10.1007/978-981-97-4581-4_5",
+        "year": 2024,
+        "title": "Exploratory Customer Discovery Through Simulation Using ChatGPT and Prompt Engineering"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409746861",
+        "doi": "https://doi.org/10.1145/3706598.3713273",
+        "year": 2025,
+        "title": "No Evidence for LLMs Being Useful in Problem Reframing"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409749324",
+        "doi": "https://doi.org/10.1145/3706598.3713507",
+        "year": 2025,
+        "title": "Generative Role-Play Communication Training in Virtual Reality for Autistic Individuals: A Study on Job Coach Experiences in Vocational Training Programs"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412033319",
+        "doi": "https://doi.org/10.21061/see.174",
+        "year": 2025,
+        "title": "Interrogating the Use of Large Language Models in Qualitative Research Using the Qualifying Qualitative Research Quality Framework"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414512079",
+        "doi": "https://doi.org/10.3390/buildings15193465",
+        "year": 2025,
+        "title": "Automated Checking of Highway Bridge BIM Models Based on Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417163996",
+        "doi": "https://doi.org/10.1145/3779222",
+        "year": 2025,
+        "title": "Context-Enhanced Vulnerability Detection Based on Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7116074778",
+        "doi": "https://doi.org/10.1017/s026988892510009x",
+        "year": 2025,
+        "title": "Automating agentic collaborative ontology engineering with role-playing simulation of LLM-powered agents and RAG technology"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7125600205",
+        "doi": "https://doi.org/10.1016/j.jmsy.2026.01.011",
+        "year": 2026,
+        "title": "Large language models in human-robot collaboration: A systematic review, trends, and challenges"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7127579577",
+        "doi": "https://doi.org/10.1016/j.jenvman.2026.128816",
+        "year": 2026,
+        "title": "Understanding public perceptions of cultural ecosystem services in urban coastal wetland ecological restoration areas: A social media-based large language model approach"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7128737646",
+        "doi": "https://doi.org/10.1007/s11245-026-10371-z",
+        "year": 2026,
+        "title": "The Sorrows of Young Chatbot Users: Harm and Responsibility in Human-AI Relationships"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7130339238",
+        "doi": "https://doi.org/10.1038/s41586-025-10021-1",
+        "year": 2026,
+        "title": "A roadmap for evaluating moral competence in large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4398182310",
+        "doi": "https://doi.org/10.1007/s43681-024-00488-5",
+        "year": 2024,
+        "title": "AI art and public literacy: the miseducation of Ai-Da the robot"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407819821",
+        "doi": "https://doi.org/10.2196/56973",
+        "year": 2025,
+        "title": "The Impact of ChatGPT Exposure on User Interactions With a Motivational Interviewing Chatbot: Quasi-Experimental Study"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411389168",
+        "doi": "https://doi.org/10.3389/frai.2025.1582287",
+        "year": 2025,
+        "title": "Who speaks next? Multi-party AI discussion leveraging the systematics of turn-taking in Murder Mystery games"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415464202",
+        "doi": "https://doi.org/10.1088/1361-6552/ae0d23",
+        "year": 2025,
+        "title": "Creating a customisable Socratic AI physics tutor"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415819590",
+        "doi": "https://doi.org/10.1016/j.is.2025.102642",
+        "year": 2025,
+        "title": "Enhancing next activity prediction in process mining with Retrieval-Augmented Generation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417067202",
+        "doi": "https://doi.org/10.1016/j.chbr.2025.100901",
+        "year": 2025,
+        "title": "Identifying features that shape perceived consciousness in LLM-based AI: A quantitative study of human responses"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7117304264",
+        "doi": "https://doi.org/10.1111/isj.70027",
+        "year": 2025,
+        "title": "Generative AI Is Neither Just Another IT Artefact nor a Colleague: Methodological Guidance for IS Scholarship"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7133222288",
+        "doi": "https://doi.org/10.1162/tacl_a_00690",
+        "year": 2024,
+        "title": "Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409308613",
+        "doi": "https://doi.org/10.3389/fpsyg.2025.1561420",
+        "year": 2025,
+        "title": "A multidimensional approach to the self in non-human animals through the Pattern Theory of Self"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409722121",
+        "doi": "https://doi.org/10.1145/3706599.3720221",
+        "year": 2025,
+        "title": "Maintaining Long-Distance Relationships with (Mediocre) LLM-based Chatbots: A Collaborative Ethnographic Study"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409827516",
+        "doi": "https://doi.org/10.1016/j.omtn.2025.102546",
+        "year": 2025,
+        "title": "Generative artificial intelligence, integrative bioinformatics, and single-cell analysis reveal Alzheimer\u2019s genetic and immune landscape"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412045061",
+        "doi": "https://doi.org/10.1145/3715668.3736359",
+        "year": 2025,
+        "title": "Using a Large Language Model as Design Material for an Interactive Museum Installation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414522757",
+        "doi": "https://doi.org/10.1016/j.techsoc.2025.103045",
+        "year": 2025,
+        "title": "A counselor-inspired agent framework for AI counselors to enhance client engagement"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416026742",
+        "doi": "https://doi.org/10.1007/s11192-025-05445-5",
+        "year": 2025,
+        "title": "Using language models to label clusters of scientific documents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417259745",
+        "doi": "https://doi.org/10.1136/bmj.r2509",
+        "year": 2025,
+        "title": "AI chatbots and the loneliness crisis"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417322226",
+        "doi": "https://doi.org/10.1007/s11023-025-09754-9",
+        "year": 2025,
+        "title": "Being Pragmatic About Reliance and Trust in Artificial Intelligence"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7104043980",
+        "doi": "https://doi.org/10.1016/j.trd.2025.105069",
+        "year": 2025,
+        "title": "VisionEV: multimodal large language models for spatially aware electric vehicle charging demand prediction using satellite imagery"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7128051654",
+        "doi": "https://doi.org/10.1016/j.cosrev.2026.100916",
+        "year": 2026,
+        "title": "LLM in the middle: A systematic review of threats and mitigations to real-world LLM-based systems"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7140137797",
+        "doi": "https://doi.org/10.3390/soc16030102",
+        "year": 2026,
+        "title": "Artificial Truth: Algorithmic Power, Epistemic Authority, and the Crisis of Democratic Knowledge"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7164895476",
+        "doi": "https://doi.org/10.1038/s44277-026-00065-0",
+        "year": 2026,
+        "title": "Characterizing the spiral: potential mechanisms in AI-associated delusions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410291995",
+        "doi": "https://doi.org/10.1016/j.asoc.2025.113234",
+        "year": 2025,
+        "title": "Personalised healthy food text recommendations through fuzzy linguistic variables: A generative AI-based approach"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414655343",
+        "doi": "https://doi.org/10.3390/data10100156",
+        "year": 2025,
+        "title": "Automated Test Generation Using Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415592237",
+        "doi": "https://doi.org/10.1016/j.ijnss.2025.10.007",
+        "year": 2025,
+        "title": "Large language model-driven agents in nursing practice: A scoping review"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415766174",
+        "doi": "https://doi.org/10.1016/j.drudis.2025.104520",
+        "year": 2025,
+        "title": "Persona-driven generative AI in pharmaceuticals"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7116120743",
+        "doi": "https://doi.org/10.1016/j.jmsy.2025.12.003",
+        "year": 2025,
+        "title": "Industrial Value Symbiont in the context of Industrial Symbiosis: Retrospect and prospect"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4398783254",
+        "doi": "https://doi.org/10.1177/10597123241256754",
+        "year": 2024,
+        "title": "On the Unexpected Abilities of Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392181728",
+        "doi": "https://doi.org/10.1371/journal.pone.0309114",
+        "year": 2024,
+        "title": "Stick to your role! Stability of personal values expressed in large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392650533",
+        "doi": "https://doi.org/10.3390/future2010003",
+        "year": 2024,
+        "title": "Dialogues with AI: Comparing ChatGPT, Bard, and Human Participants\u2019 Responses in In-Depth Interviews on Adolescent Health Care"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401021133",
+        "doi": "https://doi.org/10.1016/j.procs.2024.06.278",
+        "year": 2024,
+        "title": "A prototype of a conversational virtual university support agent powered by a large language model that addresses inquiries about policies in the student handbook"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401210481",
+        "doi": "https://doi.org/10.1109/access.2024.3437195",
+        "year": 2024,
+        "title": "Toward Cognitive Assistance and Prognosis Systems in Power Distribution Grids\u2014Open Issues, Suitable Technologies, and Implementation Concepts"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4399620888",
+        "doi": "https://doi.org/10.1109/iraset60544.2024.10549006",
+        "year": 2024,
+        "title": "A Scoping Review of Large Language Models: Architecture and Applications"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401715150",
+        "doi": "https://doi.org/10.1063/5.0203530",
+        "year": 2024,
+        "title": "Statistics of punctuation in experimental literature\u2014The remarkable case of Finnegans Wake by James Joyce"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405080602",
+        "doi": "https://doi.org/10.1038/s41598-024-81562-0",
+        "year": 2024,
+        "title": "Multiple criteria and statistical sentiment analysis on flooding"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4394911271",
+        "doi": "https://doi.org/10.23919/indiacom61295.2024.10498880",
+        "year": 2024,
+        "title": "Appraising Success of LLM-based Dialogue Agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4399908102",
+        "doi": "https://doi.org/10.1177/10597123241262534",
+        "year": 2024,
+        "title": "The origin and function of external representations"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4401892282",
+        "doi": "https://doi.org/10.3390/e26080716",
+        "year": 2024,
+        "title": "Multifractal Hopscotch in Hopscotch by Julio Cort\u00e1zar"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409046347",
+        "doi": "https://doi.org/10.3389/fpsyg.2025.1572076",
+        "year": 2025,
+        "title": "Narrative coherence in neural language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411133747",
+        "doi": "https://doi.org/10.1080/13574809.2025.2514574",
+        "year": 2025,
+        "title": "Is Generative AI a successor to human-in-the-loop perception and cognition experiments in urban design and planning?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412082200",
+        "doi": "https://doi.org/10.1109/cai64502.2025.00052",
+        "year": 2025,
+        "title": "Ethical Logic in Six Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4396891759",
+        "doi": "https://doi.org/10.1365/s40702-024-01074-3",
+        "year": 2024,
+        "title": "Wissensmanagement f\u00fcr Wartung und Instandhaltung im Verteilnetz \u2013 Konzeption eines Assistenzsystems basierend auf einem Large Language Model"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414355363",
+        "doi": "https://doi.org/10.3390/electronics14183713",
+        "year": 2025,
+        "title": "Educational Evaluation with MLLMs: Framework, Dataset, and Comprehensive Assessment"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404612043",
+        "doi": "https://doi.org/10.1145/3689942.3694745",
+        "year": 2023,
+        "title": "SAM: Foreseeing Inference-Time False Data Injection Attacks on ML-enabled Medical Devices"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406168894",
+        "doi": "https://doi.org/10.1016/j.asoc.2025.112700",
+        "year": 2025,
+        "title": "Semantic-based topic model for public opinion analysis in sudden-onset disasters"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407743846",
+        "doi": "https://doi.org/10.1007/978-3-031-78666-2_15",
+        "year": 2025,
+        "title": "Straight Outta Logs: Can Large Language Models Overcome Preprocessing in Next Event Prediction?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4410314623",
+        "doi": "https://doi.org/10.1115/1.4068664",
+        "year": 2025,
+        "title": "An Large Language Model-Augmented Method to Assist Novice Designers in Divergent Thinking"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411633482",
+        "doi": "https://doi.org/10.1007/s00146-025-02433-4",
+        "year": 2025,
+        "title": "All watched over by machines of loving grace\u2014AI and control, symbolic violence, and the hyperreal"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412673211",
+        "doi": "https://doi.org/10.1007/s43681-025-00800-x",
+        "year": 2025,
+        "title": "Chatbot apologies: beyond bullshit"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4413223202",
+        "doi": "https://doi.org/10.1007/978-981-95-0568-5_5",
+        "year": 2025,
+        "title": "Rehabilitation Exercise Quality Assessment and Feedback Generation Using Large Language Models with Prompt Engineering"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414871527",
+        "doi": "https://doi.org/10.1109/access.2025.3618094",
+        "year": 2025,
+        "title": "Large Language Model-Based Security Situation Awareness for Smart Grid: Framework and Approaches"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415906453",
+        "doi": "https://doi.org/10.1007/s44311-025-00029-1",
+        "year": 2025,
+        "title": "Enhancing declarative business process management availability through generative AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4415974670",
+        "doi": "https://doi.org/10.1016/j.procs.2025.09.167",
+        "year": 2025,
+        "title": "Persona-driven automated extraction of non-functional requirements using LLM agents"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417539309",
+        "doi": "https://doi.org/10.1177/25152459251410153",
+        "year": 2026,
+        "title": "Large Language Models as Psychological Simulators: A Methodological Guide"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7126065035",
+        "doi": "https://doi.org/10.1007/s00146-026-02875-4",
+        "year": 2026,
+        "title": "Personalised LLMs and the risks of the digital twin metaphor"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7153983637",
+        "doi": "https://doi.org/10.1145/3772318.3790722",
+        "year": 2026,
+        "title": "AmongOthers: A Design Speculation for Rethinking AI in Online Social Communities"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405200116",
+        "doi": "https://doi.org/10.1145/3698062.3698096",
+        "year": 2024,
+        "title": "Qualitative Data-Driven Personas: Designing an Interactive System for Creating AI Personas"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411507054",
+        "doi": "https://doi.org/10.1007/978-3-031-95841-0_9",
+        "year": 2025,
+        "title": "Role-Play Large Language Models for Short Behavior Change Interventions: An Exploratory Study on Brief Action Planning"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4413843887",
+        "doi": "https://doi.org/10.25259/ajc_33_2025",
+        "year": 2025,
+        "title": "Predictive methods for the heat of decomposition of reactive chemicals: From CHETAH, QSPR, and quantum chemical calculations to deep learning"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4414948303",
+        "doi": "https://doi.org/10.1038/d41586-025-03222-1",
+        "year": 2025,
+        "title": "AI models that lie, cheat and plot murder: how dangerous are LLMs really?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416368583",
+        "doi": "https://doi.org/10.2196/80607",
+        "year": 2025,
+        "title": "Leveraging Large Language Models for Early Detection of Anomaly Work Injury Cases: Data-Driven Approach to Rehabilitation Efficiency"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416380484",
+        "doi": "https://doi.org/10.1111/jedm.70020",
+        "year": 2025,
+        "title": "Using GPT\u20104 to Augment Imbalanced Data for Automatic Scoring"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416417144",
+        "doi": "https://doi.org/10.3390/publications13040060",
+        "year": 2025,
+        "title": "Preserving Culinary Heritage Through AI: Sustainable Digitisation of Granny Josie\u2019s Notebooks"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4416451695",
+        "doi": "https://doi.org/10.1016/j.chbah.2025.100233",
+        "year": 2025,
+        "title": "Can large language models exhibit cognitive and affective empathy as humans?"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7106283405",
+        "doi": "https://doi.org/10.1007/978-981-95-3343-5_33",
+        "year": 2025,
+        "title": "Self-Prompt Tuning: Enable Autonomous Role-Playing in LLMs"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7117978573",
+        "doi": "https://doi.org/10.1007/978-981-95-5015-9_19",
+        "year": 2026,
+        "title": "Business Process Discovery Through Agentic Generative AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7127448357",
+        "doi": "https://doi.org/10.1016/j.jmsy.2026.01.009",
+        "year": 2026,
+        "title": "CNC-talks: Conversational machine monitoring via large language model and real-time data retrieval augmented generation"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7129091051",
+        "doi": "https://doi.org/10.1093/pnasnexus/pgag029",
+        "year": 2026,
+        "title": "A large-scale evaluation of commonsense knowledge in humans and large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7130840338",
+        "doi": "https://doi.org/10.1080/10494820.2026.2632172",
+        "year": 2026,
+        "title": "From chalkboards to chatbots: generative AI impact on education in emerging economies"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7131234646",
+        "doi": "https://doi.org/10.1109/tifs.2026.3667458",
+        "year": 2026,
+        "title": "Risk-Aware Privacy Preservation for LLM Inference"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7133185020",
+        "doi": "https://doi.org/10.1007/s43681-026-01049-8",
+        "year": 2026,
+        "title": "Ethically enslaving AI"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7146990117",
+        "doi": "https://doi.org/10.3390/ai7040123",
+        "year": 2026,
+        "title": "Design and Evaluation of an AI-Based Conversational Agent for Travel Agencies: Enhancing Training, Assistance, and Operational Efficiency"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7150992056",
+        "doi": "https://doi.org/10.1111/bjet.70067",
+        "year": 2026,
+        "title": "When machines join the moral circle: The persona effect of generative AI agents in collaborative reasoning"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7160834359",
+        "doi": "https://doi.org/10.1017/9781009732000",
+        "year": 2026,
+        "title": "Emerging Questions in AI Welfare"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7165000453",
+        "doi": "https://doi.org/10.1038/s41586-026-10635-z",
+        "year": 2026,
+        "title": "Optical metasurfaces for general vision processing on the edge"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7169613397",
+        "doi": "https://doi.org/10.1007/s10648-026-10202-y",
+        "year": 2026,
+        "title": "When Can AI Models Explain Learning? Validity Criteria for AI as Cognitive Models in Education"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4392765135",
+        "doi": "https://doi.org/10.1016/j.crbiot.2024.100194",
+        "year": 2024,
+        "title": "ChatGPT\u2019s scorecard after the performance in a series of tests conducted at the multi-country level: A pattern of responses of generative artificial intelligence or large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4403460031",
+        "doi": "https://doi.org/10.5406/21521123.61.4.04",
+        "year": 2024,
+        "title": "Towards a Conversational Ethics of Large Language Models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406381194",
+        "doi": "https://doi.org/10.1080/0020174x.2025.2450598",
+        "year": 2025,
+        "title": "On the attribution of confidence to large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407235141",
+        "doi": "https://doi.org/10.3390/e27020177",
+        "year": 2025,
+        "title": "Punctuation Patterns in Finnegans Wake by James Joyce Are Largely Translation-Invariant"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4406260060",
+        "doi": "https://doi.org/10.1109/bibm62325.2024.10821812",
+        "year": 2024,
+        "title": "Predicting Gene Relations with a Graph Transformer Network Integrating DNA, Protein, and Descriptive Data"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4412045197",
+        "doi": "https://doi.org/10.1145/3715668.3735600",
+        "year": 2025,
+        "title": "En-join: Speculative LLM Play for Energy Community Engagement and Sustainability Awareness"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417132612",
+        "doi": "https://doi.org/10.1109/bhi67747.2025.11269555",
+        "year": 2025,
+        "title": "Evaluating Large Multimodal Models for Nutrition Analysis: A New Benchmark Enriched with Contextual Metadata"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7123844493",
+        "doi": "https://doi.org/10.70171/bjt3g968",
+        "year": 2026,
+        "title": "Redacci\u00f3n Acad\u00e9mica Asistida por IA: L\u00edmites, potencial y responsabilidad"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4413321111",
+        "doi": "https://doi.org/10.1109/icetran66854.2025.11114289",
+        "year": 2025,
+        "title": "A Comprehensive Review of LLMs: Architecture, Performance, and Applications"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4417509523",
+        "doi": "https://doi.org/10.1109/aibthings66987.2025.11296187",
+        "year": 2025,
+        "title": "Seeing Beyond Frames: Zero-Shot Pedestrian Intention Prediction with Raw Temporal Video and Multimodal Cues"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4402212237",
+        "doi": "https://doi.org/10.1007/978-3-031-70903-6_8",
+        "year": 2024,
+        "title": "IntentObfuscator: A Jailbreaking Method via Confusing LLM with Prompts"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4390092730",
+        "doi": "https://doi.org/10.1016/j.chbah.2026.100277",
+        "year": 2026,
+        "title": "Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4403585153",
+        "doi": "https://doi.org/10.5753/sbes.2024.3603",
+        "year": 2024,
+        "title": "AutomTest 3.0: An automated test-case generation tool from User Story processing powered with LLMs"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4405787559",
+        "doi": "https://doi.org/10.1109/iros58592.2024.10802251",
+        "year": 2024,
+        "title": "EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407365781",
+        "doi": "https://doi.org/10.1145/3717413.3717415",
+        "year": 2024,
+        "title": "Don't Touch the Power Line - A Proof-of-Concept for Aligned LLM-Based Assistance Systems to Support the Maintenance in the Electricity Distribution System"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4399920813",
+        "doi": "https://doi.org/10.34190/eccws.23.1.2293",
+        "year": 2024,
+        "title": "Risk Assessment of Large Language Models Beyond Apocalyptic Visions"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4404039927",
+        "doi": "https://doi.org/10.3390/s24217097",
+        "year": 2024,
+        "title": "Improving Factuality by Contrastive Decoding with Factual and Hallucination Prompts"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4407846593",
+        "doi": "https://doi.org/10.1063/5.0248520",
+        "year": 2025,
+        "title": "Quantifying patterns of punctuation in modern Chinese prose"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4408878266",
+        "doi": "https://doi.org/10.3389/fagro.2025.1536998",
+        "year": 2025,
+        "title": "Automated analysis and textual summarization of time-varying references in advanced greenhouse climate control"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4411176024",
+        "doi": "https://doi.org/10.1145/3744250",
+        "year": 2025,
+        "title": "CAT-LLM: Style-enhanced Large Language Models with Text Style Definition for Chinese Article-style Transfer"
+      }
+    ]
+  },
+  "ibrahim_2026": {
+    "doi": "10.48550/arxiv.2502.07077",
+    "found": true,
+    "openalex_id": "https://openalex.org/W4407424087",
+    "title": "Multi-turn Evaluation of Anthropomorphic Behaviours in Large Language Models",
+    "cited_by_count": 8,
+    "referenced_saved": 0,
+    "citing_saved": 8,
+    "citing_capped": false,
+    "referenced_works": [],
+    "citing_works": [
+      {
+        "openalex_id": "https://openalex.org/W7134947688",
+        "doi": "https://doi.org/10.1038/s44220-026-00595-8",
+        "year": 2026,
+        "title": "Technological folie \u00e0 deux: feedback loops between AI chatbots and mental health"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7133518382",
+        "doi": "https://doi.org/10.2196/91454",
+        "year": 2026,
+        "title": "It Is the Journey, Not the Destination: Moving From End Points to Trajectories When Assessing Chatbot Mental Health Safety"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7117974172",
+        "doi": "https://doi.org/10.1145/3765766.3765773",
+        "year": 2025,
+        "title": "Linguistic Anthropomorphism in Chatbots: Effects of Style, Topic, and Interaction on Users' Perceptions and Behaviors"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7130515852",
+        "doi": "https://doi.org/10.1007/s10462-026-11517-6",
+        "year": 2026,
+        "title": "Lies, damned lies, and language statistics: a comprehensive review of risks from manipulation, persuasion, and deception with large language models"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154181859",
+        "doi": "https://doi.org/10.1145/3772318.3791346",
+        "year": 2026,
+        "title": "Who Gets to Define Safety? A Systematic Review of How Generative AI Research Addresses Youth Online Safety"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7154005566",
+        "doi": "https://doi.org/10.1145/3772318.3791013",
+        "year": 2026,
+        "title": "Cracking the Case Together: Role Perceptions in Human-AI Mystery Solving Dialogues"
+      },
+      {
+        "openalex_id": "https://openalex.org/W4409699442",
+        "doi": "https://doi.org/10.31235/osf.io/hu4ev_v1",
+        "year": 2025,
+        "title": "Challenges in Personalising AI: From Uniformity to Uniqueness"
+      },
+      {
+        "openalex_id": "https://openalex.org/W7202373933",
+        "doi": "https://doi.org/10.1007/s10676-026-09917-x",
+        "year": 2026,
+        "title": "Large language models (LLMs) as psychotherapists: an analysis based on psychodynamic psychotherapy theory"
+      }
+    ]
+  }
+}

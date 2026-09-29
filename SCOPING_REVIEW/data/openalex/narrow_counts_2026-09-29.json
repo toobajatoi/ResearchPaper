@@ -1,0 +1,14 @@
+{
+  "search_date": "2026-09-29",
+  "field": "title_and_abstract.search",
+  "counts": {
+    "A_and_llm_or_generative_ai": {
+      "count": 7330,
+      "query": "(anthropomorphism OR anthropomorphic OR anthropomorphised OR anthropomorphized OR \"human-like\" OR \"human likeness\" OR \"social presence\" OR \"social cues\" OR \"computers are social actors\" OR \"human-machine communication\") AND (\"large language model\" OR \"large language models\" OR LLM OR LLMs OR \"generative AI\" OR \"generative artificial intelligence\")"
+    },
+    "A_and_llm_or_language_model": {
+      "count": 8458,
+      "query": "(anthropomorphism OR anthropomorphic OR anthropomorphised OR anthropomorphized OR \"human-like\" OR \"human likeness\" OR \"social presence\" OR \"social cues\" OR \"computers are social actors\" OR \"human-machine communication\") AND (\"large language model\" OR \"large language models\" OR LLM OR LLMs OR \"generative AI\" OR \"generative artificial intelligence\" OR \"language model\" OR \"language models\")"
+    }
+  }
+}

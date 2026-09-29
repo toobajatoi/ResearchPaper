@@ -1,6 +1,6 @@
 # Search strategy
 
-**Status:** Proposed. Not executed.
+**Status:** Revised 29 September 2026. Scopus and Web of Science are dropped because this review has no subscription. OpenAlex is the multidisciplinary index. ACM Digital Library and IEEE Xplore are searched on their public websites. PubMed, the CASA extra query, the ACL Anthology metadata filter, and the *Human-Machine Communication* hand search have been run. The runs are in `search_execution_log.md`.
 
 **Date of this document:** 29 September 2026.
 
@@ -97,32 +97,37 @@ Search 2 is a separate result set. Overlap with Search 1 is removed at deduplica
 
 ## 4. Sources
 
-### 4.1 Primary sources
+### 4.0 Change made on 29 September 2026
 
-These five will be searched after you approve the strings.
+Scopus and Web of Science are not available without a subscription. They are removed from the source list. The manuscript will not name them as databases that were searched.
+
+OpenAlex replaces them as the multidisciplinary index. It is free and broader than a publisher index, and it is not Scopus or Web of Science. The first OpenAlex Search 1, which copied the wide Block A and Block B string, returned 11,245 title-and-abstract records. A recount the same day that dropped chatbot terms but kept "human-like" and "social presence" still returned 7,330. The query used for export therefore keeps the title-and-abstract field and requires both of the following:
+
+- an anthropomorphism stem: anthropomorphism, anthropomorphic, anthropomorphised, or anthropomorphized;
+- an LLM or generative-AI term: "large language model", "large language models", LLM, LLMs, "generative AI", or "generative artificial intelligence".
+
+That query returned 1,411 records. It is the OpenAlex identification set. The wider strings are kept in this file so the deviation is visible. "Human-like" and "social presence" are not silently discarded everywhere: they remain in the PubMed and ACL searches.
+
+IEEE Xplore is a primary source, searched on the public website. Downloading a paywalled PDF is a separate step from searching.
+
+### 4.1 Primary sources
 
 | Source | Role | Interface |
 | --- | --- | --- |
-| Scopus | Broad scholarly index, including *Human-Machine Communication* | Advanced search, `TITLE-ABS-KEY` |
-| Web of Science | Core citation index | Topic search `TS=`. The exact citation indexes available on the subscription will be recorded. They will not be guessed. |
-| ACM Digital Library | Computing and HCI, including CHI | ACM Guide to Computing Literature, not the full-text collection alone. Title, abstract, and keyword fields. |
-| ACL Anthology | Computational linguistics | Local filter of the public metadata export, plus a website search used as a check |
+| OpenAlex | Multidisciplinary index in place of Scopus and Web of Science | API filter `title_and_abstract.search`, date 2020-01-01 to the search date |
+| ACM Digital Library | Computing and HCI, including CHI | Public website search. Title, abstract, and keyword fields where the form allows them. |
+| IEEE Xplore | Computing venues not fully covered by ACM | Public website search |
+| ACL Anthology | Computational linguistics | Local filter of the public metadata export |
 | *Human-Machine Communication* | Target journal | Issue-by-issue hand search at https://stars.library.ucf.edu/hmc/ |
 
-The journal's About page lists indexing in Scopus, ProQuest, EBSCO, Google Scholar, Informit, and DOAJ. Web of Science coverage will be checked in the database at search time. The hand search still happens, because keyword queries miss relevant articles in a small journal. Every research article in each issue from Volume 1 (2020) through the latest issue on the search date will be screened. Editorials and news items will be logged and excluded with a reason.
+The hand search still happens, because keyword queries miss relevant articles in a small journal. Every research article in each issue from Volume 1 (2020) through the latest issue on the search date is screened. Editorials and news items are logged and excluded with a reason.
 
-### 4.2 Additional primary source, for your decision
+### 4.2 Sources not searched
 
-**IEEE Xplore** is recommended as a sixth primary source. Conversational-agent and language-model papers are published there in venues that Scopus and ACM do not cover completely. If you approve it, it is searched with Search 1 and Search 2 and its hits enter the PRISMA identification total. If you do not, the manuscript will say IEEE Xplore was not searched.
-
-### 4.3 Access-dependent sources, for your decision
-
-These are relevant and are not assumed to be available:
-
-- Communication & Mass Media Complete (EBSCO), for communication scholarship.
-- PsycINFO, because anthropomorphism is also a psychological construct.
-
-If you have access, say so and they will be added as primary sources with translated strings. If you do not, their absence will be reported as a limit of the search.
+- Scopus.
+- Web of Science.
+- Communication & Mass Media Complete.
+- PsycINFO.
 
 ### 4.4 Supplementary sources
 
@@ -135,7 +140,7 @@ Run only after the primary searches are exported and deduplicated.
 | Google Scholar | Locate a known seed that the primary indexes missed, and check forward citations when Scopus cited-by is incomplete. | The Google Scholar hit count is not a PRISMA identification total. The result list is not stable or fully exportable. |
 | Crossref | Resolve DOIs during charting. | Not a search database for identification. |
 
-Semantic Scholar and OpenAlex are tools for citation chasing and DOI checks. They are not additional primary databases unless the primary exports fail and you approve a substitute.
+OpenAlex is a primary source under section 4.0. Semantic Scholar may still be used for citation chasing when OpenAlex does not return a citing list. Neither one is a substitute for a database that was not searched.
 
 ## 5. Database strings
 

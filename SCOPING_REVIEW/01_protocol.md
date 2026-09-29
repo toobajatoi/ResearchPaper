@@ -2,7 +2,7 @@
 
 ## Anthropomorphism Speaks English: A Scoping Review of Anthropomorphic Communication Cues in Large Language Models and an Agenda for Cross-Lingual Research
 
-**Document status:** Draft. PubMed and the *Human-Machine Communication* hand search have been run. Full-text decisions exist only for the 46 PubMed records with an open PMC text. Eleven PubMed records and 15 journal PDFs are still unread. Subscription databases have not been searched. No evidence matrix and no manuscript exist yet.
+**Document status:** Draft. Screening is assisted by the Cursor agent and has not been verified by the author. OpenAlex, IEEE Xplore, PubMed, ACL Anthology metadata, and the journal hand search have been run. The ACM website blocked the search. Scopus and Web of Science were not searched. A partial evidence matrix exists. No manuscript exists yet.
 
 **Protocol date:** 29 September 2026.
 
@@ -71,21 +71,25 @@ The Peters et al. (2022) author list and pagination were checked against the Pub
 
 ### 3.3 Stages
 
-1. **Protocol.** This document, plus the search strategy in `02_search_strategy.md`. Both are drafts until you approve them. Registration on the Open Science Framework is recommended after approval and before screening. It has not been done.
+1. **Protocol.** This document, plus the search strategy in `02_search_strategy.md`. Registration on the Open Science Framework was not done before screening. Screening began on 29 September 2026. A protocol deposited after that date would be a public record of the plan. It would not be a preregistration, and this review will not apply for the Preregistered badge.
 2. **Search.** Primary databases, the journal hand search, then supplementary citation chasing. The exact date of each search will be recorded when it is run. No search date is assigned in advance.
 3. **Selection.** Title and abstract, then full text, against the eligibility rules below. Reasons will be recorded for every full-text exclusion.
 4. **Charting.** One row per included study in a piloted extraction sheet. Fields are listed in section 7.
 5. **Analysis and presentation.** Descriptive mapping, basic qualitative content analysis of conceptual and measurement themes, comparison of cue taxonomies, and maps of language, method, culture, and cross-lingual gaps. Counts will come only from the screening log.
 6. **Knowledge-user consultation.** JBI treats engagement of knowledge users as part of good practice. This review is sole-authored, and no consultation stage is planned. That is a limitation, not a hidden extra method. It can be added later if you want it.
 
-### 3.4 One reviewer
+### 3.4 Who screens
 
-JBI recommends more than one reviewer for selection and extraction. This review has one author. The limitation will be stated in the manuscript. The checks that will be used are:
+JBI recommends more than one reviewer for selection and extraction. This review has one human author. Title, abstract, and full-text decisions made in this project were assisted by Cursor's coding agent. That assistance is allowed only if it is disclosed and checked.
 
-- eligibility rules written down before screening starts;
-- a pilot of the rules on a small retrieved sample, with the decisions kept;
-- a second pass, by the same author after a gap, of records excluded at full text;
-- an audit trail in `05_screening_log.csv` and `ai_use_log.md`;
+The Method section of the manuscript will say that title and abstract screening was assisted by the Cursor agent, and that inclusion decisions were verified by the author. That second sentence will be written only after the author has checked every included study and a random sample of about 10 percent of the exclusions. The sample is listed in `data/author_verification_sample.csv`. Until that check is recorded, the CRediT role "Investigation" is not yet earned, and the manuscript will not claim that the author verified the decisions.
+
+The other checks stay in place:
+
+- eligibility rules written down before screening;
+- decisions and reasons kept in `data/screening.csv`;
+- a second pass, already done for uncertain PubMed full texts, against the source XML;
+- an audit trail in `ai_use_log.md`;
 - no claim of independent dual screening.
 
 ### 3.5 Critical appraisal
@@ -146,13 +150,13 @@ These are proposed decisions. They need your approval before screening.
 
 The reproducible strings, field codes, and source list are in `02_search_strategy.md`.
 
-**Primary sources:** Scopus; Web of Science; ACM Digital Library (Guide to Computing Literature); ACL Anthology metadata; hand search of *Human-Machine Communication*.
+**Primary sources, revised 29 September 2026:** OpenAlex, searched on title and abstract, as the multidisciplinary index; ACM Digital Library, searched on the public website; IEEE Xplore, searched on the public website; ACL Anthology metadata; hand search of *Human-Machine Communication*. PubMed remains a supplementary health-communication search, not the main index.
 
-**Recommended additional primary source, pending your approval:** IEEE Xplore.
+**Not searched, and not to be named as sources:** Scopus and Web of Science. They need a subscription this review does not have. Their absence is a limitation. It is not filled by pretending OpenAlex is either database.
 
-**Access-dependent sources, pending your approval:** Communication & Mass Media Complete and PsycINFO, if you have access. They are not assumed.
+**Access-dependent sources not searched:** Communication & Mass Media Complete and PsycINFO.
 
-**Supplementary, after the primary search:** backward and forward citation chasing; a narrow PubMed search; Google Scholar only to locate known items and citations that the primary indexes miss. Google Scholar hit counts will not be entered as a PRISMA identification total.
+**Supplementary:** backward and forward citation chasing of included studies, starting with the seed papers; Google Scholar only to locate a known item. Google Scholar hit counts will not be entered as a PRISMA identification total.
 
 **Period:** 1 January 2020 through the date the last search is completed. That date will be written down when the search is run. It is not stated here because the search has not been run.
 
