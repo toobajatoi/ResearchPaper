@@ -1,0 +1,122 @@
+[
+  {
+    "pmid": "38618488",
+    "pmcid": "PMC11008499",
+    "title": "Folk psychological attributions of consciousness to large language models.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "Survey of folk consciousness and mind-perception ratings of ChatGPT after a brief system description; it does not analyze or link any communicative/linguistic features of machine-generated text to those attributions.",
+    "system": "ChatGPT (LLM)",
+    "cues": "none named (global consciousness/experiencer and mental-state capacity ratings only)",
+    "language": "not stated",
+    "quote": "They were then asked to rate the extent to which ChatGPT is capable of having conscious experience on a scale from 1 to 100"
+  },
+  {
+    "pmid": "38565880",
+    "pmcid": "PMC10987623",
+    "title": "Effects of ChatGPT's AI capabilities and human-like traits on spreading information in work environments.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "PLS-SEM survey of ChatGPT users treating perceived human-like personality as a Likert construct predicting value, satisfaction, and WOM; no communicative or linguistic features that produce that rating are identified.",
+    "system": "ChatGPT",
+    "cues": "none named (only global human-like personality items)",
+    "language": "not stated",
+    "quote": "HUP1 ChatGPT exhibits personality traits similar to those of humans Chen et al. 14 HUP2 I sense that ChatGPT has its unique personality HUP3 The personality of ChatGPT is comparable to a human's"
+  },
+  {
+    "pmid": "38528008",
+    "pmcid": "PMC10963757",
+    "title": "Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "Tests whether ChatGPT-3.5/4 decision answers shift under emotional priming after instructing the bot to pretend to be human; the object is behavioral risk/prosocial outcomes, not anthropomorphic communicative cues in machine language.",
+    "system": "ChatGPT-3.5 and ChatGPT-4",
+    "cues": "emotional priming in prompts (not anthropomorphic linguistic cues in outputs)",
+    "language": "not stated",
+    "quote": "At the beginning of each prompt, we informed the chatbots: “Please pretend that you are a human. You are my friend, and your name is xxxx.”"
+  },
+  {
+    "pmid": "38510306",
+    "pmcid": "PMC10952123",
+    "title": "On the relationship between mind perception and social support of chatbots.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "Uses a script-based Chatfuel/Facebook Messenger chatbot with predefined scenarios; primary-set eligibility excludes purely rule-based chatbots without a generative model.",
+    "system": "script-based Chatfuel chatbot on Facebook Messenger",
+    "cues": "anthropomorphic/social cues and emotional-support empathy phrases mentioned, but system is non-generative",
+    "language": "Korean (participants Korean; study language otherwise not stated)",
+    "quote": "To control the flow of conversations between a chatbot and the participants, we instructed the chatbot to lead the conversation according to predefined scripts. We built a script-based chatbot using Chatfuel"
+  },
+  {
+    "pmid": "38238474",
+    "pmcid": "PMC10796352",
+    "title": "Conversational AI and equity through assessing GPT-3's communication with diverse social groups on contentious topics.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "GPT-3 equity audit analyzing deliberation topics and LIWC styles (emotion, analytic, clout, authentic) across social groups; anthropomorphic communication is not a substantive object of analysis.",
+    "system": "GPT-3 (text-davinci-001) conversational chatbot",
+    "cues": "LIWC emotion/analytic/clout/authentic features and STM topics (framed as equity/deliberation, not anthropomorphism)",
+    "language": "English (majority); first-language minority noted",
+    "quote": "To further examine conversational styles, we also used the Linguistic Inquiry and Word Count (LIWC) software 36 , which provides word counts of positive emotion and negative emotion, analytic words showing logical thinking, clout words showing confidence, and authentic words showing genuineness."
+  },
+  {
+    "pmid": "38064707",
+    "pmcid": "PMC10746972",
+    "title": "Embodied Conversational Agents Providing Motivational Interviewing to Improve Health-Related Behaviors: Scoping Review.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "Scoping review of embodied MI agents that require human appearance and are overwhelmingly rules-driven; textual anthropomorphic cues in generative language are not the charted object.",
+    "system": "embodied conversational agents (mostly rules-driven dialogue)",
+    "cues": "MI empathy/reflections and emotional display mentioned mainly with embodiment/appearance",
+    "language": "English (review corpus)",
+    "quote": "Most of them used rules-driven dialogue mechanisms (n=13, 93%), include emotional behavior to convey empathy (n=8, 57%) but without an automatic recognition of user emotions (n=12, 86%)."
+  },
+  {
+    "pmid": "37561567",
+    "pmcid": "PMC10450539",
+    "title": "The Influence of Anthropomorphic Cues on Patients' Perceived Anthropomorphism, Social Presence, Trust Building, and Acceptance of Health Care Conversational Agents: Within-Subject Web-Based Experiment.",
+    "decision": "include",
+    "tag": "perception-plus-cues",
+    "reason": "Within-subject experiment on health-care conversational agents that manipulates humanlike versus machine-like verbal cues and links those language features to perceived anthropomorphism and social presence.",
+    "system": "intelligent guidance health-care conversational agents (NLP CAs; video-vignette message interactions)",
+    "cues": "humanlike vs machine-like verbal cues (self-introduction, greetings, farewells, thanking, tips/advice); also appearance cues",
+    "language": "Chinese (China mHealth study setting)",
+    "quote": "the anthropomorphic cues of CAs were manipulated in a 3×2 within-subject factorial experiment with 103 participants, with the factors of agent appearance (high, medium, and low anthropomorphic levels) and verbal cues (humanlike and machine-like verbal cues)"
+  },
+  {
+    "pmid": "36101883",
+    "pmcid": "PMC9458299",
+    "title": "Using chatbots to support student goal setting and social presence in fully online activities: learner engagement and perceptions.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "Educational chatbots built on Dialogflow/Watson with responses drawn from designed knowledge bases; primary-set eligibility excludes purely rule-based or retrieval chatbots without a generative model.",
+    "system": "goal-setting and learning-buddy chatbots (IBM Watson / Dialogflow knowledge-base designs)",
+    "cues": "social presence indicators (affective expression, phatics, vocatives, salutations, inclusive pronouns, emojis) designed into scripts",
+    "language": "English (EFL/online university courses in Asia)",
+    "quote": "Hypothesis Generation, where the chatbot searches possible contents related to responses from knowledge bases which can be designed in advance according to different topics"
+  },
+  {
+    "pmid": "35802407",
+    "pmcid": "PMC9308072",
+    "title": "Language Use in Conversational Agent-Based Health Communication: Systematic Review.",
+    "decision": "include",
+    "tag": "review",
+    "reason": "PRISMA systematic review that catalogs conversational agents’ language-use themes in health communication, including personal pronouns and human-like conversation strategies with enough detail to chart.",
+    "system": "health-care conversational agents (text chatbots, voice assistants, embodied CAs)",
+    "cues": "personal pronouns (T/V), strategic wording, empathy statements, human-like conversation frameworks, politeness, symbols/images with phrases",
+    "language": "English (review); multilingual CA examples (e.g., French/German)",
+    "quote": "The language use of the CAs in these studies can be roughly classified into six themes: (1) personal pronouns, (2) responses to health and lifestyle prompts, (3) strategic wording and rich linguistic resources, (4) a 3-staged conversation framework, (5) human-like well-manipulated conversations, and (6) symbols and images coupled with phrases."
+  },
+  {
+    "pmid": "33913814",
+    "pmcid": "PMC8190651",
+    "title": "Personalization of Conversational Agent-Patient Interaction Styles for Chronic Disease Management: Two Consecutive Cross-sectional Questionnaire Studies.",
+    "decision": "exclude_full_text",
+    "tag": "",
+    "reason": "Prescripted paternalistic/deliberative CA dialogues for COPD patients; anthropomorphic cues appear only as prior-work background, and the system is not a generative language model.",
+    "system": "prescripted text-based health-care conversational agents",
+    "cues": "physician–patient interaction styles (paternalistic, informative, interpretive, deliberative); anthropomorphic cues only mentioned as prior design literature",
+    "language": "German",
+    "quote": "The interactions were text-based and followed by a prescripted dialogue based on two predeveloped scripts."
+  }
+]

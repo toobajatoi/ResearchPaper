@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+
+# Discontinued API-experiment workbook
+collection_sheet_pilot_api.xlsx
+
+# Downloaded article texts. These are the publishers' files, not project notes.
+SCOPING_REVIEW/data/fulltext/pmc/
+SCOPING_REVIEW/data/fulltext/passages/
+SCOPING_REVIEW/data/fulltext/oa_attempts/
+SCOPING_REVIEW/data/pubmed/retained_abstracts.json
+SCOPING_REVIEW/data/pubmed/retained_abstracts.txt
+SCOPING_REVIEW/data/hmc/hmc_oai_records.json

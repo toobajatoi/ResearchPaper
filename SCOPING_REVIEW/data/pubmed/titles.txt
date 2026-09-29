@@ -1,0 +1,650 @@
+1	2026 Sep 28	42804402	Canvas Beyond Words: Teaching Machines to Sketch Empowers Their Spatial Intelligence.
+2	2026 Sep 15	42795926	The Patient-AI Relationship in Obsessive-Compulsive and Related Disorders: A Cognitive-Behavioral Framework.
+3	2026 Sep 21	42792503	From Tool to Social Actor: A Systematic Review of the Psychological Mechanisms Through Which Conversational AI Reshapes the Employee Experience.
+4	2026 Sep 3	42792364	The Effects of Chatbot Recovery Strategies and Anthropomorphic Image Type on Service Recovery Satisfaction: The Mediating Roles of Perceived Warmth and Competence.
+5	2026 Sep 1	42792348	Emotional Dependency and Parasocial Grief Following the Alteration or Loss of Companion Artificial Intelligences: A Systematic Review.
+6	2026 Aug 25	42792281	How Do Fans Use AI Social Chatbots? A Multi-Method Exploration of Fan Accounts.
+7	2026 Sep 25	42790217	How do service robots generate customer value? Rethinking service robot acceptance model (sRAM) through necessary condition analysis.
+8	2026	42787433	Persuasion, pride and prejudice: factors associated with students' resistance to a social robot's incorrect mathematical solution.
+9	2026 Sep 24	42784810	Development of an Equity-Centered Sociotechnical Architecture for Generative AI Integration in Public Health Promotion: Conceptual Framework.
+10	2026 Sep 11	42783578	Evaluation of Large Language Models as Tools, Models, and Partners in Creative Thinking Research: A Selective Narrative Review with the GCA Framework.
+11	2026 Sep 17	42782696	Hearing It Right, Doing It Safely: A Reflex-Inspired Safety Gatekeeper for Voice-Controlled Exoskeleton Arm Manipulation.
+12	2026 Sep 23	42775852	Parental Attachment Anxiety and Adolescents' Authentic Self-Disclosure to Generative AI: The Roles of Rumination, Depression, and Gender.
+13	2026 Sep 22	42773125	Preparing AI chatbots to respond to patient distress and suicidality in high-risk healthcare settings.
+14	2026 Aug	42770111	Simulated self-assessment in large language models: A psychometric approach to AI self-efficacy.
+15	2026	42762047	A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs.
+16	2026 Sep 17	42753507	A dual-path trust-risk model of GenAI continuance: Conversational attributes, psychological evaluations, and configurational patterns.
+17	2026 Sep 17	42750545	The error theory of LLM consciousness: there is no evidence that standard LLMs are conscious.
+18	2026 Sep	42747133	Large Language Models Persuade Without Planning Theory of Mind.
+19	2026	42726769	Mechanism of AI chatbot anthropomorphism on consumer impulse buying in live streaming scenarios based on SOR framework.
+20	2026 Sep 11	42726382	Implicit memory reveals implicit bias in humans and machines.
+21	2026 Sep 11	42726366	Implementation Determinants for AI-Enabled Digital Mental Health Interventions Across Asian Mental Health Systems: A Scoping Review Using the Donabedian Model.
+22	2026 Sep 10	42721382	Tool or Companion? Reframing Conversational AI to Prevent Psychological Harm.
+23	2026	42712761	The imaginary nature of human-AI relationships: a perspective integrating Buddhist psychology and the psychology of anthropomorphism.
+24	2026	42712658	Instrumental succession: the gradual transfer of agency to AI.
+25	2026	42687985	Sentient AI in robots and agents: prolegomena for an evidence-based research program.
+26	2026	42657443	POPKI: Modeling Surprise in a Physically-Grounded Joint Inference of Observation, Preference, and Knowledge.
+27	2026	42656298	Addicted to AI? Prevalence and psychological drivers of generative AI dependency among pre-service teachers.
+28	2026 Jul 23	42651447	AI Chatbot Anthropomorphism and Consumer Decision-Making: A Dual-Pathway Calibration Model.
+29	2026 Dec	42648233	Seeing humans in technology: The antecedents, boundaries and consequences of AI anthropomorphism.
+30	2026 Sep	42647129	Sensory context improves language prediction in humans and LLMs.
+31	2026	42639237	The Embodied Hijack: when Pleistocene minds meet disembodied artificial intelligence.
+32	2026 Aug 22	42631662	Countering HPV Vaccine Misinformation: An Integrative Cognitive-Affective Framework for Theory-Driven Digital Health Education Interventions.
+33	2026	42631053	Factors influencing older adults' intention to use social chatbots: examining technology acceptance, anthropomorphism, authenticity, and artificial intelligence social interaction.
+34	2026 Aug 14	42630565	Brain-AI convergence: Generative world models and hierarchical attention for human intelligence.
+35	2026	42625767	The evolution and reconstruction of digital addiction: from compulsive consumption in the internet era to symbiotic dependence in the artificial intelligence era.
+36	2026 Aug 20	42623930	Effects of NLP Chatbots on Loneliness, Depression, and Quality of Life Among Older Adults: A Systematic Review.
+37	2026	42600040	Relational intelligence in AI chatbots: Examining the trust-engagement-emotion-social presence model using PLS-SEM and fsQCA.
+38	2026 Aug 5	42579793	Large language models in interventional cardiology: current evidence and future directions.
+39	2026 Aug 7	42567638	Conversational artificial intelligence HeAlth supporT in Atrial Fibrillation Self-Management (CHAT-AF-S): rationale and randomised controlled trial design.
+40	2026 Aug 7	42567480	Impact of Artificial Intelligence Chatbots on Student Confidence and Perceptions in a Communication Course.
+41	2026	42564617	Perceived anthropomorphism of AI and belongingness need: the sequential roles of liking and perceived emotional support.
+42	2026	42549111	Age and generational differences in anthropomorphism and trust in large language models.
+43	2026 Aug 3	42547680	Eyettention II: A dual-sequence architecture for modeling fixation location, within-word landing position, and fixation duration in reading.
+44	2026 Jun	42540500	Psychosis in the Age of Large Language Models (LLMs): A Narrative Review of the Proposed Construct of AI-Induced Psychosis.
+45	2026	42539515	Unpacking the dual-path trust mechanism driving students' continuance intention toward campus GenAI: a hybrid SEM-machine learning approach within the S-O-R framework.
+46	2026	42528981	Human-like conversational agents as social partners: a scoping review of socioaffective mechanisms, well-being outcomes, risks and governance in the post-Turing era.
+47	2026 Jul 2	42510216	The Double-Edged Sword Effect of Government Chatbot Empathy on Citizens' Continued Usage Intention.
+48	2026 Jul 24	42498804	Tutorial: guidance on the use of large language models for medical research.
+49	2026	42495221	Addicted, attached, or just delegating? A scoping review on "problematic artificial intelligence use".
+50	2026 Oct 15	42492211	Toward advanced management of sludge bulking: An explainable evaluation framework to quantify and improve large language model cognitive capabilities.
+51	2026 Jul	42491871	Six misconceptions about large language models: A minimal model and diagnostic taxonomy.
+52	2026	42487918	Large language models for promoting physical activity: a review of experiential and behavioral outcomes, social roles, and human-likeness in persuasive LLMs.
+53	2026 Aug 5	42485326	The role of the AI chatbot for digital companionship among older adults: a qualitative study.
+54	2026	42482727	'She lifted me up': kinship construction in human-AI resilient communication among Chinese users.
+55	2026 Aug	42480332	Can AI-based chatbots enhance patient education and support nursing practice for hip replacement patients? A scoping review.
+56	2026 Jun	42472161	ChatGPT in Pediatric Dental Trauma: A Cross-Sectional Assessment of Response Reliability to Parental Queries.
+57	2026 Jul 16	42463959	Understanding large language models demands distinguishing human projection from machine cognition.
+58	2026 Jul 16	42463863	Chatbot design characteristics and initial stickiness intentions in healthcare mobile applications.
+59	2026 Jul-Aug	42441171	A Comparative Study: Can Large Language Models be a Supportive Tool in the Diagnosis and Treatment of Scabies?
+60	2026 Jul	42434711	MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation.
+61	2026 Jul	42418216	Human-like AI-based auto-field-in-field whole-brain radiotherapy treatment planning with conversation large language model feedback.
+62	2026 Sep	42413890	Brain-inspired large model mindreading.
+63	2026 Jul 1	42412426	Patient Perspectives on AI-Drafted Electronic Portal Messages.
+64	2026 Jul	42396382	Artificial stupidity or logimorphism? How misuse of language warps our thinking about 'artificial intelligence'.
+65	2026	42396126	Personality profiles and usage experience are associated with trust and dependence on generative AI: a latent profile analysis.
+66	2026 Jul 1	42380004	Language models do not yet achieve explanatory adequacy because language is more than incremental prediction.
+67	2026 Jun 29	42373921	Talking surveys: How photorealistic embodied conversational agents shape response quality, engagement, and satisfaction.
+68	2026 Jun 9	42372014	Future of Educational Science: Generative AI Use, Trust, and Cognitive Load as Predictors of Self-Perceived Academic Performance in Higher Education.
+69	2026 Aug 5	42371792	Digital conversation companions.
+70	2026 Jun 10	42354500	Design, Development, and Evaluation of Multimodal Conversational Agents for Health Data Registration and Monitoring: Framework Proposal and Pilot Exploratory Study.
+71	2026 Jun 25	42349677	Generative artificial intelligence and prompt engineering in asthma-related settings.
+72	2026 Jun 19	42317735	LLMs as emerging tools for understanding and managing bone metastasis and cancer-induced bone pain.
+73	2026 Jun 15	42298715	AI assisted photographic posture evaluation: a comparative study of ChatGPT and expert physiotherapists.
+74	2026	42293592	Problematic use of generative artificial intelligence chatbots: current stage of conceptual and clinical understanding.
+75	2026 Jun 12	42286516	Psychotic episode concurrent with interaction with a large language model (llm): a case report.
+76	2026 Jun 12	42285838	To model human linguistic prediction, make LLMs less superhuman.
+77	2026 Jan-Dec	42272711	Understanding the influence of perceived intelligence and perceived anthropomorphism on users' intention to adopt healthcare chatbots.
+78	2026 Nov 1	42269974	The engagement-validation loop: Sycophancy, anthropomorphic projection, and clinical risk in informal AI-based mental health support.
+79	2026 Aug	42259210	AI Chatbot characteristics and Gen Z consumers' purchase behavior: A cognitive-affective-behavioral perspective.
+80	2026	42254636	Why do I use generative artificial intelligence (GenAI) to seek health information? A perceptual perspective of GenAI users.
+81	2026 Jun 5	42247659	Characteristics of Human-Like Virtual Profiles in Relation to Audience Reach and Engagement on Instagram: Secondary Data Analysis.
+82	2026 Jun 4	42241338	A Large Language Model-Powered Multiagent Framework Emulating Standardized Patients in Clinical Communication Skills Training: Development and Evaluation Study.
+83	2026	42205950	Attribution of consciousness to non-human animals: insights from AI and multidimensional frameworks.
+84	2026 May	42205238	Teaching AI to handle exceptions: Supervised fine-tuning with human-aligned judgment.
+85	2026 Jul	42198871	The Effects of Social Presence of Dementia-Prevention Chatbot on Isolation and Interpersonal Resilience Among Older Adults Living Alone: Evidence on Three-Wave Experiment.
+86	2026 Aug 1	42161859	Building safer artificial intelligence mental health chatbots: a framework for transparency, evaluation, and shared accountability.
+87	2026 May 19	42155101	Feasibility of Large Language Model-Based Standardized Virtual Patients to Support Clinical Decision-Making Training in Operative Dentistry: Mixed Methods Study.
+88	2026 Jul	42150431	Can large language models be viewed as a cognitive model of human language? Not yet, regardless of reasoning capability and size.
+89	2026 May 14	42130427	A sentence is worth a thousand pictures: can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?
+90	2026 Oct	42127865	A comprehensive review of use cases, misuses, and potential mitigation techniques in generative artificial intelligence.
+91	2026 May 13	42127060	Human-Like Multimodal Fake News Detection via Reflective Summarization and Large-Small Model Collaboration.
+92	2026 May 11	42115286	Large language models can detect verbal indicators of romantic attraction.
+93	2026	42110468	Digital affordances of AI chatbots in nursing education: a systematic review of learning gains and gaps in the evidence.
+94	2026 Apr 21	42101244	Adequacy of ChatGPT's Responses to Frequently Asked Questions for Patients With Adolescent Idiopathic Scoliosis.
+95	2026 May 5	42091366	Large language model-supported companion robots for loneliness in older people: A UK-Japan qualitative study integrating focus groups and in-home deployment.
+96	2026 May 2	42069822	Metaphorical perceptions of secondary school students regarding the concept of generative artificial intelligence.
+97	2026	42063572	Multi-party open-ended conversation with a social robot.
+98	2026 Apr 30	42061294	Current Landscape of Mental Health Conversational Agents From a Trauma-Informed Care Lens: Scoping Review.
+99	2026 Apr 30	42061226	A Fine-Tuned Multimodal AI Chatbot for Dietary Health and Nutrition, Purrfessor: Development and Mixed Methods Evaluation.
+100	2026 Sep	42055983	When 'Yes' Meets 'But': Can AI Comprehend Contradictory Humor in Comics?
+101	2026 May	42053557	Human-Like Epistemic Trust Without Human-Like Legal Accountability? Conversational AI in Mental Healthcare.
+102	2026 Oct	42053250	Recognition of real and artificial intelligence-generated faces.
+103	2026	42051590	AI-driven discovery in protein science for immunology and infectious disease research.
+104	2026	42051326	Co-designing animated videos to explain large language models and their use in healthcare and research.
+105	2026 Apr 9	42042227	Eye-Tracked Visual Attention to Anthropomorphic Appearance and Empathic Responses in AI Medical Conversational Agents: Dissociating Trust Gains from Attentional Synergy.
+106	2026 Mar	42037948	When Compliance Is Not Safety: The Regulatory Blind Spot in AI Companion Chatbots.
+107	2026	42022410	The effects of responsiveness, perceived warmth, and anthropomorphism on university students' use of conversational AI for learning support: a chain mediation analysis based on S-O-R framework.
+108	2026 Jun	41997074	Understanding the role of AI Chatbots in English self-regulated learning: A dual-stage structural equation modeling and artificial neural network approach.
+109	2026 Mar 24	41977807	Large-Scale Model-Enhanced Vision-Language Navigation: Recent Advances, Practical Applications, and Future Challenges.
+110	2026 Apr	41972440	[Limitations and Potential Harms of AI Chatbots in Mental Health Services].
+111	2026	41971619	Metacognition of ChatGPT in confidence judgements.
+112	2026 May	41950142	It's All in the Personality: A Comparative Study of Real, Ideal, and Customized Virtual Instructors for AR Assembly Tasks.
+113	2026 May	41941770	What Makes a Virtual Celebrity Agent Trustworthy in VR? Exploring the Role of Stylization and Voice.
+114	2026 Apr 1	41922362	Human-like cognitive generalization for large models via mental representation-guided supervision.
+115	2026 Mar 17	41920760	Conversational AI and psychosis: A technological folie à deux.
+116	2026 Mar 30	41906223	Fluency without understanding: risks of large language models in mental healthcare.
+117	2026 Mar 20	41902128	A Multimodal Agentic AI Framework for Intuitive Human-Robot Collaboration.
+118	2026 Mar 10	41901926	HSG-ON: Hierarchical Scene Graph-Based Object Navigation.
+119	2026 Mar 1	41898011	Human-like, Animal-like, or Object-like? The Impact of LLM-Based Virtual Doctor Avatar Design on User Emotion, Physiology, and Experience.
+120	2026 Mar 10	41892920	Talking Head Generation Through Generative Models and Cross-Modal Synthesis Techniques.
+121	2026 Mar 23	41872473	Affiliation in human-AI interactions is based on shared psychological traits.
+122	2026 Mar	41859300	ChatGPT in precision medicine.
+123	2026 Mar 18	41849208	Perspectives on How Sociology Can Advance Theorizing About Human-Chatbot Interaction and Developing Chatbots for Social Good.
+124	2026	41847080	Synthetic relationships with Social Pedagogical Agents in education: a scoping literature review.
+125	2026 Jul	41839174	Generative AI Podcasts for Learning: Perceptions of Faculty and Graduate Nursing Students.
+126	2026	41838712	Deep learning-driven image captioning: Progress through transformers and large language models.
+127	2026	41836860	Too good to be true? Exploring the role of artificial intelligence chatbots in treating depression and anxiety.
+128	2025	41836276	Exploring the application boundaries of LLMs in mental health: a systematic scoping review.
+129	2026 Mar 14	41832198	Attitudes of medical and life sciences university students and postdoctoral fellows toward AI chatbots in education: an international cross-sectional survey.
+130	2026 Jul	41817968	SHC: Deeply Activating Human-Like Cognitive Ability for Visual Question Answering.
+131	2026	41811800	Community size rather than grammatical complexity better predicts Large Language Model accuracy in a novel Wug Test.
+132	2026 Apr	41802162	AIPsychoBench: Understanding the Psychometric Differences Between LLMs and Humans.
+133	2026 Mar 5	41785452	Psychosis Risk and Generative Artificial Intelligence Use Frequency, Motivations, and Delusion-Like Experiences: Cross-Sectional Survey Study.
+134	2026	41783300	Why should I use social chatbots? On potential users' acceptance and the role of anthropomorphism.
+135	2026 Sep	41776164	Co-designing DESI-Heart: Conversational agent based self-care intervention for people with cardiovascular disease.
+136	2025 Nov	41768145	Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness.
+137	2026	41766940	Large language models as cognitive shortcuts: a systems-theoretic reframing beyond bullshit.
+138	2026 Feb 12	41755152	A Multimodal Adaptive Framework for Social Interaction with the MiRo-E Robot.
+139	2026 Feb 14	41750087	How Consistent Friendlike Conversation with AI Companions Influences Our Attitudes and Perceptions Toward AI: An Exploratory Experiment.
+140	2026 Feb 21	41723154	Chatting with an LLM-based AI elicits affective and cognitive processes in education for sustainable development.
+141	2026 Feb 21	41721118	Large language model use in oral and maxillofacial surgery training: a national resident survey.
+142	2026 Feb 20	41719488	Performance of Large Language Models Under Input Variability in Health Care Applications: Dataset Development and Experimental Evaluation.
+143	2026 Apr	41717650	MedQA-MA: A Moroccan Arabic medical question-answering dataset for virtual healthcare assistants and large language models.
+144	2026	41717472	Three frameworks for AI mentality.
+145	2026 Jun	41713297	Learning fair representation for fine-tuning pre-trained language models.
+146	2026 Feb 18	41707180	Developing a Service Quality Index System for AI Health Care Chatbots: Mixed Methods Study.
+147	2025	41705167	The impact of AI anchor anthropomorphism on users' willingness to co-create value in tourism live-streaming contexts: the mediating role of social presence and the moderating role of perceived control.
+148	2026 Jul	41701601	Reason-Align-Respond: Aligning LLM Reasoning With Knowledge Graphs for KGQA.
+149	2026 Apr-Jun	41674135	Human Factors Influencing Trust in Healthcare Artificial Intelligence: Systematic Literature Review.
+150	2026	41666070	Monocular Multi-Object 3D Visual Language Tracking.
+151	2026 Feb 9	41663521	Building user trust in AI chatbots for customer service through human-like cues and perceived reliability.
+152	2025	41662115	Generative multimodal large language models in mental health care: Applications, opportunities, and challenges.
+153	2025 Jun	41647702	Bridging communication gaps: the role of voice-enabled AI in medicine.
+154	2026 Jan 23	41647223	Cognitively-Inspired Tokens Overcome Egocentric Bias in Multimodal Models.
+155	2025 Dec	41640575	Privacy and Human-AI Relationships.
+156	2026 Feb 3	41632953	Message Humanness as a Predictor of AI's Perception as Human: Secondary Data Analysis of the HeartBot Study.
+157	2026 Feb 2	41622967	Measuring and understanding emotional attachment in human-AI relationships.
+158	2025	41602357	Robot speech: how variability matters for child-robot interactions.
+159	2026 Jan 27	41592857	Evaluating reasoning large language models with human-like thinking in ophthalmic question answering.
+160	2025	41585217	Diagnostic performance of large language models on the NEJM image challenge: a comparative study with human evaluators and the impact of prompt engineering.
+161	2025	41583753	Successive-cyclic movement in humans and neural language models: testing wh-filler-gap dependencies.
+162	2026 Jan 23	41576265	Prediction of 12-Week Remission in Patients With Depressive Disorder Using Reasoning-Based Large Language Models: Model Development and Validation Study.
+163	2026 Jan-Dec	41558678	Development and Evaluation of an AI Avatar Educational Tool for Depression and Anxiety: A Qualitative Pilot Study.
+164	2026 Apr	41548427	Therapy chatbots and emotional complexity: do therapy chatbots really empathise?
+165	2026 Jan 14	41535575	AI outperforms humans in establishing interpersonal closeness in emotionally engaging interactions, but only when labelled as human.
+166	2026 Feb 2	41527742	A qualitative study assessing the acceptability of a multi-agent AI Chatbot for providing HIV and mental health support among men who have sex with men and transgender women in KwaZulu-Natal, South Africa.
+167	2026 Jan 9	41511909	Virtual Assistant as a Companion for Stroke Survivors post Discharge: Thematic Analysis Highlights Expectations of Human Performance Pose a Key Barrier to Engagement.
+168	2026 Jan 9	41507533	Structured clinical approach to enable large language models to be used for improved clinical diagnosis and explainable reasoning.
+169	2026 Jan 2	41503098	Human-like AI-based Auto-Field-in-Field Whole-Brain Radiotherapy Treatment Planning With Conversation Large Language Model Feedback.
+170	2026 Jan 7	41501112	Generative artificial intelligence heuristic cues, trust and continuous intention of CBeC platform and the moderating role of information overload.
+171	2025 Dec 18	41445638	A medically grounded LLM agent-based tool to detect patient safety events in medical records: Identifying patient safety events with large language models.
+172	2025	41438004	A psychometric framework for evaluating and shaping personality traits in large language models.
+173	2025 Dec	41428555	Digital "we": Human sociality and culture in the era of social media and artificial intelligence.
+174	2025	41394040	Decoding the duality of GAI anthropomorphism and its joint effects-a sequential mixed-methods approach.
+175	2025 Dec 12	41388270	From needs assessment to usability testing: evaluating the AinoAid™ chatbot for domestic violence support.
+176	2025 Dec 12	41382092	The paradox of agency in psychotherapy: How people with mental distress experience support from generative AI chatbots and human therapists.
+177	2025 Dec 11	41380150	AI-Enabled Personalized Smoking Cessation Intervention With the Aipaca Chatbot: Mixed Methods Feasibility Study.
+178	2025	41377085	Attitudes toward the use of ChatGPT to seek oncological information: a qualitative study.
+179	2025 Dec 4	41375898	Artificial Intelligence Physician Avatars for Patient Education: A Pilot Study.
+180	2025 Dec 11	41372330	VI-OCR: "Visually Impaired" optical character recognition pipeline for text accessibility assessment.
+181	2025	41357683	Will multimodal large language models ever achieve deep understanding of the world?
+182	2025 Nov 28	41356761	Large language models and large concept models in radiology: Present challenges, future directions, and critical perspectives.
+183	2025	41346507	Enhancing adolescents' exercise motivation management with generative AI anthropomorphism: a chain-mediated model of technology acceptance and self-efficacy.
+184	2025 Jul	41335883	Advancing Survival Analysis with Large Language Models: A Solution to Data Scarcity and Missing Information in Healthcare.
+185	2026 Sep	41332262	How do Artificial Intelligence chatbots respond to questions from adolescent personas about their eating, body weight or appearance?
+186	2026 Jan	41326137	Artificial intelligence in sport psychology: Implications for the identification and development of talent.
+187	2025 Dec 1	41325605	A Rule-Based Conversational Agent for Mental Health and Well-Being in Young People: Formative Case Series During the Rise of Generative AI.
+188	2025 Dec 1	41324732	New chapter in pediatric medicine: technological evolution, application, and evaluation system of large language models.
+189	2025 Nov 28	41315393	Matching embodied conversational agent appearance to message emotion enhances persuasion in eHealth.
+190	2025 Nov 28	41314645	Determining the Feasibility and Usability of a Co-Designed Culturally Appropriate Conversational Agent (DESI-Heart) to Support Self-Care in People With Cardiovascular Diseases: Protocol for a Single-Arm Pilot Trial.
+191	2026 Feb	41308091	Objectifying Social Presence: Evaluating Multimodal Degraders in ECAs Using the Heard Text Recall Paradigm.
+192	2025 Nov 14	41294639	Patients Prefer Human Empathy, but Not Always Human Wording: A Single-Blind Within-Subject Trial of GPT-Generated vs. Clinician Discharge Texts in Emergency Ophthalmology.
+193	2026 Mar	41289126	From System 1 to System 2: A Survey of Reasoning Large Language Models.
+194	2025 Nov 24	41286297	Feedback-integrated prompt optimiser for problem formulation.
+195	2025 Nov 24	41285997	Value-based large language model agent simulation for mutual evaluation of trust and interpersonal closeness.
+196	2026 Jun 18	41285583	Artificial intelligence chain-of-thought reasoning in nuanced medical scenarios: mitigation of cognitive biases through model intransigence.
+197	2025 Oct	41281039	Potentials of ChatGPT in Anatomy Research: A Conversation With ChatGPT.
+198	2025 Dec 3	41273266	Delusional Experiences Emerging From AI Chatbot Interactions or "AI Psychosis".
+199	2026 Jan	41264449	Write, Rank, or Rate: Comparing Methods for Studying Visualization Affordances.
+200	2026 Apr 17	41260630	Learning from the past, structuring the future: using large language models to unlock a century of paediatric research in Archives of Disease in Childhood.
+201	2026 Mar	41252232	Synergy of Sight and Semantics: Holistic Visual Understanding With CLIP.
+202	2025 Jan-Dec	41234618	BetterMood: A human-like AI counseling service for adolescents and young adults.
+203	2025	41209788	Are you willing to forgive generative AI doctors? Trust repair after failures in online health consultation services.
+204	2025 Nov 7	41202292	Digital Conversational Agents for the Mental Health of Treatment-Seeking Youth: Scoping Review.
+205	2026 Jan	41197152	Social Robotics Is Not (Just) About Machines, It Is About People: Psychology's Role in Developing Social Machines.
+206	2025 Nov 5	41193601	Enhanced large language models for effective screening of depression and anxiety.
+207	2025 Nov 3	41183242	Effectiveness of Communication Competence in AI Conversational Agents for Health: Systematic Review and Meta-Analysis.
+208	2025 Nov	41179846	Dialogues with large language models reduce conspiracy beliefs even when the AI is perceived as human.
+209	2025 Nov 4	41171846	Revealing emergent human-like conceptual representations from language prediction.
+210	2026 Jan	41166802	SafeDrive: Knowledge- and data-driven risk-sensitive decision-making for autonomous vehicles with Large Language Models.
+211	2025 Oct 21	41120331	Individual differences in anthropomorphism help explain social connection to AI companions.
+212	2025	41108196	Tweaking the Messages and Approaching the Glass Box: Using AI Chatbots to Promote Help-Seeking for Depressive Symptoms.
+213	2025 Nov	41101128	Association between Generative AI self-efficacy and Generative AI acceptance: The mediating role of Generative AI trust and the moderating role of Generative AI risk perception.
+214	2026 Jan	41092820	Dynamic reinforcement learning for actors.
+215	2026 Feb 1	41092428	How does AI compare to the experts in a Delphi setting: simulating medical consensus with large language models.
+216	2025 Oct 10	41068714	Performance of several large language models when answering common patient questions about type 1 diabetes in children: accuracy, comprehensibility and practicality.
+217	2025 Oct 8	41062558	The effects of the human-like features of generative AI on usage intention and the moderating role of information overload.
+218	2026 Feb	41060458	Anthropomorphic technology in everyday life: focus on chatbots and impacts on mental health.
+219	2025 Oct 7	41057603	The role of prompt, voice, and personality factors in the acceptance and evaluation of AI-generated mindfulness exercises.
+220	2025 Oct 23	41056099	Human-Machine Agreement in Medical Ethics: Patient Autonomy Case-Based Evaluation of Large Language Models.
+221	2025 Oct 6	41053250	Large language models for autism: evaluating theory of mind tasks in a gamified environment.
+222	2025 Nov	41052126	When LLMs Recognize Your Space: Research on Experiences with Spatially Aware LLM Agents.
+223	2025	41050809	The uncanny valley effect in embodied conversational agents: a critical systematic review of attractiveness, anthropomorphism, and uncanniness.
+224	2025 Sep	41049646	Evaluation of ChatGPT's responses to frequently asked questions about shoulder arthroplasty.
+225	2025 Nov	41042648	Entering Your Space: How Agent Entrance Styles Shape Social Presence in AR.
+226	2025	41040103	Research on the influencing factors of generative artificial intelligence usage intent in post-secondary education: an empirical analysis based on the AIDUA extended model.
+227	2025 Oct 2	41039348	Psychology student and mental health practitioner experiences of and perspectives on Client101, a virtual client chatbot training tool.
+228	2025 Aug	41030715	Error Reduction in Healthcare Through Team Training and Cultural Transformation.
+229	2026 Jan	41016197	Can ChatGPT provide responses to patients for orthopaedic-related questions? A comparison between ChatGPT and medical support staff.
+230	2025	40979917	The Accuracy of ChatGPT in Answering FAQs, Making Clinical Recommendations, and Categorizing Patient Symptoms: A Literature Review.
+231	2025	40978209	Integrating emotional intelligence, memory architecture, and gestures to achieve empathetic humanoid robot interaction in an educational setting.
+232	2025 Sep 26	40977134	Are ChatGPT's Answers to Questions About Salivary Gland Diseases Accurate and Reliable?
+233	2025 Sep	40969781	Using a Large Language Model (ChatGPT-4o) to Assess the Risk of Bias in Randomized Controlled Trials of Medical Interventions: Interrater Agreement With Human Reviewers.
+234	2025 Dec	40969547	Improving the readability of trauma patient education materials: a ChatGPT solution demonstrated using materials by the Orthopaedic Trauma Association.
+235	2025 Sep 18	40966680	Engagement With Conversational Agent-Enabled Interventions in Cardiometabolic Disease Self-Management: Systematic Review.
+236	2025	40959775	Ethical implications of ChatGPT and other large language models in academia.
+237	2025 Sep	40950935	Advantages and Limitations of ChatGPT in Healthcare: A Scoping Review.
+238	2025 Aug 26	40949931	Comparison of ChatGPT and DeepSeek large language models in the diagnosis of pericarditis.
+239	2026 Jan	40939460	DSPy-based neural-symbolic pipeline to enhance spatial reasoning in LLMs.
+240	2025	40918269	GPT-4V shows human-like social perceptual capabilities at phenomenological and neural levels.
+241	2025 Jan-Dec	40893168	Promoting trust and intention to adopt health information generated by ChatGPT among healthcare customers: An empirical study.
+242	2025 Aug	40892454	Texts Are More than Notes, They Are Data: A Glimpse into How Machines Understand Text.
+243	2026 Oct	40891967	Exploring How Large Language Models Understand Sexual Communication in Hypothetical Sexual Situations.
+244	2025 Jul 30	40867394	Teens, Tech, and Talk: Adolescents' Use of and Emotional Reactions to Snapchat's My AI Chatbot.
+245	2025	40873934	Attachment Anxiety and Problematic Use of Conversational Artificial Intelligence: Mediation of Emotional Attachment and Moderation of Anthropomorphic Tendencies.
+246	2025 Aug 25	40855151	Proof of concept for voice based MRI scanner control using large language models in real time guided interventions.
+247	2025	40851602	The paradox of creativity in generative AI: high performance, human-like bias, and limited differential evaluation.
+248	2025	40851577	Are artificial agents perceived similarly to humans? Knowns, unknowns and the road ahead.
+249	2025 Sep	40848602	Assessing the response quality and readability of ChatGPT in stuttering.
+250	2025 Oct	40840786	Conversational agent interventions in diabetes care: a systematic review.
+251	2025 Aug 14	40810905	Patient insights into empathy, compassion and self-disclosure in medical large language models: results from the IPALLM III study.
+252	2025 Aug 14	40808460	Relevant answers to polar questions.
+253	2025 Aug 1	40807928	Multimodal Sensing-Enabled Large Language Models for Automated Emotional Regulation: A Review of Current Technologies, Opportunities, and Challenges.
+254	2025 Jul 29	40807851	Which AI Sees Like Us? Investigating the Cognitive Plausibility of Language and Vision Models via Eye-Tracking in Human-Robot Interaction.
+255	2025 Oct	40782674	When does ChatGPT refer someone to a plastic surgeon?
+256	2025	40771655	Generative AI/LLMs for Plain Language Medical Information for Patients, Caregivers and General Public: Opportunities, Risks and Ethics.
+257	2025	40755937	Development of a personalized conversational health agent to enhance physical activity for blind and low-vision individuals.
+258	2025 Sep	40748576	Comparative Analysis of Large Language Model and Physician-Generated Responses in Bariatric Patient Inquiries: Assessing the Accuracy and Patient Satisfaction.
+259	2025	40746673	Determinants of rural middle school students' adoption of AI chatbots for mental health.
+260	2025 Jul 31	40745627	Using a large language model (ChatGPT) to assess risk of bias in randomized controlled trials of medical interventions: protocol for a pilot study of interrater agreement with human reviewers.
+261	2025 Jul 31	40743466	Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101.
+262	2025 Jul	40728403	Drafting the Future: The Dawn of AI Report Generation in Radiology.
+263	2025 Jul 28	40726405	Generative AI-Powered Mental Wellness Chatbot for College Student Mental Wellness: Open Trial.
+264	2025 Oct	40713240	Towards large language models with human-like episodic memory.
+265	2025 Sep	40709744	Enhancing Work Efficiency With Generative Artificial Intelligence: Experience and Training Insights From School Nurses Through Focus Groups and Surveys.
+266	2025	40703735	The illusion of empathy: evaluating AI-generated outputs in moments that matter.
+267	2025 Aug	40699279	Hi ChatGPT, I am a Radiologist, How can you help me?
+268	2026 May	40694494	Human-Like Epistemic Trust? A Conceptual and Normative Analysis of Conversational AI in Mental Healthcare.
+269	2025	40692754	Evaluating multiple large language models on orbital diseases.
+270	2025 Jul 21	40691556	ChatGpt's accuracy in the diagnosis of oral lesions.
+271	2025 Jul 16	40669071	Usability and Usefulness of SMS-Based Artificial Intelligence Intervention (Mwana) on Breastfeeding Outcomes in Lagos, Nigeria: Pilot App Development Study.
+272	2025	40661873	Exploring the role of generative AI in international students' sociocultural adaptation: a cognitive-affective model.
+273	2025	40657647	Accuracy of ChatGPT-3.5, ChatGPT-4o, Copilot, Gemini, Claude, and Perplexity in advising on lumbosacral radicular pain against clinical practice guidelines: cross-sectional study.
+274	2026 Jan	40652388	When AI sees hotter: Overestimation bias in large language model climate assessments.
+275	2025	40642660	AI generations: from AI 1.0 to AI 4.0.
+276	2025 Nov-Dec	40633049	Do Language Model Agents Align With Humans in Rating Visualizations? An Empirical Study.
+277	2025 Jul 5	40617964	A systematic literature review on integrating AI-powered smart glasses into digital health management for proactive healthcare solutions.
+278	2025 Sep	40614511	Radiology report generation using automatic keyword adaptation, frequency-based multi-label classification and text-to-text large language models.
+279	2025	40606858	How Well Do Simulated Population Samples with GPT-4 Align with Real Ones? The Case of the Eysenck Personality Questionnaire Revised-Abbreviated Personality Test.
+280	2025 Jul 1	40596684	Comparative analysis of ChatGPT 3.5 and ChatGPT 4 obstetric and gynecological knowledge.
+281	2025 Jun 26	40588891	Optimizing Patient-AI Dialogue: Integrating Empathic Technology.
+282	2025 Jul	40572032	Artificial intelligence chatbots as a source of virtual social support: Implications for loneliness and anxiety management.
+283	2025 Jun 12	40564721	Mental Health Professionals' Views on Artificial Intelligence as an Aide for Children Anticipating or Suffering the Loss of a Parent to Cancer: Helpful or Harmful?
+284	2025 Nov 15	40562106	Depression intervention using AI chatbots with social cues: a randomized trial of effectiveness.
+285	2025 Jun 18	40559174	Evaluation of Large Language Model Performance in Answering Clinical Questions on Periodontal Furcation Defect Management.
+286	2025 Sep	40556611	Short Research Article: Evaluation of an artificial intelligence language model in psychiatric patient education.
+287	2025 Oct	40553457	Forewarning Artificial Intelligence about Cognitive Biases.
+288	2025	40547455	Integrating large language model-based agents into a virtual patient chatbot for clinical anamnesis training.
+289	2026 Jun	40540377	Social Reasoning-Aware Trajectory Prediction via Multimodal Language Model.
+290	2025 Jun 18	40533446	Structured human-LLM interaction design reveals exploration and exploitation dynamics in higher education content generation.
+291	2025 Jun 20	40520093	Comparing AI and human decision-making mechanisms in daily collaborative experiments.
+292	2025	40519217	Large language models in oncology: a review.
+293	2025 Jun 14	40517253	Enhancing hepatopathy clinical trial efficiency: a secure, large language model-powered pre-screening pipeline.
+294	2025 Sep	40516342	A novel fine-tuning and evaluation methodology for large language models on IoT raw data summaries (LLM-RawDMeth): A joint perspective in diabetes care.
+295	2025 Jun 17	40512797	Take caution in using LLMs as human surrogates.
+296	2025 Oct	40504716	Chain-of-Situation Aware Progressive Inference Learning.
+297	2025 Sep	40504451	AI Mimicking and Interpreting Humans: Legal and Ethical Reflections.
+298	2025 May	40476113	Performance of ChatGPT-3.5 and ChatGPT-4 in Solving Questions Based on Core Concepts in Cardiovascular Physiology.
+299	2025 Dec	40474655	Undergraduate Nursing Students' Perspectives on Artificial Intelligence in Academia.
+300	2025 Jan-Dec	40469778	Evaluation of generative AI assistance in clinical nephrology: Assessing GPT-4, GPT-4o, Gemini 1.0 Ultra, and PaLM 2 in patient interaction and renal biopsy interpretation.
+301	2025 Sep	40468013	Large language models without grounding recover non-sensorimotor but not sensorimotor features of human concepts.
+302	2025 May 31	40450291	Comparative evaluation of responses from DeepSeek-R1, ChatGPT-o1, ChatGPT-4, and dental GPT chatbots to patient inquiries about dental and maxillofacial prostheses.
+303	2025	40438742	From text to traits: exploring the role of large language models in plant breeding.
+304	2026 Mar	40432591	Utilizing Conversational AI Technology for Social Connectedness Among Older Adults: A Systematic Review.
+305	2025 Apr 23	40428059	Large Language Models in Genomics-A Perspective on Personalized Medicine.
+306	2025 Aug	40424870	Investigating the interpretability of ChatGPT in mental health counseling: An analysis of artificial intelligence generated content differentiation.
+307	2025 Aug	40421579	Artificial intelligence (AI) in psychotherapy: A challenging frontier.
+308	2025 May 25	40415069	The influence of mental state attributions on trust in large language models.
+309	2025	40402952	Static network structure cannot stabilize cooperation among large language model agents.
+310	2025	40397922	Large-scale moral machine experiment on large language models.
+311	2025 May 16	40379850	Large language model comparisons between English and Chinese query performance for cardiovascular prevention.
+312	2025 May 16	40379754	LLM-based robot personality simulation and cognitive system.
+313	2025 Jun 3	40378006	The benefits and dangers of anthropomorphic conversational agents.
+314	2025 Apr	40364889	ChatGPT Answers the 110-Question Laboratory Enzymology Student Exam: Pass or Fail?
+315	2025 Jul	40341716	Playing repeated games with large language models.
+316	2025 Nov	40320742	The Role of Large Language Models (LLMs) in Breast Imaging Today and in the Near Future.
+317	2025 Apr 30	40307331	A scoping review of large language models for generative tasks in mental health care.
+318	2025 Apr 7	40297237	DruGagent: Multi-Agent Large Language Model-Based Reasoning for Drug-Target Interaction Prediction.
+319	2025 Jul	40287013	Can ChatGPT provide parent education for oral immunotherapy?
+320	2025 Jun	40286349	Cringe, lit, or mid: affective and cognitive effects of youth slang in an educational chatbot.
+321	2025 Apr 4	40285677	Medical accuracy of artificial intelligence chatbots in oncology: a scoping review.
+322	2025	40271364	From robots to chatbots: unveiling the dynamics of human-AI interaction.
+323	2026	40262515	Inspiration in human reasoning logic: Automating the inference and analysis of traffic accident information via macro-micro integration.
+324	2025 Apr 21	40258923	Industrial applications of large language models.
+325	2025 Aug	40252692	How Artificial Intelligence Differs From Humans in Peer Review.
+326	2025 Apr	40241839	Large language models in critical care.
+327	2025	40235846	Further N-Frame networking dynamics of conscious observer-self agents via a functional contextual interface: predictive coding, double-slit quantum mechanical experiment, and decision-making fallacy modeling as applied to the measurement problem in humans and AI.
+328	2025 Mar 24	40218886	Reasoning-Driven Food Energy Estimation via Multimodal Large Language Models.
+329	2025 Apr 10	40209206	MARIA (Medical Assistance and Rehabilitation Intelligent Agent) for Medication Adherence in Patients With Heart Failure: Empirical Results From a Wizard of Oz Systematic Conversational Agent Design Clinical Protocol.
+330	2025 Jun	40195450	A vaccine chatbot intervention for parents to improve HPV vaccination uptake among middle school girls: a cluster randomized trial.
+331	2025	40171241	Utilizing large language models for gastroenterology research: a conceptual framework.
+332	2025 Nov-Dec 01	40164970	Commentary: Leveraging Large Language Models for Radiology Education and Training.
+333	2025 Mar 31	40164789	Comprehensive testing of large language models for extraction of structured data in pathology.
+334	2025 Jan-Dec	40162180	Designing digital conversational agents for youth with multiple mental health conditions: Insights on key features from a youth-engaged qualitative descriptive study.
+335	2025 Apr	40160265	Cultural Variation in Attitudes Toward Social Chatbots.
+336	2025 Apr	40160084	Use of Artificial Intelligence in Scientific Writing.
+337	2025 Jun	40157394	The Effects of Commercial Conversational Agents on Older Adults' Mental Health: A Scoping Review.
+338	2025 Feb 26	40123640	The Double-Edged Sword of Anthropomorphism in LLMs (†).
+339	2025 Mar 18	40107699	Embodied conversational agents for shared decision-making: a scoping review protocol.
+340	2025 Aug	40101215	Clinical Text Generation: Are We There Yet?
+341	2025	40100857	Neural correlates of the uncanny valley effect for robots and hyper-realistic masks.
+342	2025 Mar 17	40097474	A framework for mitigating malicious RLHF feedback in LLM training using consensus based reward.
+343	2025 Mar 12	40073398	Patient Perspectives on Conversational Artificial Intelligence for Atrial Fibrillation Self-Management: Qualitative Analysis.
+344	2025 Jun	40072889	Using Large Language Models in the Diagnosis of Acute Cholecystitis: Assessing Accuracy and Guidelines Compliance.
+345	2025 Jul-Aug	40020592	Large language models and psychiatry.
+346	2025 Jan 23	40001748	The Impact of Chatbot Response Strategies and Emojis Usage on Customers' Purchase Intention: The Mediating Roles of Psychological Distance and Performance Expectancy.
+347	2025	39989507	Exploring the Early Adoption of Open AI among Laypeople and Technical Professionals: An Analysis of Twitter Conversations on #ChatGPT and #GPT3.
+348	2025 Feb 21	39985116	The effects of response time on older and young adults' interaction experience with Chatbot.
+349	2025 Feb 21	39983102	Exploring the Ethical Challenges of Conversational AI in Mental Health Care: Scoping Review.
+350	2025 Aug	39964607	Evidence-Based Analysis of AI Chatbots in Oncology Patient Education: Implications for Trust, Perceived Realness, and Misinformation Management.
+351	2025 Feb 14	39953243	Fairness identification of large language models in recommendation.
+352	2025 Feb 13	39946180	Laypeople's Use of and Attitudes Toward Large Language Models and Search Engines for Health Queries: Survey Study.
+353	2025 Feb	39931456	AXpert: human expert facilitated privacy-preserving large language models for abdominal X-ray report labeling.
+354	2025 Feb 7	39919295	The Efficacy of Conversational AI in Rectifying the Theory-of-Mind and Autonomy Biases: Comparative Analysis.
+355	2024	39911314	Utilisation of ChatGPT and other Artificial Intelligence tools among medical faculty in Uganda: a cross-sectional study.
+356	2025 Feb 3	39899732	Development of Chatbot-Based Oral Health Care for Young Children and Evaluation of its Effectiveness, Usability, and Acceptability: Mixed Methods Study.
+357	2025	39854354	Low-resource MobileBERT for emotion recognition in imbalanced text datasets mitigating challenges with limited resources.
+358	2025 Jan 21	39838160	Current applications and challenges in large language models for patient care: a systematic review.
+359	2025 Jan 20	39832358	Era of Generalist Conversational Artificial Intelligence to Support Public Health Communications.
+360	2025 Jan 17	39820048	Modelling the impact of environmental and social determinants on mental health using generative agents.
+361	2025 Jan 16	39819961	The ECOLANG Multimodal Corpus of adult-child and adult-adult Language.
+362	2025 Jan 15	39814830	Improving authenticity and provenance in digital biomarkers: the case for digital watermarking.
+363	2024 Nov 20	39801619	Demystifying Large Language Models for Medicine: A Primer.
+364	2024 Dec 12	39771676	Child-Centric Robot Dialogue Systems: Fine-Tuning Large Language Models for Better Utterance Understanding and Interaction.
+365	2025 Jan 4	39754656	Preserved but Un-Sustained Responses to Bids for Dyadic Engagement in School-Age Children with Autism.
+366	2025 Jan 1	39742453	Application of Large Language Models in Medical Training Evaluation-Using ChatGPT as a Standardized Patient: Multimetric Assessment.
+367	2025	42421992	On the Empirical Power of Goodness-of-Fit Tests in Watermark Detection.
+368	2024 Dec 18	39694977	MacBehaviour: An R package for behavioural experimentation on large language models.
+369	2024 Dec	39691446	Large language models display human-like social desirability biases in Big Five personality surveys.
+370	2025 Jan	39690137	ChatGPT as a patient education tool in colorectal cancer-An in-depth assessment of efficacy, quality and readability.
+371	2025 Jan 13	39690112	ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model.
+372	2024	39679030	A large language model in solving primary healthcare issues: A potential implication for remote healthcare and medical education.
+373	2024 Dec 11	39661968	Large Language Models and Empathy: Systematic Review.
+374	2025 Mar	39661234	Performance and Reproducibility of Large Language Models in Named Entity Recognition: Considerations for the Use in Controlled Environments.
+375	2024	39650462	Generative AI and future education: a review, theoretical validation, and authors' perspective on challenges and solutions.
+376	2025 Feb	39636606	When the bot walks the talk: Investigating the foundations of trust in an artificial intelligence (AI) chatbot.
+377	2024 May	39634491	Language-controllable programmable metasurface empowered by large language models.
+378	2024	39631034	Deanthropomorphising NLP: Can a language model be conscious?
+379	2024 Nov	39587969	Can Language Models Trained on Written Monologue Learn to Predict Spoken Dialogue?
+380	2025 Jan	39580897	Generating synthetic clinical text with local large language models to identify misdiagnosed limb fractures in radiology reports.
+381	2024 Nov 14	39543236	Testing AI on language comprehension tasks reveals insensitivity to underlying meaning.
+382	2024	39534518	Developing a clinician-friendly rubric for assessing history-taking skills in medical undergraduates speaking English as a foreign language.
+383	2026 Oct	39531691	Extended artificial intelligence aversion: People deny humanness to artificial intelligence users.
+384	2024 Nov 1	39531098	Speech recognition in adverse conditions by humans and machines.
+385	2024	39526123	Beyond humanism: telling response-able stories about significant otherness in human-chatbot relations.
+386	2024	39523266	Large Language Models in Neurosurgery.
+387	2025 Jan	39516445	Assessment of Large Language Models in Cataract Care Information Provision: A Quantitative Comparison.
+388	2024 Nov 8	39514669	Wisdom of the silicon crowd: LLM ensemble prediction capabilities rival human crowd accuracy.
+389	2025 Feb 25	39496509	AI as your ally: The effects of AI-assisted venting on negative affect and perceived social support.
+390	2024 Dec	39486377	LLMs and generative agent-based models for complex systems research.
+391	2024 Oct 31	39482544	Comparing the dental knowledge of large language models.
+392	2024 Oct 30	39472544	Testing the capacity of Bard and ChatGPT for writing essays on ethical dilemmas: A cross-sectional study.
+393	2024 Oct 27	39465310	"It happened to be the perfect thing": experiences of generative AI chatbots for mental health.
+394	2024 Oct 23	39463066	Evaluating the Performance of ChatGPT, Gemini, and Bing Compared with Resident Surgeons in the Otorhinolaryngology In-service Training Examination.
+395	2024 Oct 10	39457795	Tech vs. Tradition: ChatGPT and Mindfulness in Enhancing Older Adults' Emotional Health.
+396	2025 Sep	39448387	Evaluating the reliability of the responses of large language models to keratoconus-related questions.
+397	2024 Oct 15	39442011	Can ChatGPT-4 Diagnose and Treat Like an Orthopaedic Surgeon? Testing Clinical Decision Making and Diagnostic Ability in Soft-Tissue Pathologies of the Foot and Ankle.
+398	2024	39439754	Advice from artificial intelligence: a review and practical implications.
+399	2024 Oct 15	39430451	Challenging large language models' "intelligence" with human tools: A neuropsychological investigation in Italian language on prefrontal functioning.
+400	2024 Dec	39393621	ChatGPT as a medical education resource in cardiology: Mitigating replicability challenges and optimizing model performance.
+401	2024 Oct	39386990	Personality testing of large language models: limited temporal stability, but highlighted prosociality.
+402	2024 Jan-Dec	39381827	Preparing for aging: Understanding middle-aged user acceptance of AI chatbots through the technology acceptance model.
+403	2025 Jan	39368278	Exploring the categorical nature of colour perception: Insights from artificial networks.
+404	2024 Oct	39359701	ChatGPT Virtual Assistant for Breast Reconstruction: Assessing Preferences for a Traditional Chatbot versus a Human AI VideoBot.
+405	2024 Oct	39350703	[Nursing Education in the Era of Generative Artificial Intelligence: Are We Ready?].
+406	2025 Feb	39344088	How generative artificial intelligence portrays science: Interviewing ChatGPT from the perspective of different audience segments.
+407	2024 Sep 27	39333331	GPT-3.5 altruistic advice is sensitive to reciprocal concerns but not to strategic risk.
+408	2025 Jun	39332706	ChatGPT and trainee performances in the management of maxillofacial patients.
+409	2024 Sep 26	39324852	Generation of Backward-Looking Complex Reflections for a Motivational Interviewing-Based Smoking Cessation Chatbot Using GPT-4: Algorithm Development and Validation.
+410	2026 Jan	39324769	The Comparative Performance of Large Language Models on the Hand Surgery Self-Assessment Examination.
+411	2025 Apr	39322837	Advancement of Generative Pre-trained Transformer Chatbots in Answering Clinical Questions in the Practical Rhinoplasty Guideline.
+412	2024 Nov 6	39321336	Ethical Considerations in Human-Centered AI: Advancing Oncology Chatbots Through Large Language Models.
+413	2024 Oct	39308156	Integrating large language models in care, research, and education in multiple sclerosis management.
+414	2025 Apr	39269615	Unveiling the risks of ChatGPT in diagnostic surgical pathology.
+415	2024 Sep 11	39259341	Analysis of Responses of GPT-4 V to the Japanese National Clinical Engineer Licensing Examination.
+416	2024 Nov	39255105	The Effects of Depth of Knowledge of a Virtual Agent.
+417	2024 Jun 3	39242743	Studying and improving reasoning in humans and machines.
+418	2024 Jun 29	39242737	How and why psychologists should respond to the harms associated with generative AI.
+419	2024 Nov	39234774	Exploring the benefits and challenges of AI-driven large language models in gastroenterology: Think out of the box.
+420	2024 Sep 3	39226544	The SoCAP (Social Communication, Affiliation, and Presence) Taxonomy of Social Features: Scoping Review of Commercially Available eHealth Apps.
+421	2024 Nov	39226157	Exploring the role of Large Language Models in haematology: A focused review of applications, benefits and limitations.
+422	2024 Oct	39224979	Reviewer Experience Detecting and Judging Human Versus Artificial Intelligence Content: The Stroke Journal Essay Contest.
+423	2025 Jul	39207299	Psychomatics-A Multidisciplinary Framework for Understanding Artificial Minds.
+424	2024 Jan	39193585	Advancing radiology practice and research: harnessing the potential of large language models amidst imperfections.
+425	2024 Oct	39180701	Utilizing Large Language Models in Ophthalmology: The Current Landscape and Challenges.
+426	2024	39176045	What is it like to be a bot? The world according to GPT-4.
+427	2024 Aug 21	39169090	Strong and weak alignment of large language models with human values.
+428	2024 Aug 19	39159451	Co-Designing a Smoking Cessation Chatbot: Focus Group Study of End Users and Smoking Cessation Professionals.
+429	2024 Jul-Sep	39140014	Artificial intelligence at the pen's edge: Exploring the ethical quagmires in using artificial intelligence models like ChatGPT for assisted writing in biomedical research.
+430	2024 Aug 9	39121263	Evaluating accuracy and reproducibility of ChatGPT responses to patient-based questions in Ophthalmology: An observational study.
+431	2024 Sep	39116598	Large language models have divergent effects on self-perceptions of mind and the attributes considered uniquely human.
+432	2024 Aug 7	39110504	Engagement With Conversational Agent-Enabled Interventions in Cardiometabolic Disease Management: Protocol for a Systematic Review.
+433	2024 Jun	39100158	(Ir)rationality and cognitive biases in large language models.
+434	2024 Aug	39099569	The potential of ChatGPT in medicine: an example analysis of nephrology specialty exams in Poland.
+435	2024 Sep	39059040	Evaluating generative AI responses to real-world drug-related questions.
+436	2024	39055534	Gender effect in human-machine communication: a neurophysiological study.
+437	2024 Jan-Dec	39051534	Large Foundation Model for Cancer Segmentation.
+438	2024 Sep	39048694	[Large language models in science].
+439	2024	39045247	An evaluation of ChatGPT and Bard (Gemini) in the context of biological knowledge retrieval.
+440	2024 Jun	39036109	Inadequate Performance of ChatGPT on Orthopedic Board-Style Written Exams.
+441	2024	39035790	Generating rhythm game music with jukebox.
+442	2024 Jul 16	39012688	Evaluating the Potential and Pitfalls of AI-Powered Conversational Agents as Humanlike Virtual Health Carers in the Remote Management of Noncommunicable Diseases: Scoping Review.
+443	2024 Aug	38981369	Beyond code: Consumer response to chatbots.
+444	2024 Jun	38974344	Data science through natural language with ChatGPT's Code Interpreter.
+445	2024 Aug	38964194	Reshaping free-text radiology notes into structured reports with generative question answering transformers.
+446	2024 Dec	38959373	Can large language models provide accurate and quality information to parents regarding chronic kidney diseases?
+447	2024 Jul 2	38958218	The Role of Humanization and Robustness of Large Language Models in Conversational Artificial Intelligence for Individuals With Depression: A Critical Analysis.
+448	2024	38957452	ChatGPT: perspectives from human-computer interaction and psychology.
+449	2024 Jun	38948324	Large language models can infer psychological dispositions of social media users.
+450	2024 May 24	38929784	ChatGPT as a New Tool to Select a Biological for Chronic Rhino Sinusitis with Polyps, "Caution Advised" or "Distant Reality"?
+451	2024 Jun 18	38920532	Effect of Private Deliberation: Deception of Large Language Models in Game Play.
+452	2024 Apr-Jun	38912370	ChatGPT Is Moderately Accurate in Providing a General Overview of Orthopaedic Conditions.
+453	2025 Jun	38897235	Large-scale foundation models and generative AI for BigData neuroscience.
+454	2024	38887241	Large language models in physical therapy: time to adapt and adept.
+455	2024 Jan 22	38875597	Beyond the Hype-The Actual Role and Risks of AI in Today's Medical Practice: Comparative-Approach Study.
+456	2024 Jan-Dec	38854920	Assessing usability of intelligent guidance chatbots in Chinese hospitals: Cross-sectional study.
+457	2024 Aug	38837375	Reliability of artificial intelligence chatbot responses to frequently asked questions in breast surgical oncology.
+458	2024 Jun	38827766	Application of ChatGPT for Orthopedic Surgeries and Patient Care.
+459	2024 Sep 1	38814572	Vision of the future: large language models in ophthalmology.
+460	2024 Jul	38788470	Performance of ChatGPT on American Board of Surgery In-Training Examination Preparation Questions.
+461	2024 May 24	38781343	Predicting the next sentence (not word) in large language models: What model-brain alignment tells us about discourse comprehension.
+462	2024 Jun 11	38759131	Implications of Large Language Models for Quality and Efficiency of Neurologic Care: Emerging Issues in Neurology.
+463	2024	38746852	Neural Networks as Cognitive Models of the Processing of Syntactic Constraints.
+464	2024 Oct 24	38738492	An evaluation of ChatGPT compared with dermatological surgeons' choices of reconstruction for surgical defects after Mohs surgery.
+465	2024 May 21	38722813	Can Generative AI improve social science?
+466	2024 Sep 20	38719344	Medical education with large language models in ophthalmology: custom instructions and enhanced retrieval capabilities.
+467	2024 Apr 29	38683664	Usability Comparison Among Healthy Participants of an Anthropomorphic Digital Human and a Text-Based Chatbot as a Responder to Questions on Mental Health: Randomized Controlled Trial.
+468	2024 Mar 28	38674356	Innovations in Medicine: Exploring ChatGPT's Impact on Rare Disorder Management.
+469	2024 Mar 31	38671764	Applications of Large Language Models in Pathology.
+470	2024 May 10	38669696	Dense Sample Deep Learning.
+471	2024	38633059	Exploring a GPT-based large language model for variable autonomy in a VR-based human-robot teaming simulation.
+472	2024 Jun	38619790	Take a shot! Natural language control of intelligent robotic X-ray systems in surgery.
+473	2024	38618488	Folk psychological attributions of consciousness to large language models.
+474	2024 Apr 9	38593424	Assessing the Alignment of Large Language Models With Human Values for Mental Health Integration: Cross-Sectional Study Using Schwartz's Theory of Basic Values.
+475	2024 Apr 2	38566254	Evaluating the accuracy and relevance of ChatGPT responses to frequently asked questions regarding total knee replacement.
+476	2024 Apr 2	38565880	Effects of ChatGPT's AI capabilities and human-like traits on spreading information in work environments.
+477	2024 Apr 1	38564215	Quality of Large Language Model Responses to Radiation Oncology Patient Care Questions.
+478	2024 Mar 26	38528008	Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots.
+479	2024 Dec 1	38527167	ChatGPT in Urogynecology Research: Novel or Not?
+480	2024 Feb	38523987	Ethical Concerns About ChatGPT in Healthcare: A Useful Tool or the Tombstone of Original and Reflective Thinking?
+481	2024 Apr 19	38523781	Analysis and prediction in SCR experiments using GPT-4 with an effective chain-of-thought prompting strategy.
+482	2024	38510306	On the relationship between mind perception and social support of chatbots.
+483	2024 Jun	38508911	Dissociating language and thought in large language models.
+484	2024 May	38499280	Accuracy and consistency of chatbots versus clinicians for answering pediatric dentistry questions: A pilot study.
+485	2024 Jul	38484744	Can large language models replace humans in systematic reviews? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages.
+486	2024 Mar 1	38484238	Evaluation of ChatGPT for Pelvic Floor Surgery Counseling.
+487	2024 Nov	38445611	The performance of large language models in intercollegiate Membership of the Royal College of Surgeons examination.
+488	2024 Apr	38444331	Artificial intelligence in dermatology: advancements and challenges in skin of color.
+489	2024 Mar	38442909	A Survey of Clinicians' Views of the Utility of Large Language Models.
+490	2023 Oct	38441079	Studying Psychosis Using Natural Language Generation: A Review of Emerging Opportunities.
+491	2024 May	38428201	Unlocking human-like conversations: Scoping review of automation techniques for personalized healthcare interventions using conversational agents.
+492	2024	38419805	Automating untruths: ChatGPT, self-managed medication abortion, and the threat of misinformation in a post-Roe world.
+493	2024 May	38411898	Artificial Intelligence and IBD: Where are We Now and Where Will We Be in the Future?
+494	2023 Dec	38405625	ChatGPT in forensic sciences: a new Pandora's box with advantages and challenges to pay attention.
+495	2024 May	38404172	Utility of artificial intelligence-based large language models in ophthalmic care.
+496	2024 Feb 21	38381486	Evaluating Large Language Models for the National Premedical Exam in India: Comparative Analysis of GPT-3.5, GPT-4, and Bard.
+497	2024 Feb 17	38366043	The Breakthrough of Large Language Models Release for Medical Applications: 1-Year Timeline and Perspectives.
+498	2024 May	38359704	Can ChatGPT provide appropriate meal plans for NCD patients?
+499	2024 Apr	38354285	How Appropriate Are Recommendations of Online Chat-Based Artificial Intelligence (ChatGPT) to Common Questions on Ventral Hernia Repair?
+500	2024	38354135	Can ChatGPT assist authors with abstract writing in medical journals? Evaluating the quality of scientific abstracts generated by ChatGPT and original abstracts.
+501	2024 Apr	38330366	Do large language models show decision heuristics similar to humans? A case study using GPT-3.5.
+502	2024 Apr	38320337	Understanding ChatGPT for evidence-based utilization in interventional radiology.
+503	2024	38313827	Assessment of the Reliability and Clinical Applicability of ChatGPT's Responses to Patients' Common Queries About Rosacea.
+504	2024 Mar	38281582	ChatGPT in maternal-fetal medicine practice: a primer for clinicians.
+505	2024 Jun 1	38261757	Unlocking the Black Box? A Comprehensive Exploration of Large Language Models in Rehabilitation.
+506	2024 Apr	38261307	Large language model, AI and scientific research: why ChatGPT is only the beginning.
+507	2024 Jan 18	38238474	Conversational AI and equity through assessing GPT-3's communication with diverse social groups on contentious topics.
+508	2024 Jan 4	38201418	A Systematic Review and Meta-Analysis of Artificial Intelligence Tools in Medicine and Healthcare: Applications, Considerations, Limitations, Motivation and Challenges.
+509	2024 Mar 1	38199794	ChatGPT: a reliable fertility decision-making tool?
+510	2024 Jun	38199323	Measuring Implicit Bias in ICU Notes Using Word-Embedding Neural Network Models.
+511	2024 Jul	38197146	Artificial intelligence in dental education: ChatGPT's performance on the periodontic in-service examination.
+512	2025 Jan	38194585	Talking technology: exploring chatbots as a tool for cataract patient education.
+513	2024 Mar 5	38181989	The role of artificial intelligence in generating original scientific research.
+514	2023 Oct	38177754	Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT.
+515	2023 Dec	38174178	Generative Artificial Intelligence Terminology: A Primer for Clinicians and Medical Researchers.
+516	2024 Mar	38172630	Driving and suppressing the human language network using large language models.
+517	2023 Dec 28	38153785	Differentiating ChatGPT-Generated and Human-Written Medical Texts: Quantitative Study.
+518	2024 Feb	38126878	Appropriateness of Online Chat-Based Artificial Intelligence (ChatGPT) Answers to Common Questions on Inguinal Hernia Repair.
+519	2024 Jan 31	38111256	Evaluation of ChatGPT's Real-Life Implementation in Undergraduate Dental Education: Mixed Methods Study.
+520	2023 Nov	38107365	Artificial Intelligence: Impact and Challenges to Authors, Journals and Medical Publishing.
+521	2023	38107064	Is ChatGPT accurate and reliable in answering questions regarding head and neck cancer?
+522	2023	38106543	Real-time emotion generation in human-robot dialogue using large language models.
+523	2023 Nov	38098921	Stratified Evaluation of GPT's Question Answering in Surgery Reveals Artificial Intelligence (AI) Knowledge Gaps.
+524	2023 Dec 13	38092821	Harnessing ChatGPT and GPT-4 for evaluating the rheumatology questions of the Spanish access exam to specialized medical training.
+525	2023 Dec 19	38091290	Systematic testing of three Language Models reveals low language accuracy, absence of response stability, and a yes-response bias.
+526	2024 Jan	38081504	Testing ChatGPT ability to answer laypeople questions about cardiac arrest and cardiopulmonary resuscitation.
+527	2023 Dec 8	38064707	Embodied Conversational Agents Providing Motivational Interviewing to Improve Health-Related Behaviors: Scoping Review.
+528	2023 Dec 5	38032930	Uncovering the semantics of concepts using GPT-4.
+529	2024 Mar	38032062	Bridging bytes and biopsies: A comparative analysis of ChatGPT and histopathologists in pathology diagnosis and collaborative potential.
+530	2023 Dec	38010467	Chatbots for HIV Prevention and Care: a Narrative Review.
+531	2023 Oct 25	37998082	Empowering Deaf-Hearing Communication: Exploring Synergies between Predictive and Generative AI-Based Strategies towards (Portuguese) Sign Language Interpretation.
+532	2023 Nov 9	37998071	Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives.
+533	2023 Nov 21	37988149	The Intersection of ChatGPT, Clinical Medicine, and Medical Education.
+534	2024 Feb 1	37976385	ChatGPT's Ability to Assist with Clinical Documentation: A Randomized Controlled Trial.
+535	2023 Nov 11	37952037	The CASA theory no longer applies to desktop computers.
+536	2023 Nov 10	37948100	Strengths and Weaknesses of ChatGPT Models for Scientific Writing About Medical Vitamin B12: Mixed Methods Study.
+537	2023 Nov	37938776	Role play with large language models.
+538	2024 Apr 22	37936253	Introducing Quin: The Design and Development of a Prototype Chatbot to Support Smoking Cessation.
+539	2023 Sep	37908933	Utilizing ChatGPT-4 for Providing Information on Periodontal Disease to Patients: A DISCERN Quality Analysis.
+540	2023 Sep	37901715	A Comprehensive Survey of ChatGPT: Advancements, Applications, Prospects, and Challenges.
+541	2023	37899964	Explaining pretrained language models' understanding of linguistic structures using construction grammar.
+542	2023 Oct 31	37883432	Large language models show human-like content biases in transmission chain experiments.
+543	2023 Oct 19	37857839	A vignette-based evaluation of ChatGPT's ability to provide appropriate and equitable medical advice across care contexts.
+544	2023 Oct	37811040	ChatGPT and artificial hallucinations in stem cell research: assessing the accuracy of generated references - a preliminary study.
+545	2023 Sep	37809569	HEXACO, the Dark Triad, and Chat GPT: Who is willing to commit academic cheating?
+546	2023	37795422	Evaluating the performance of ChatGPT-4 on the United Kingdom Medical Licensing Assessment.
+547	2023 Jan-Dec	37780059	Changes in patient perceptions regarding ChatGPT-written explanations on lifestyle modifications for preventing urolithiasis recurrence.
+548	2023 Aug	37779749	ChatGPT in Medical Education and Research: A Boon or a Bane?
+549	2023 Sep 14	37765933	Natural-Language-Driven Multimodal Representation Learning for Audio-Visual Scene-Aware Dialog System.
+550	2023 Sep 12	37761715	Enhancing Kidney Transplant Care through the Integration of Chatbot.
+551	2023 Sep 26	37751279	Factors Influencing the Acceptability, Acceptance, and Adoption of Conversational Agents in Health Care: Integrative Review.
+552	2023 Sep	37736475	Are artificial intelligence large language models a reliable tool for difficult differential diagnosis? An a posteriori analysis of a peculiar case of necrotizing otitis externa.
+553	2024 Nov	37732968	Inductive reasoning in minds and machines.
+554	2023 Aug	37731429	ChatGPT: A Supplemental Tool for Efficiency and Improved Communication in Rural Dermatology.
+555	2023 Nov	37726551	Using ChatGPT to predict the future of personalized medicine.
+556	2023	37711593	Seeing eye to eye: trustworthy embodiment for task-based conversational agents.
+557	2023	37701430	The potential of chatbots in chronic venous disease patient management.
+558	2023 Aug	37700949	Assessing the Efficacy of ChatGPT in Solving Questions Based on the Core Concepts in Physiology.
+559	2023 Aug 28	37693388	Assessing Racial and Ethnic Bias in Text Generation for Healthcare-Related Tasks by ChatGPT(1).
+560	2023 Jul	37691594	Utilizing ChatGPT in clinical research related to anesthesiology: a comprehensive review of opportunities and limitations.
+561	2023 Aug 25	37685617	Examining the Validity of ChatGPT in Identifying Relevant Nephrology Literature: Findings and Implications.
+562	2023 Aug 29	37685452	Developing an AI-Assisted Educational Chatbot for Radiotherapy Using the IBM Watson Assistant Platform.
+563	2023 Aug	37671207	Performance of Large Language Models (ChatGPT, Bing Search, and Google Bard) in Solving Case Vignettes in Physiology.
+564	2023 Nov 2	37664912	AI Chatbots in Clinical Laboratory Medicine: Foundations and Trends.
+565	2024 Jan	37640177	Large Language Model-based Chatbot as a Source of Advice on First Aid in Heart Attack.
+566	2023 Sep	37625267	Benchmarking large language models' performances for myopia care: a comparative analysis of ChatGPT-3.5, ChatGPT-4.0, and Google Bard.
+567	2024 May	37583313	The role of ChatGPT in enhancing ENT surgical training - a trainees' perspective.
+568	2023 Aug 10	37561567	The Influence of Anthropomorphic Cues on Patients' Perceived Anthropomorphism, Social Presence, Trust Building, and Acceptance of Health Care Conversational Agents: Within-Subject Web-Based Experiment.
+569	2023 Sep	37537126	Success of ChatGPT, an AI language model, in taking the French language version of the European Board of Ophthalmology examination: A novel approach to medical knowledge assessment.
+570	2023 Jul-Aug	37521213	Using ChatGPT for Writing Articles for Patients' Education for Dermatological Diseases: A Pilot Study.
+571	2023 Jul	37518931	A Tête-à-tête with ChatGPT on the impact of artificial intelligence in medical education.
+572	2023 Jul 2	37503997	The Use of Voice Assistant for Psychological Assessment Elicits Empathy and Engagement While Maintaining Good Psychometric Properties.
+573	2023 Oct 4	37459402	Assessing ChatGPT Responses to Common Patient Questions Regarding Total Hip Arthroplasty.
+574	2024 Mar	37452215	The Role of ChatGPT in Medical Research: Progress and Limitations.
+575	2023 May	37378091	The Readiness of ChatGPT to Write Scientific Case Reports Independently: A Comparative Evaluation Between Human and Artificial Intelligence.
+576	2023 Oct 13	37345910	Man, or Machine? Artificial Intelligence Language Systems in Plastic Surgery.
+577	2023	37324824	Waiting for a digital therapist: three challenges on the path to psychotherapy delivered by artificial intelligence.
+578	2023 Jun 14	37314848	Investigating the Impact of User Trust on the Adoption and Use of ChatGPT: Survey Analysis.
+579	2023 Dec	37314466	Evaluation of the Artificial Intelligence Chatbot on Breast Reconstruction and Its Efficacy in Surgical Research: A Case Study.
+580	2024 Nov 4	37295794	Addition of dexamethasone to prolong peripheral nerve blocks: a ChatGPT-created narrative review.
+581	2023	37293238	Human-like problem-solving abilities in large language models using ChatGPT.
+582	2023 Jul 24	37271176	Understanding computational dialogue understanding.
+583	2023 Jul	37271011	ChatGPT in medical imaging higher education.
+584	2023 Sep	39845855	ChatGPT: Friend or foe in medical writing? An example of how ChatGPT can be utilized in writing case reports.
+585	2023 Jun 1	37257860	What's all the chatter about?
+586	2023 May 31	37256685	Artificial Intelligence Can Generate Fraudulent but Authentic-Looking Scientific Medical Articles: Pandora's Box Has Been Opened.
+587	2023	37252674	AI-based chatbots in conversational commerce and their effects on product and price perceptions.
+588	2023 May 29	37247220	Preliminary Evaluation of a Conversational Agent to Support Self-management of Individuals Living With Posttraumatic Stress Disorder: Interview Study With Clinical Experts.
+589	2023 Sep	37225599	Academic integrity and artificial intelligence: is ChatGPT hype, hero or heresy?
+590	2023	37215063	ChatGPT in medicine: an overview of its applications, advantages, limitations, future prospects, and ethical considerations.
+591	2023 May 18	37198498	Translating radiology reports into plain language using ChatGPT and GPT-4 with prompt learning: results, limitations, and potential.
+592	2023 Aug	37183840	ChatGPT from radiologists' perspective.
+593	2023 Jul	37173156	Can AI language models replace human participants?
+594	2023	37162073	FUTURE OF THE LANGUAGE MODELS IN HEALTHCARE: THE ROLE OF CHATGPT.
+595	2023	37122812	AI chatbots not yet ready for clinical use.
+596	2023 May	37100505	Knowledge graph assisted end-to-end medical dialog generation.
+597	2023 Oct	37095384	Aesthetic Surgery Advice and Counseling from Artificial Intelligence: A Rhinoplasty Consultation with ChatGPT.
+598	2023 Oct 30	37090673	Driving and suppressing the human language network using large language models.
+599	2024 Feb	37078489	Accuracy of Information and References Using ChatGPT-3 for Retrieval of Clinical Radiological Information.
+600	2023 Apr	37077800	From human writing to artificial intelligence generated text: examining the prospects and potential threats of ChatGPT in academic writing.
+601	2023 May	37057977	Do Anthropomorphic Chatbots Increase Counseling Satisfaction and Reuse Intention? The Moderated Mediation of Social Rapport and Social Anxiety.
+602	2023 Apr 1	36972383	Artificial intelligence-based text generators in hepatology: ChatGPT is just the beginning.
+603	2023	36967832	She adapts to her student: An expert pragmatic speaker tailoring her referring expressions to the Layman listener.
+604	2023 May	36920578	Role of Chat GPT in Public Health.
+605	2024 Jun	36916743	User Experiences of Well-Being Chatbots.
+606	2023 Feb 27	36849466	Knowledge grounded medical dialogue generation using augmented graphs.
+607	2023 Mar	36840975	Large Language Models Demonstrate the Potential of Statistical Learning in Language.
+608	2023 Feb	36819954	ChatGPT Output Regarding Compulsory Vaccination and COVID-19 Vaccine Conspiracy: A Descriptive Study at the Outset of a Paradigm Shift in Online Search for Information.
+609	2024 Jun	36795435	Let the algorithm speak: How to use neural networks for automatic item generation in psychological scale development.
+610	2022 Nov 27	36437277	Multiturn dialogue generation by modeling sentence-level and discourse-level contexts.
+611	2022 Oct 29	36366016	Capturing Conversational Gestures for Embodied Conversational Agents Using an Optimized Kaneda-Lucas-Tomasi Tracker and Denavit-Hartenberg-Based Kinematic Model.
+612	2022	36325030	Schrödinger's tree-On syntax and neural language models.
+613	2022 Oct 31	36315228	Validity of Chatbot Use for Mental Health Assessment: Experimental Study.
+614	2022	36304869	Designing a conversational agent to promote teamwork and collaborative practices using design thinking: An explorative study on user experiences.
+615	2022	36213166	Electronic Brainstorming With a Chatbot Partner: A Good Idea Due to Increased Productivity and Idea Diversity.
+616	2022 Sep 23	36185777	Impact of Digital Assistant Attributes on Millennials' Purchasing Intentions: A Multi-Group Analysis using PLS-SEM, Artificial Neural Network and fsQCA.
+617	2022 Oct 20	36150049	A Cognitive Behavioral Therapy Chatbot (Otis) for Health Anxiety Management: Mixed Methods Pilot Study.
+618	2023	36101883	Using chatbots to support student goal setting and social presence in fully online activities: learner engagement and perceptions.
+619	2022 Sep	35976080	When a Chatbot Smiles at You: The Psychological Mechanism Underlying the Effects of Friendly Language Use by Product Recommendation Chatbots.
+620	2022	35903740	Promoting Physical Activity in Older Adults With Type 2 Diabetes via an Anthropomorphic Conversational Agent: Development of an Evidence and Theory-Based Multi-Behavior Intervention.
+621	2022 Jul 27	35896542	ProtGPT2 is a deep unsupervised language model for protein design.
+622	2022 Jul 8	35802407	Language Use in Conversational Agent-Based Health Communication: Systematic Review.
+623	2022 Jul 7	35797093	Exploring Users' Experiences With a Quick-Response Chatbot Within a Popular Smoking Cessation Smartphone App: Semistructured Interview Study.
+624	2022	35558168	Emerging Grounded Shared Vocabularies Between Human and Machine, Inspired by Human Language Evolution.
+625	2022 Jul	35523534	New meaning for NLP: the trials and tribulations of natural language processing with GPT-3 in ophthalmology.
+626	2022 Apr 13	35416791	The Use of Artificial Intelligence-Based Conversational Agents (Chatbots) for Weight Loss: Scoping Review and Practical Recommendations.
+627	2022 Feb 10	35142635	Operationalizing and Implementing Pretrained, Large Artificial Intelligence Linguistic Models in the US Health Care System: Outlook of Generative Pretrained Transformer 3 (GPT-3) as a Service Model.
+628	2021	35141519	Artificial Intelligence Models Do Not Ground Negation, Humans Do. GuessWhat?! Dialogues as a Case Study.
+629	2022 Jan-Dec	35133949	BioPhi: A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning.
+630	2022 Apr	35043026	Design principles for conversational agents to support Emergency Management Agencies.
+631	2022	40477988	[Ready for Take-off?-Design and Perception of Chatbots for Travel Vaccination Counseling].
+632	2021	34957013	Reducing Loneliness Among Aging Adults: The Roles of Personal Voice Assistants and Anthropomorphic Interactions.
+633	2021 Dec 24	34951601	Text Mining of Adverse Events in Clinical Trials: Deep Learning Approach.
+634	2021 Dec 21	34931997	Improving User Experience of Virtual Health Assistants: Scoping Review.
+635	2021 Dec	34872429	Artificially intelligent chatbots in digital mental health interventions: a review.
+636	2021	34870266	Connect With Me. Exploring Influencing Factors in a Human-Technology Relationship Based on Regular Chatbot Use.
+637	2021	34858919	Participatory Development and Pilot Testing of an Adolescent Health Promotion Chatbot.
+638	2021 Nov 29	34847056	Chatbot for Health Care and Oncology Applications Using Artificial Intelligence and Machine Learning: Systematic Review.
+639	2022 Jan	34652216	Hypocrisy Induction: Using Chatbots to Promote COVID-19 Social Distancing.
+640	2023 Mar	34048287	Trust in Artificial Intelligence: Meta-Analytic Findings.
+641	2021 Feb	34012200	Exploring the Influential Factors of Consumers' Willingness Toward Using COVID-19 Related Chatbots: An Empirical Study.
+642	2021	33984021	TweepFake: About detecting deepfake tweets.
+643	2020	33936512	Self-Diagnosis through AI-enabled Chatbot-based Symptom Checkers: User Experiences and Design Considerations.
+644	2021 May 26	33913814	Personalization of Conversational Agent-Patient Interaction Styles for Chronic Disease Management: Two Consecutive Cross-sectional Questionnaire Studies.
+645	2021 Mar	33842700	Can a monologue-style ECA more effectively motivate eHealth users in initial distress than textual guidance?
+646	2021	35603227	What makes you continuously use chatbot services? Evidence from chinese online travel agencies.
+647	2020 Dec 16	33142282	Brain2Char: a deep architecture for decoding text from brain recordings.
+648	2020	32724304	Design and Development of Diabetes Management System Using Machine Learning.
+649	2020 Jul 22	32706734	Acceptability of an Embodied Conversational Agent for Type 2 Diabetes Self-Management Education and Support via a Smartphone App: Mixed Methods Study.
+650	2020 Jun 26	32604638	Students' Perceptions on Chatbots' Potential and Design Characteristics in Healthcare Education.

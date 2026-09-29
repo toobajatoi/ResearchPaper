@@ -1,0 +1,24 @@
+# AI-use log
+
+Scoping review only. The discontinued experiment has its own log at `ai_use_log.csv` in the project root.
+
+The human author remains responsible for source verification, interpretation, claims, and the manuscript. Nothing in this log is an included study, a screening count, or a result.
+
+| Date | Tool | Task | How it was used | Independently verified |
+| --- | --- | --- | --- | --- |
+| 2026-09-29 | Cursor agent | Inventory the project and stop the old study | Read the files in the project folder, classified them as the discontinued Urdu–English API experiment, and wrote `OLD_PROJECT_ARCHIVE.md`. No files were deleted. `.env` values were not copied. | Pending author check of the file list against the folder. |
+| 2026-09-29 | Cursor agent | Draft the scoping-review protocol and search strategy | Wrote `01_protocol.md` and `02_search_strategy.md` from the project brief. Did not search the review databases, screen papers, or write the manuscript. | Pending author approval. The search has not been run. |
+| 2026-09-29 | Cursor agent, web search | Check methodological sources before citing them | Opened the JBI manual chapter page and copied its "How to cite" line for Pollock et al. Confirmed Peters et al. (2020) as PMID 33038124, DOI 10.11124/JBIES-20-00167, from the PubMed search result. The snippet did not include a full author string. Confirmed Peters et al. (2022) authors from the Ovid full-text display, and DOI, volume 20, issue 4, pages 953–968, PMID 35102103 from Europe PMC. PubMed returned a 403 error for that record. | Pending author check against the PDFs or the manual. |
+| 2026-09-29 | Cursor agent, web search | Locate seed papers so the search strategy does not invent them | DeVrio et al. (2025) was taken from the CHI author page and DOI 10.1145/3706598.3714038. Ibrahim et al. was taken from the ICLR 2026 abstract page and arXiv 2502.07077. The ACL 2025 Anthology item 2025.acl-long.1259 was located with DOI 10.18653/v1/2025.acl-long.1259; its author list was not copied because the locating snippet did not give a complete list. | Pending author check of the three full texts. These papers are not included yet. |
+| 2026-09-29 | Cursor agent, web search | Check where *Human-Machine Communication* is indexed | Used the journal About page as reported in search results: Scopus, ProQuest, EBSCO, Google Scholar, Informit, DOAJ. Did not treat a third-party "not in Web of Science" claim as confirmed. | Pending a direct check of the About page and of Web of Science at search time. |
+
+Arksey and O'Malley (2005), Levac et al. (2010), Tricco et al. (2018), and Rethlefsen et al. (2021) are cited from their published records. Their full texts were not re-downloaded on this date.
+
+| Date | Tool | Task | How it was used | Independently verified |
+| --- | --- | --- | --- | --- |
+| 2026-09-29 | Cursor agent | Delete the discontinued experiment files | Deleted the API scripts, prompts, pilot log, translation files, and `.env` after you asked for unnecessary files to be removed. Updated `OLD_PROJECT_ARCHIVE.md`. | Pending your check of the folder. |
+| 2026-09-29 | Cursor agent | Start the literature search | Ran an OpenAlex title-and-abstract query and recorded the reported count of 11,243. The export did not finish because OpenAlex returned HTTP 429. The partial pages were not saved. | The count is from the API response printed during the run. The records themselves were not saved. |
+| 2026-09-29 | Cursor agent | PubMed supplementary search | Ran the Search 1 query for 1 January 2020 through 29 September 2026. PubMed reported 650 PMIDs, saved in `data/pubmed/search1_ids.json`. | Pending your check of the saved id file against a PubMed search. |
+| 2026-09-29 | Cursor agent | Human-Machine Communication hand search | Harvested 131 OAI records and screened titles and abstracts. Fifteen were kept for full-text reading. None were marked included. | Pending your review of `data/screening.csv`. |
+| 2026-09-29 | Cursor agent | PubMed title and abstract screening | Read all 650 titles, excluded 564 at title, fetched 86 abstracts, then excluded 29 at abstract and kept 57 for full text. Decisions are in `data/screening.csv`. Journal PDFs for the 15 HMC papers returned HTTP 403 and were not read. | Pending your review of the screening file and the saved abstracts. |
+| 2026-09-29 | Cursor agent | PubMed full-text reading | Downloaded 46 Europe PMC XML files, checked titles against the queue, and recorded 21 includes and 25 full-text exclusions in `data/screening.csv`. Five uncertain passage reads were rechecked in the XML before the decision was changed. The Chinese kinship paper was rechecked and remained excluded. Eleven PubMed papers and 15 HMC PDFs are still unread. | Pending your review of `data/fulltext/decisions/final_decisions.json` against the XML files. |

@@ -1,0 +1,244 @@
+[
+  {
+    "pmid": "42648233",
+    "doi": "10.1016/j.copsyc.2026.102397",
+    "title": "Seeing humans in technology: The antecedents, boundaries and consequences of AI anthropomorphism.",
+    "license": [
+      "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "https://www.elsevier.com/legal/tdmrep-license",
+      "https://doi.org/10.15223/policy-017",
+      "https://doi.org/10.15223/policy-037",
+      "https://doi.org/10.15223/policy-012",
+      "https://doi.org/10.15223/policy-029",
+      "https://doi.org/10.15223/policy-004"
+    ],
+    "links": [
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S2352250X26001351?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S2352250X26001351?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "42463863",
+    "doi": "10.1038/s41598-026-62696-9",
+    "title": "Chatbot design characteristics and initial stickiness intentions in healthcare mobile applications.",
+    "license": [
+      "https://creativecommons.org/licenses/by-nc-nd/4.0",
+      "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "links": [
+      {
+        "url": "https://www.nature.com/articles/s41598-026-62696-9",
+        "content-type": "text/html",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "42269974",
+    "doi": "10.1016/j.jad.2026.122123",
+    "title": "The engagement-validation loop: Sycophancy, anthropomorphic projection, and clinical risk in informal AI-based mental health support.",
+    "license": [
+      "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "https://www.elsevier.com/legal/tdmrep-license"
+    ],
+    "links": [
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S0165032726009754?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S0165032726009754?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "41548427",
+    "doi": "10.1016/j.copsyc.2025.102263",
+    "title": "Therapy chatbots and emotional complexity: do therapy chatbots really empathise?",
+    "license": [
+      "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "https://www.elsevier.com/legal/tdmrep-license",
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "links": [
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S2352250X25002763?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S2352250X25002763?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "40810905",
+    "doi": "10.1007/s00345-025-05872-2",
+    "title": "Patient insights into empathy, compassion and self-disclosure in medical large language models: results from the IPALLM III study.",
+    "license": [
+      "https://www.springernature.com/gp/researchers/text-and-data-mining",
+      "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    ],
+    "links": [
+      {
+        "url": "https://link.springer.com/content/pdf/10.1007/s00345-025-05872-2.pdf",
+        "content-type": "application/pdf",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s00345-025-05872-2",
+        "content-type": "text/html",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://link.springer.com/content/pdf/10.1007/s00345-025-05872-2.pdf",
+        "content-type": "application/pdf",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "pmid": "40694494",
+    "doi": "10.1080/15265161.2025.2526734",
+    "title": "Human-Like Epistemic Trust? A Conceptual and Normative Analysis of Conversational AI in Mental Healthcare.",
+    "license": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "links": [
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/15265161.2025.2526734",
+        "content-type": "unspecified",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "pmid": "40562106",
+    "doi": "10.1016/j.jad.2025.119760",
+    "title": "Depression intervention using AI chatbots with social cues: a randomized trial of effectiveness.",
+    "license": [
+      "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "https://www.elsevier.com/legal/tdmrep-license",
+      "https://doi.org/10.15223/policy-017",
+      "https://doi.org/10.15223/policy-037",
+      "https://doi.org/10.15223/policy-012",
+      "https://doi.org/10.15223/policy-029",
+      "https://doi.org/10.15223/policy-004"
+    ],
+    "links": [
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S0165032725012029?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S0165032725012029?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "40286349",
+    "doi": "10.1016/j.actpsy.2025.105036",
+    "title": "Cringe, lit, or mid: affective and cognitive effects of youth slang in an educational chatbot.",
+    "license": [
+      "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "https://www.elsevier.com/legal/tdmrep-license",
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "links": [
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S000169182500349X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S000169182500349X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "38428201",
+    "doi": "10.1016/j.ijmedinf.2024.105385",
+    "title": "Unlocking human-like conversations: Scoping review of automation techniques for personalized healthcare interventions using conversational agents.",
+    "license": [
+      "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "https://www.elsevier.com/legal/tdmrep-license",
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "links": [
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S1386505624000480?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://api.elsevier.com/content/article/PII:S1386505624000480?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "pmid": "37938776",
+    "doi": "10.1038/s41586-023-06647-8",
+    "title": "Role play with large language models.",
+    "license": [
+      "https://www.springernature.com/gp/researchers/text-and-data-mining",
+      "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    ],
+    "links": [
+      {
+        "url": "https://www.nature.com/articles/s41586-023-06647-8.pdf",
+        "content-type": "application/pdf",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41586-023-06647-8",
+        "content-type": "text/html",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41586-023-06647-8.pdf",
+        "content-type": "application/pdf",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "pmid": "35976080",
+    "doi": "10.1089/cyber.2021.0318",
+    "title": "When a Chatbot Smiles at You: The Psychological Mechanism Underlying the Effects of Friendly Language Use by Product Recommendation Chatbots.",
+    "license": [
+      "https://www.liebertpub.com/nv/resources-tools/text-and-data-mining-policy/121/"
+    ],
+    "links": [
+      {
+        "url": "https://www.liebertpub.com/doi/full-xml/10.1089/cyber.2021.0318",
+        "content-type": "application/xml",
+        "intended-application": "text-mining"
+      },
+      {
+        "url": "https://www.liebertpub.com/doi/pdf/10.1089/cyber.2021.0318",
+        "content-type": "unspecified",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+]
