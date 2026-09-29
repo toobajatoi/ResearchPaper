@@ -7,205 +7,205 @@ ROOT = Path(__file__).resolve().parents[1]
 SCREEN = ROOT / "data" / "screening.csv"
 
 DECISIONS = {
-    "https://doi.org/10.1016/j.concog.2024.103733": (
+    "https://doi.org/10.1145/3774779": (
         "exclude_abstract",
         "abstract",
-        "Mind-perception experiment on agency and experience. No linguistic cue analysis.",
+        "Compares embodiment and theory-of-mind prompting on trust and anthropomorphism ratings. No linguistic cue analysis.",
     ),
-    "https://doi.org/10.1080/14703297.2025.2499177": (
+    "https://doi.org/10.48550/arxiv.2405.13803": (
+        "retain_for_full_text",
+        "abstract",
+        "Compares an LLM well-being agent with persona and conversational design against one without. Full text needed. Not an inclusion.",
+    ),
+    "https://doi.org/10.1109/cscwd61410.2024.10580436": (
         "exclude_abstract",
         "abstract",
-        "Embodied mixed-reality agent. Perception and cognitive load, not textual cues.",
+        "Personality prompts are used to raise task scores. Not an analysis of wording.",
     ),
-    "https://doi.org/10.1075/is.25116.maz": (
+    "https://doi.org/10.2196/preprints.55988": (
+        "exclude_duplicate",
+        "abstract",
+        "Duplicate of https://doi.org/10.2196/55988.",
+    ),
+    "https://doi.org/10.1093/clinchem/hvad129": (
         "exclude_abstract",
         "abstract",
-        "Survey of perceived anthropomorphism, privacy, and trust. No linguistic cue analysis.",
+        "Clinical-chemistry commentary. Human-like conversation is a premise, not the analysis.",
     ),
-    "https://doi.org/10.1016/j.techsoc.2025.102995": (
+    "https://doi.org/10.1080/08874417.2025.2566197": (
+        "exclude_abstract",
+        "abstract",
+        "Continued-use survey. Anthropomorphism is an adoption factor, not a cue analysis.",
+    ),
+    "https://doi.org/10.1016/j.techsoc.2025.103015": (
         "retain_for_abstract",
         "retrieved",
         "OpenAlex abstract field is empty. Still unread.",
     ),
-    "https://doi.org/10.1080/10447318.2026.2632156": (
+    "https://doi.org/10.3389/frai.2026.1681525": (
         "exclude_abstract",
         "abstract",
-        "Interviews about how people perceive LLM-to-LLM dialogue. No analysis of the wording.",
+        "Systems-theory reframing that avoids attributing agency. No linguistic cue analysis.",
     ),
-    "https://doi.org/10.1080/08874417.2024.2442438": (
+    "https://doi.org/10.1038/s41598-025-18906-x": (
         "exclude_abstract",
         "abstract",
-        "Adoption survey. Anthropomorphism is a measured characteristic, not a cue analysis.",
+        "Use-intention survey. Empathy and warmth are ratings, not an analysis of wording.",
     ),
-    "https://doi.org/10.1016/j.ijhcs.2024.103375": (
+    "https://doi.org/10.1007/978-3-031-93736-1_24": (
+        "retain_for_abstract",
+        "retrieved",
+        "OpenAlex abstract field is empty. Title names anthropomorphic design, so this stays queued.",
+    ),
+    "https://doi.org/10.23947/2414-1143-2025-11-4-19-28": (
+        "retain_for_full_text",
+        "abstract",
+        "Students rate chatbots whose strategies follow Brown and Levinson politeness theory. Full text needed to confirm the systems are LLMs. Not an inclusion.",
+    ),
+    "https://doi.org/10.4324/9781003676423-6": (
+        "retain_for_full_text",
+        "abstract",
+        "Chapter on the Eliza effect and multimodal cues in LLM interfaces. Full text needed. Not an inclusion.",
+    ),
+    "https://doi.org/10.1145/3715336.3735700": (
+        "retain_for_full_text",
+        "abstract",
+        "Compares a personified LLM agent with a non-personified assistant. Full text needed to see if personification is linguistic. Not an inclusion.",
+    ),
+    "https://doi.org/10.1108/apjba-03-2025-0172": (
         "exclude_abstract",
         "abstract",
-        "Perceptions of text-to-image outputs. Visual, not linguistic cues.",
+        "Brand-anthropomorphism survey. Not cues in model text.",
     ),
-    "https://doi.org/10.18653/v1/2025.emnlp-main.164": (
-        "exclude_duplicate",
-        "abstract",
-        "Duplicate of https://aclanthology.org/2025.emnlp-main.164/, already queued for full text.",
-    ),
-    "https://doi.org/10.1007/s13347-025-00875-8": (
-        "exclude_abstract",
-        "abstract",
-        "Conceptual essay on the definition of generative AI. No linguistic cue analysis.",
-    ),
-    "https://doi.org/10.2139/ssrn.5894082": (
-        "exclude_title",
-        "title",
-        "Symbol-grounding essay. OpenAlex has no abstract. The title is not about communication cues.",
-    ),
-    "https://doi.org/10.1108/jcm-03-2025-7704": (
-        "exclude_abstract",
-        "abstract",
-        "Special-issue editorial on marketing. No cue analysis.",
-    ),
-    "https://doi.org/10.3389/fcomp.2025.1638657": (
-        "exclude_abstract",
-        "abstract",
-        "Opinion piece on trust in AI tutors. No linguistic cue analysis.",
-    ),
-    "https://doi.org/10.1080/10447318.2024.2426029": (
-        "exclude_abstract",
-        "abstract",
-        "Addiction survey. Perceived anthropomorphism and empathy are ratings, not wording.",
-    ),
-    "https://doi.org/10.23919/jsc.2025.0014": (
-        "exclude_abstract",
-        "abstract",
-        "Privacy essay. Anthropomorphism is discussed as an over-trust risk, not as cues.",
-    ),
-    "https://doi.org/10.1093/idpl/ipae018": (
-        "exclude_abstract",
-        "abstract",
-        "Legal commentary on automation bias. Human-like answers are a premise, not the analysis.",
-    ),
-    "https://doi.org/10.1016/j.actpsy.2025.105791": (
-        "exclude_abstract",
-        "abstract",
-        "Self-efficacy and acceptance survey. No linguistic cue analysis.",
-    ),
-    "https://doi.org/10.3390/electronics14183624": (
-        "exclude_abstract",
-        "abstract",
-        "Machinery safety evaluation. Anthropomorphized here means simulated reasoning, not communication cues.",
-    ),
-    "https://doi.org/10.55549/epess.1412832": (
-        "exclude_abstract",
-        "abstract",
-        "Research-agenda matrix for conversational marketing. No linguistic cue analysis.",
-    ),
-    "https://doi.org/10.1016/j.ijinfomgt.2026.103072": (
+    "https://doi.org/10.1007/978-981-95-0211-0_29": (
         "retain_for_abstract",
         "retrieved",
         "OpenAlex abstract field is empty. Still unread.",
     ),
-    "https://doi.org/10.1080/10447318.2024.2375686": (
+    "https://doi.org/10.1177/02666669241306735": (
         "exclude_abstract",
         "abstract",
-        "Adoption survey. Anthropomorphism is a predictor, not a cue analysis.",
+        "Platform-switching survey. Perceived anthropomorphism is a pull factor, not a cue analysis.",
     ),
-    "https://doi.org/10.1080/14778238.2025.2555856": (
+    "https://doi.org/10.48550/arxiv.2409.02244": (
+        "retain_for_full_text",
+        "abstract",
+        "Compares LLM and human peer-counselor behaviors in multi-turn CBT, including empathetic responses. Full text needed. Not an inclusion.",
+    ),
+    "https://doi.org/10.1080/10447318.2025.2498486": (
         "exclude_abstract",
         "abstract",
-        "Experiment on avatar anthropomorphism and employee engagement. Visual design, not textual cues.",
+        "Attachment survey. Anthropomorphic features are not specified as wording.",
     ),
-    "https://doi.org/10.1109/tcss.2025.3556397": (
+    "https://doi.org/10.1049/csy2.70037": (
         "exclude_abstract",
         "abstract",
-        "Personalized travel generation. Anthropomorphic here means user-like plans, not communication cues.",
+        "Guide-robot system. Textual cues are not the object.",
     ),
-    "https://doi.org/10.1080/10447318.2024.2376370": (
+    "https://doi.org/10.3390/su18115759": (
         "exclude_abstract",
         "abstract",
-        "Discontinuance survey. Perceived anthropomorphism is a rating, not a cue analysis.",
+        "Motivation survey. Anthropomorphic perception is a mediator, not a cue analysis.",
     ),
-    "https://doi.org/10.18653/v1/2026.acl-long.118": (
+    "https://doi.org/10.48550/arxiv.2409.18996": (
         "exclude_abstract",
         "abstract",
-        "Position paper on anthropomorphic words in the LLM research literature, not cues in model output.",
+        "Survey of cross-modal reasoning. Anthropomorphic here means human-like sensing, not communication cues.",
     ),
-    "https://doi.org/10.48550/arxiv.2408.03945": (
+    "https://doi.org/10.48550/arxiv.2601.17096": (
         "exclude_abstract",
         "abstract",
-        "Discussion of anthropomorphizing tutors in education. No linguistic cue analysis.",
+        "Cultural-alignment experiment. Anthropomorphism names the frameworks the paper rejects, not cues in the text.",
     ),
-    "https://doi.org/10.1016/j.ijinfomgt.2025.102996": (
-        "retain_for_abstract",
-        "retrieved",
-        "OpenAlex abstract field is empty. Title names politeness, so this stays queued.",
+    "https://doi.org/10.1111/jlse.12141": (
+        "exclude_abstract",
+        "abstract",
+        "Legal commentary on ChatGPT. No linguistic cue analysis.",
     ),
-    "https://doi.org/10.48550/arxiv.2305.14784": (
+    "https://doi.org/10.1109/vl/hcc60511.2024.00021": (
+        "exclude_abstract",
+        "abstract",
+        "Ethics of interface mystification. No linguistic cue inventory.",
+    ),
+    "https://doi.org/10.1145/3772318.3790316": (
+        "exclude_abstract",
+        "abstract",
+        "Public discourse about LLMs, not cues in model output.",
+    ),
+    "https://doi.org/10.1108/jhti-02-2025-0229": (
+        "exclude_abstract",
+        "abstract",
+        "Travel-planning survey. AI anthropomorphism is a subjective norm, not a cue analysis.",
+    ),
+    "https://doi.org/10.5281/zenodo.18357935": (
+        "exclude_abstract",
+        "abstract",
+        "Epistemic argument about consciousness judgments from text. No linguistic cue analysis.",
+    ),
+    "https://doi.org/10.2139/ssrn.5037486": (
         "exclude_duplicate",
         "abstract",
-        "Duplicate of https://doi.org/10.18653/v1/2023.nllp-1.1.",
+        "Duplicate of https://doi.org/10.1016/j.techsoc.2025.102995.",
     ),
-    "https://doi.org/10.15637/jlecon.2294": (
+    "https://doi.org/10.3389/fpsyg.2025.1662331": (
         "exclude_abstract",
         "abstract",
-        "Marketing framework for generative AI and anthropomorphism. No linguistic cue analysis.",
+        "Exercise-motivation survey. Anthropomorphism is a scale score, not a cue analysis.",
     ),
-    "https://doi.org/10.1609/aies.v7i1.31613": (
-        "retain_for_full_text",
-        "abstract",
-        "Maps anthropomorphic design features of conversational agents and their risks. Full text needed. Not an inclusion.",
-    ),
-    "https://doi.org/10.1344/der.2024.45.106-114": (
+    "https://doi.org/10.3390/jtaer20020099": (
         "exclude_abstract",
         "abstract",
-        "Teachers' views of ChatGPT in communication courses. No cue analysis.",
+        "Disclosure survey. Empathy and social presence are affordance ratings, not an analysis of wording.",
     ),
-    "https://doi.org/10.5281/zenodo.8253308": (
+    "https://doi.org/10.1177/00472875261441570": (
         "exclude_abstract",
         "abstract",
-        "Marketing review of anthropomorphic conversational agents. No linguistic cue analysis.",
+        "Tourism survey. Anthropomorphic features are not specified as wording.",
     ),
-    "https://doi.org/10.1007/s11023-024-09667-z": (
+    "https://doi.org/10.3389/fpubh.2026.1816917": (
         "exclude_abstract",
         "abstract",
-        "Theological argument that LLMs personify past speech. No linguistic cue analysis.",
+        "Narrative review of problematic chatbot use. Anthropomorphism is a proposed risk factor, not a cue analysis.",
     ),
-    "https://doi.org/10.1186/s13040-025-00458-5": (
-        "exclude_abstract",
-        "abstract",
-        "Clinical-trial screening pipeline. Anthropomorphized names a prompting strategy, not a cue analysis.",
-    ),
-    "https://doi.org/10.21203/rs.3.rs-9224936/v1": (
-        "retain_for_full_text",
-        "abstract",
-        "Scoping review of anthropomorphizing LLM chatbots. OpenAlex abstract is empty. Full text needed. Not an inclusion.",
-    ),
-    "https://doi.org/10.31234/osf.io/uqxcb_v1": (
+    "https://doi.org/10.48550/arxiv.2508.08101": (
         "exclude_duplicate",
         "abstract",
-        "Duplicate of https://doi.org/10.1177/25152459251357566.",
+        "Duplicate of https://doi.org/10.1080/10447318.2026.2661827.",
     ),
-    "https://doi.org/10.1007/978-981-96-4016-4_10": (
-        "retain_for_abstract",
-        "retrieved",
-        "OpenAlex abstract field is empty. Still unread.",
-    ),
-    "https://doi.org/10.1093/9780198945215.003.0071": (
+    "https://doi.org/10.1080/17439884.2025.2532550": (
         "exclude_abstract",
         "abstract",
-        "Philosophical argument against treating LLMs as collaborators. No linguistic cue analysis.",
+        "Classroom activity on co-creating with generative AI. No linguistic cue analysis.",
     ),
-    "https://doi.org/10.1080/10447318.2025.2544006": (
+    "https://doi.org/10.1101/2024.05.02.24306753": (
         "exclude_abstract",
         "abstract",
-        "Survey of dependence and fear. Perceived anthropomorphism is a rating, not a cue analysis.",
+        "Medical-education patient simulation. No linguistic cue analysis.",
     ),
-    "https://doi.org/10.3390/electronics14061210": (
+    "https://doi.org/10.1186/s12888-025-07671-w": (
         "exclude_abstract",
         "abstract",
-        "Compares search, an LLM, and a NAO robot for retrieval. Robot appearance, not textual cues.",
+        "User accounts of agency in AI therapy. No linguistic cue analysis.",
     ),
-    "https://doi.org/10.1186/s12888-026-08288-3": (
-        "retain_for_full_text",
+    "https://doi.org/10.3389/feduc.2025.1649747": (
+        "exclude_abstract",
         "abstract",
-        "Case report. The abstract names second-person dialogue, repeated keywords, and typographical emphasis as the features the user treated as signals. Full text needed. Not an inclusion.",
+        "Acceptance of anthropomorphic features, including voice. Textual cues are not the object.",
+    ),
+    "https://doi.org/10.1109/tlt.2025.3560032": (
+        "exclude_abstract",
+        "abstract",
+        "Appearance of digital teachers. Visual, not textual cues.",
+    ),
+    "https://doi.org/10.3390/info15110679": (
+        "exclude_abstract",
+        "abstract",
+        "Psychometric trait scores of in-vehicle models. Not an analysis of wording.",
+    ),
+    "https://doi.org/10.5772/intechopen.1010894": (
+        "exclude_abstract",
+        "abstract",
+        "Marketing overview of human-like conversational tools. No linguistic cue analysis.",
     ),
 }
 

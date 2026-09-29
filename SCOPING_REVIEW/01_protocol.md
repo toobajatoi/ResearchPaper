@@ -14,7 +14,7 @@
 
 The title is provisional. "Anthropomorphism Speaks English" will be kept only if the included studies show a disproportionate concentration on English. If they do not, the title will be changed. The cross-lingual cue framework below is an analytical possibility to be tested against the evidence, not a finding.
 
-**Scope decision, 29 September 2026.** The primary set is studies of large language model output. "Large Language Models" stays in the title. Scripted, rule-based, and pre-LLM conversational agents are outside that set, including when the script names a linguistic cue. They are not deleted from the screening log. Their decision is recorded as out of scope.
+**Scope decision, 29 September 2026.** The primary set is studies of large language model output. "Large Language Models" stays in the title. Scripted, rule-based, and pre-LLM conversational agents are outside that set, including when the script names a linguistic cue. They are not deleted from the screening log. Their decision is recorded as out of scope. Ollier, Nißen, and von Wangenheim (PMID 35071147; French *tu/vous* and German *du/Sie*) and Vanderlyn et al. (2021) may be cited in the Background or Discussion as pre-LLM evidence for grammar-dependent cues. They do not count as included studies.
 
 ## 1. Purpose
 
@@ -86,6 +86,8 @@ JBI recommends more than one reviewer for selection and extraction. This review 
 
 The Method section of the manuscript will say that title and abstract screening was assisted by the Cursor agent, and that inclusion decisions were verified by the author. The sample is listed in `data/author_verification_sample.csv`. On 29 September 2026 the author reviewed the sample rows and asked the agent to enter "yes" and the notes. The agent entered those marks and did not make the verification decisions. Rows left blank were not confirmed.
 
+The agent's OpenAlex abstract decisions are a separate check. `data/author_verification_openalex.csv` lists every full-text keep from the first 80 of those decisions and a random 10 percent of the exclusions in that set, drawn with seed 20260929. The author reviewed those rows and asked the agent to enter "yes". The agent entered the marks and did not make the verification decisions.
+
 The other checks stay in place:
 
 - eligibility rules written down before screening;
@@ -106,7 +108,7 @@ Full criteria will be copied into `03_inclusion_exclusion.md` after you approve 
 
 | Element | Scope |
 | --- | --- |
-| Population | Studies of large language models, generative AI assistants, conversational AI, or closely related systems that generate language. |
+| Population | Studies of large language model output. |
 | Concept | Anthropomorphism, anthropomorphic communication, human-likeness, human-like linguistic behavior, or a closely related construct, where the study analyzes or conceptualizes cues or features in machine-generated text or language. |
 | Context | Any language, culture, discipline, or setting. Publications from 1 January 2020 through the date of the final search. No restriction on study design. |
 
@@ -114,7 +116,7 @@ Full criteria will be copied into `03_inclusion_exclusion.md` after you approve 
 
 A source is in scope when all of the following hold:
 
-- it concerns LLMs, generative AI assistants, conversational AI, or a closely related language-generating system;
+- it concerns large language model output;
 - it examines anthropomorphism, anthropomorphic communication, human-likeness, human-like linguistic behavior, or a closely related construct;
 - it analyzes or conceptualizes cues or features in machine-generated text or language, or it develops a definition or framework for those cues;
 - it gives enough methodological or conceptual detail to chart.
@@ -193,7 +195,7 @@ Cue labels will be extracted in the words of the source first. Only after that c
 - grammar-dependent cues (possible examples: grammatical gender, honorifics, pronouns, address forms, morphology);
 - culture-dependent cues (possible examples: kinship terms, culturally specific politeness, religious expressions, culturally specific relational language).
 
-A category enters the framework only if the charted literature supports it. If the literature does not support the three-way distinction, the manuscript will say so.
+A category enters the framework only if the charted literature supports it. If the literature does not support the three-way distinction, the manuscript will say so. Ollier et al. and Vanderlyn et al. are the clearest pre-LLM examples of a grammar-dependent cue. They can be cited in the Background or Discussion. They are not included studies.
 
 ## 8. Synthesis
 

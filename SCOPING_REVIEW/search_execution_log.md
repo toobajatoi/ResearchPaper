@@ -120,7 +120,7 @@ OpenAlex was asked, on 29 September 2026, for references and citing papers. Thes
 
 A second request for one *Human-Machine Communication* PDF, Concannon et al. (2023), using a browser user agent, returned HTTP 403. The 15 journal PDFs remain unread. They are not excluded for lack of a file.
 
-Two PubMed full texts were read from open PDFs. Gao and colleagues (2026), PMID 42507678, had native raters score Japanese politeness and honorifics in LLM workplace replies. The authors call this cultural alignment, not anthropomorphism. It stays in the primary set. Ollier, Nißen, and von Wangenheim (PMID 35071147) manipulated French *tu/vous* and German *du/Sie* in a rule-based text chatbot. Under the 29 September 2026 scope decision it is out of the primary set because MIA is not an LLM. Shen and colleagues, PMID 42277102, and the other unread PubMed papers are still unread.
+Two PubMed full texts were read from open PDFs. Gao and colleagues (2026), PMID 42507678, had native raters score Japanese politeness and honorifics in LLM workplace replies. The authors call this cultural alignment, not anthropomorphism. It stays in the primary set. Ollier, Nißen, and von Wangenheim (PMID 35071147) manipulated French *tu/vous* and German *du/Sie* in a rule-based text chatbot. Vanderlyn et al. (2021) is a pre-LLM agent. Both are out of the included set. They may be cited in the Background or Discussion as pre-LLM evidence for grammar-dependent cues. Shen and colleagues, PMID 42277102, and the other unread PubMed papers are still unread.
 
 ## Recheck of suspicious exclusions
 
@@ -135,7 +135,7 @@ The author reviewed the verification sample and asked for "yes" and the notes to
 ## Not done
 
 - ACM Digital Library, after the website block
-- Abstract screening of the remaining OpenAlex records. On 29 September 2026 the first 80 records were read. Most were excluded at abstract or marked as duplicates of studies already in the log. Five were kept for full text. Eight have no abstract in the OpenAlex file and stay queued. About 1,323 abstracts are still unread. None of these OpenAlex records was marked included. The remaining new IEEE titles are also unread, except Personalized AI Companions.
+- Abstract screening of the remaining OpenAlex records. On 29 September 2026, 160 records were read. Most were excluded at abstract or marked as duplicates of studies already in the log. Records kept for full text, and not included, include sociolect cues, politeness strategies, persona and self-description, and reviews that name linguistic cues. Nineteen have no abstract in the OpenAlex file and stay queued. About 1,243 abstracts are still unread. None of these OpenAlex records was marked included. `data/author_verification_openalex.csv` lists every full-text keep from the first 80 decisions and a random 10 percent of the exclusions in that set (seed 20260929). The author reviewed that sample and asked for "yes" to be entered. The other OpenAlex abstract decisions are not in that sample. The remaining new IEEE titles are also unread, except Personalized AI Companions.
 - Screening the citation-chase lists
 - Full text for 10 remaining PubMed Search 1 records, 1 remaining Search 2 record (PMID 42277102), 15 *Human-Machine Communication* PDFs, and 10 ACL papers kept at abstract
 - The author's look at the verification-sample rows still left blank
