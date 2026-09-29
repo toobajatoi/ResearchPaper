@@ -24,12 +24,12 @@
   <rect x="260" y="176" width="200" height="92" class="box"/>
   <text x="360" y="206" text-anchor="middle" class="small">Excluded at title</text>
   <text x="360" y="226" text-anchor="middle" class="small">or abstract</text>
-  <text x="360" y="250" text-anchor="middle" class="title">2,669</text>
+  <text x="360" y="250" text-anchor="middle" class="title">2,681</text>
 
   <rect x="480" y="176" width="200" height="92" class="box"/>
   <text x="580" y="206" text-anchor="middle" class="small">Full text not</text>
   <text x="580" y="226" text-anchor="middle" class="small">yet read</text>
-  <text x="580" y="250" text-anchor="middle" class="title">72</text>
+  <text x="580" y="250" text-anchor="middle" class="title">60</text>
 
   <rect x="700" y="176" width="180" height="92" class="box"/>
   <text x="790" y="210" text-anchor="middle" class="small">Full text</text>
@@ -48,14 +48,14 @@
 
   <rect x="400" y="320" width="240" height="100" class="box"/>
   <text x="520" y="348" text-anchor="middle" class="small">HMC PDFs inside</text>
-  <text x="520" y="370" text-anchor="middle" class="small">the 72, not retrieved</text>
-  <text x="520" y="402" text-anchor="middle" class="title">15</text>
+  <text x="520" y="370" text-anchor="middle" class="small">the 60, not retrieved</text>
+  <text x="520" y="402" text-anchor="middle" class="title">3</text>
 
   <rect x="680" y="320" width="200" height="100" class="box"/>
   <text x="780" y="350" text-anchor="middle" class="small">Included</text>
   <text x="780" y="388" text-anchor="middle" class="title">45</text>
 
-  <text x="40" y="470" class="label">Check: 77 + 2,669 + 72 + 92 = 2,910. And 47 + 45 = 92.</text>
+  <text x="40" y="470" class="label">Check: 77 + 2,681 + 60 + 92 = 2,910. And 47 + 45 = 92.</text>
   <text x="40" y="500" class="label">Source yields before the log was deduplicated</text>
   <text x="40" y="524" class="small">OpenAlex 1,411. PubMed 741 (650 primary, 80 sensitivity, 11 Computers-Are-Social-Actors).</text>
   <text x="40" y="544" class="small">ACL Anthology 614. IEEE Xplore 70. Human-Machine Communication 131.</text>
@@ -63,5 +63,5 @@
   <text x="40" y="592" class="small">except one record kept for full text and counted inside the 63.</text>
   <text x="40" y="630" class="small">Forty-five sources are included. One is Kramer et al. 2025, from the supplied full text.</text>
   <text x="40" y="650" class="small">Table 2 still charts 17. Those 15 are not in Table 2.</text>
-  <text x="40" y="670" class="small">72 full texts are still unread, including 15 Human-Machine Communication PDFs.</text>
+  <text x="40" y="670" class="small">60 full texts are still unread, including 3 Human-Machine Communication PDFs.</text>
 </svg>
