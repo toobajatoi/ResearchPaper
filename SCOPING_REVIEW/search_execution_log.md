@@ -101,7 +101,7 @@ The wide OpenAlex Search 1 count remains **11,245**. Dropping chatbot terms but 
 
 ## IEEE Xplore and ACM
 
-The IEEE Xplore website search was run on 29 September 2026 with the same anthropomorphism and LLM terms, years 2020–2026. It returned **70** records. Twenty-one were already in the log. Of the 49 new records, **9** were kept for abstract reading and **40** were excluded at title. None is included.
+The IEEE Xplore website search was run on 29 September 2026 with the same anthropomorphism and LLM terms, years 2020–2026. It returned **70** records. Twenty-one were already in the log. Of the 49 new records, **9** were kept for abstract reading and **40** were excluded at title. None is included. Personalized AI Companions (DOI 10.1109/ICBITI65527.2025.11501086) was later read on IEEE Xplore and excluded at abstract: a conceptual attachment model, with no linguistic cue analysis.
 
 The ACM Digital Library website returned HTTP 403, a bot challenge. It was not searched. Those 403 records are not an ACM result set.
 
@@ -116,28 +116,28 @@ OpenAlex was asked, on 29 September 2026, for references and citing papers. Thes
 
 ## Evidence matrix
 
-`data/evidence_matrix.csv` has one row for each of the 27 included studies. Most cells are empty. The filled cells come from the full-text decision notes. This is not a finished extraction.
+`data/evidence_matrix.csv` has one row for each study still in the primary set. On 29 September 2026 that set was limited to large language model output. Seven studies of scripted, rule-based, pseudo-LLM, or pre-LLM systems were removed from the matrix and kept in the screening log as out of scope. Year, venue, DOI, and URL are filled from the saved records by `code/add_bibliographic_metadata.py`, which `build_evidence_matrix.py` calls at the end. A cell that already has text is not overwritten. Findings are still empty. This is not a finished extraction.
 
 A second request for one *Human-Machine Communication* PDF, Concannon et al. (2023), using a browser user agent, returned HTTP 403. The 15 journal PDFs remain unread. They are not excluded for lack of a file.
 
-Two PubMed full texts were read from open PDFs and included. Ollier, Nißen, and von Wangenheim (2022), PMID 35071147, manipulated French *tu/vous* and German *du/Sie* in a rule-based text chatbot and measured humanlike ratings. Gao and colleagues (2026), PMID 42507678, had native raters score Japanese politeness and honorifics in LLM workplace replies. The authors call this cultural alignment, not anthropomorphism. Shen and colleagues, PMID 42277102, and the other unread PubMed papers are still unread.
+Two PubMed full texts were read from open PDFs. Gao and colleagues (2026), PMID 42507678, had native raters score Japanese politeness and honorifics in LLM workplace replies. The authors call this cultural alignment, not anthropomorphism. It stays in the primary set. Ollier, Nißen, and von Wangenheim (PMID 35071147) manipulated French *tu/vous* and German *du/Sie* in a rule-based text chatbot. Under the 29 September 2026 scope decision it is out of the primary set because MIA is not an LLM. Shen and colleagues, PMID 42277102, and the other unread PubMed papers are still unread.
 
 ## Recheck of suspicious exclusions
 
-On 29 September 2026 the exclusion sample was checked against the papers, not only the titles. Three ACL title exclusions were reopened for full text and were not marked included: Cheng, Yu, and Jurafsky (2025), HumT DumT; Vanderlyn and colleagues (2021), which is a pre-LLM agent and still depends on the scope decision; and Kim and colleagues (2026) on affective hallucination. Personality expressed in generated wording is now an inclusion rule in the protocol. That reopened the psychometric personality paper and P-React. Backchannels and fillers (ACL 2026) were also reopened. Ward and colleagues on character traits, Wang and colleagues on detecting human-like text, and Lloyd on machine sentience stay excluded.
+On 29 September 2026 the exclusion sample was checked against the papers, not only the titles. Three ACL title exclusions were reopened for full text and were not marked included: Cheng, Yu, and Jurafsky (2025), HumT DumT; Vanderlyn and colleagues (2021), now out of scope because it is a pre-LLM agent; and Kim and colleagues (2026) on affective hallucination. Personality expressed in generated wording is now an inclusion rule in the protocol. That reopened the psychometric personality paper and P-React. Backchannels and fillers (ACL 2026) were also reopened. Ward and colleagues on character traits, Wang and colleagues on detecting human-like text, and Lloyd on machine sentience stay excluded.
 
 A broader keyword pass over the 564 ACL title exclusions produced 82 extra titles. Most name human-like reasoning, memory, syntax, vision, or translation. Those stayed excluded. Seventeen titles that name role-play, personality, emotion in dialogue, attachment language, or backchannels were returned to abstract screening.
 
 INTIMA (Kaffee, Pistilli, and Jernite; arXiv 2508.09998; the PDF carries a 2026 AAAI copyright line) was missing from the search. It is in the screening log for full text. It is not included yet.
 
-`author_checked` is still blank.
+The author reviewed the verification sample and asked for "yes" and the notes to be entered. Personalized AI Companions was marked after she read the IEEE abstract. Thirteen sample rows are still blank.
 
 ## Not done
 
 - ACM Digital Library, after the website block
-- Abstract screening of the 1,408 new OpenAlex records and the 9 new IEEE titles
+- Abstract screening of the remaining OpenAlex records. On 29 September 2026 the first 80 records were read. Most were excluded at abstract or marked as duplicates of studies already in the log. Five were kept for full text. Eight have no abstract in the OpenAlex file and stay queued. About 1,323 abstracts are still unread. None of these OpenAlex records was marked included. The remaining new IEEE titles are also unread, except Personalized AI Companions.
 - Screening the citation-chase lists
 - Full text for 10 remaining PubMed Search 1 records, 1 remaining Search 2 record (PMID 42277102), 15 *Human-Machine Communication* PDFs, and 10 ACL papers kept at abstract
-- Author verification of the included studies and the exclusion sample
+- The author's look at the verification-sample rows still left blank
 - A complete evidence matrix
 - Manuscript

@@ -43,9 +43,31 @@ def blank():
     return {column: "" for column in COLUMNS}
 
 
+def snapshot():
+    saved = {}
+    if not OUT.exists():
+        return saved
+    with OUT.open(encoding="utf-8", newline="") as handle:
+        for row in csv.DictReader(handle):
+            saved[row.get("study_id") or ""] = {
+                key: row.get(key) or "" for key in ("year", "venue", "doi", "url")
+            }
+    return saved
+
+
 def main():
+    previous = snapshot()
     decisions = json.loads(DECISIONS.read_text(encoding="utf-8"))
-    included = [item for item in decisions if item.get("decision") == "include"]
+    with SCREEN.open(encoding="utf-8", newline="") as handle:
+        screen_rows = list(csv.DictReader(handle))
+    included_ids = {
+        row["identifier"] for row in screen_rows if row["decision"] == "include"
+    }
+    included = [
+        item
+        for item in decisions
+        if item.get("decision") == "include" and ("PMID:" + item["pmid"]) in included_ids
+    ]
     rows = []
     for item in included:
         row = blank()
@@ -84,6 +106,9 @@ def main():
         writer.writeheader()
         writer.writerows(rows)
     print("matrix rows", len(rows))
+    import add_bibliographic_metadata
+
+    add_bibliographic_metadata.apply(previous)
 
 
 if __name__ == "__main__":

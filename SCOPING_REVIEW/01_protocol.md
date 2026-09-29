@@ -2,7 +2,7 @@
 
 ## Anthropomorphism Speaks English: A Scoping Review of Anthropomorphic Communication Cues in Large Language Models and an Agenda for Cross-Lingual Research
 
-**Document status:** Draft. Screening is assisted by the Cursor agent and has not been verified by the author. OpenAlex, IEEE Xplore, PubMed, ACL Anthology metadata, and the journal hand search have been run. The ACM website blocked the search. Scopus and Web of Science were not searched. A partial evidence matrix exists. No manuscript exists yet.
+**Document status:** Draft. The author reviewed the verification sample. The primary set is large language model output. OpenAlex abstracts are not finished. Scopus, Web of Science, and the ACM website were not searched. The evidence matrix is partial. No manuscript exists yet.
 
 **Protocol date:** 29 September 2026.
 
@@ -13,6 +13,8 @@
 **What this project is:** A review of published research. It does not collect original data from AI systems, run an API experiment, benchmark GPT, Claude, or Gemini, recruit participants, or code a new corpus of model outputs.
 
 The title is provisional. "Anthropomorphism Speaks English" will be kept only if the included studies show a disproportionate concentration on English. If they do not, the title will be changed. The cross-lingual cue framework below is an analytical possibility to be tested against the evidence, not a finding.
+
+**Scope decision, 29 September 2026.** The primary set is studies of large language model output. "Large Language Models" stays in the title. Scripted, rule-based, and pre-LLM conversational agents are outside that set, including when the script names a linguistic cue. They are not deleted from the screening log. Their decision is recorded as out of scope.
 
 ## 1. Purpose
 
@@ -82,7 +84,7 @@ The Peters et al. (2022) author list and pagination were checked against the Pub
 
 JBI recommends more than one reviewer for selection and extraction. This review has one human author. Title, abstract, and full-text decisions made in this project were assisted by Cursor's coding agent. That assistance is allowed only if it is disclosed and checked.
 
-The Method section of the manuscript will say that title and abstract screening was assisted by the Cursor agent, and that inclusion decisions were verified by the author. That second sentence will be written only after the author has checked every included study and a random sample of about 10 percent of the exclusions. The sample is listed in `data/author_verification_sample.csv`. On 29 September 2026 the author asked for that sheet to be filled. Rows marked yes were re-checked against the full text, abstract, or title already on file. Rows left blank were not confirmed. This pass is not a second independent reviewer. The manuscript will not say that every decision was verified by a separate reader.
+The Method section of the manuscript will say that title and abstract screening was assisted by the Cursor agent, and that inclusion decisions were verified by the author. The sample is listed in `data/author_verification_sample.csv`. On 29 September 2026 the author reviewed the sample rows and asked the agent to enter "yes" and the notes. The agent entered those marks and did not make the verification decisions. Rows left blank were not confirmed.
 
 The other checks stay in place:
 

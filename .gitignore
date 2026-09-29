@@ -19,5 +19,6 @@ SCOPING_REVIEW/data/acl/search1_keep_abstracts.txt
 SCOPING_REVIEW/data/openalex/*checkpoint.json
 SCOPING_REVIEW/data/openalex/*_raw.json
 SCOPING_REVIEW/data/openalex/search1_narrow_anthropomorph_llm.csv
+SCOPING_REVIEW/data/openalex/abstract_batch*.txt
 SCOPING_REVIEW/data/publisher_search/ieee_page1.json
 SCOPING_REVIEW/data/publisher_search/acm_page1.html
