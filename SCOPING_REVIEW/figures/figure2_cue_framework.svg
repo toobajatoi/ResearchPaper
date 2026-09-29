@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420">
+  <rect width="960" height="420" fill="#ffffff"/>
+  <style>
+    .box { fill:#ffffff; stroke:#1a1a1a; stroke-width:1.4; }
+    .title { font: 700 15px Georgia, serif; fill:#1a1a1a; }
+    .h { font: 700 14px Georgia, serif; fill:#1a1a1a; }
+    .p { font: 13px Georgia, serif; fill:#1a1a1a; }
+    .c { font: 12px Georgia, serif; fill:#333333; }
+  </style>
+  <text x="32" y="32" class="title">Figure 2. Three kinds of anthropomorphic cue</text>
+  <text x="32" y="52" class="c">A proposal for later testing. Not a result of the 17 sources in Table 2.</text>
+
+  <rect x="32" y="78" width="288" height="250" class="box"/>
+  <text x="176" y="108" text-anchor="middle" class="h">Language-independent</text>
+  <text x="48" y="140" class="p">Content that can be said in</text>
+  <text x="48" y="160" class="p">broadly similar ways.</text>
+  <text x="48" y="192" class="p">Emotion, desire, a body,</text>
+  <text x="48" y="212" class="p">personal history, friendship.</text>
+  <text x="48" y="244" class="p">Most of the 17 sources</text>
+  <text x="48" y="264" class="p">name cues of this kind.</text>
+  <text x="48" y="296" class="p">Ibrahim et al. count them</text>
+  <text x="48" y="316" class="p">in English.</text>
+
+  <rect x="336" y="78" width="288" height="250" class="box"/>
+  <text x="480" y="108" text-anchor="middle" class="h">Grammar-dependent</text>
+  <text x="352" y="140" class="p">A choice the grammar forces</text>
+  <text x="352" y="160" class="p">or allows.</text>
+  <text x="352" y="192" class="p">Urdu first-person gender.</text>
+  <text x="352" y="212" class="p">Address: tu/vous, aap/tum.</text>
+  <text x="352" y="244" class="p">In the included set, only</text>
+  <text x="352" y="264" class="p">Gao et al. score this kind</text>
+  <text x="352" y="284" class="p">of cue: Japanese honorifics.</text>
+  <text x="352" y="316" class="p">No Urdu study is included.</text>
+
+  <rect x="640" y="78" width="288" height="250" class="box"/>
+  <text x="784" y="108" text-anchor="middle" class="h">Culture-dependent</text>
+  <text x="656" y="140" class="p">Meaning from pragmatic</text>
+  <text x="656" y="160" class="p">and cultural norms.</text>
+  <text x="656" y="192" class="p">Religious formulae, kinship</text>
+  <text x="656" y="212" class="p">address, taarof.</text>
+  <text x="656" y="244" class="p">Gao et al. treat Japanese</text>
+  <text x="656" y="264" class="p">politeness as cultural</text>
+  <text x="656" y="284" class="p">alignment, not as</text>
+  <text x="656" y="304" class="p">anthropomorphism.</text>
+
+  <text x="32" y="360" class="c">DeVrio et al. (2025) and Ibrahim et al. (2026) write that anthropomorphism is likely to differ by language.</text>
+  <text x="32" y="380" class="c">That is their limitation, not a count from this review. Ollier et al. (2021) and Vanderlyn et al. (2021)</text>
+  <text x="32" y="400" class="c">show grammar-dependent cues in pre-LLM agents. They are not included studies.</text>
+</svg>
