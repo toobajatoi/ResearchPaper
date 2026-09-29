@@ -122,6 +122,16 @@ A second request for one *Human-Machine Communication* PDF, Concannon et al. (20
 
 Two PubMed full texts were read from open PDFs and included. Ollier, Nißen, and von Wangenheim (2022), PMID 35071147, manipulated French *tu/vous* and German *du/Sie* in a rule-based text chatbot and measured humanlike ratings. Gao and colleagues (2026), PMID 42507678, had native raters score Japanese politeness and honorifics in LLM workplace replies. The authors call this cultural alignment, not anthropomorphism. Shen and colleagues, PMID 42277102, and the other unread PubMed papers are still unread.
 
+## Recheck of suspicious exclusions
+
+On 29 September 2026 the exclusion sample was checked against the papers, not only the titles. Three ACL title exclusions were reopened for full text and were not marked included: Cheng, Yu, and Jurafsky (2025), HumT DumT; Vanderlyn and colleagues (2021), which is a pre-LLM agent and still depends on the scope decision; and Kim and colleagues (2026) on affective hallucination. Personality expressed in generated wording is now an inclusion rule in the protocol. That reopened the psychometric personality paper and P-React. Backchannels and fillers (ACL 2026) were also reopened. Ward and colleagues on character traits, Wang and colleagues on detecting human-like text, and Lloyd on machine sentience stay excluded.
+
+A broader keyword pass over the 564 ACL title exclusions produced 82 extra titles. Most name human-like reasoning, memory, syntax, vision, or translation. Those stayed excluded. Seventeen titles that name role-play, personality, emotion in dialogue, attachment language, or backchannels were returned to abstract screening.
+
+INTIMA (Kaffee, Pistilli, and Jernite; arXiv 2508.09998; the PDF carries a 2026 AAAI copyright line) was missing from the search. It is in the screening log for full text. It is not included yet.
+
+`author_checked` is still blank.
+
 ## Not done
 
 - ACM Digital Library, after the website block

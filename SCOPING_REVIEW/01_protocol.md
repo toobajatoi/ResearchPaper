@@ -82,7 +82,7 @@ The Peters et al. (2022) author list and pagination were checked against the Pub
 
 JBI recommends more than one reviewer for selection and extraction. This review has one human author. Title, abstract, and full-text decisions made in this project were assisted by Cursor's coding agent. That assistance is allowed only if it is disclosed and checked.
 
-The Method section of the manuscript will say that title and abstract screening was assisted by the Cursor agent, and that inclusion decisions were verified by the author. That second sentence will be written only after the author has checked every included study and a random sample of about 10 percent of the exclusions. The sample is listed in `data/author_verification_sample.csv`. Until that check is recorded, the CRediT role "Investigation" is not yet earned, and the manuscript will not claim that the author verified the decisions.
+The Method section of the manuscript will say that title and abstract screening was assisted by the Cursor agent, and that inclusion decisions were verified by the author. That second sentence will be written only after the author has checked every included study and a random sample of about 10 percent of the exclusions. The sample is listed in `data/author_verification_sample.csv`. On 29 September 2026 the author asked for that sheet to be filled. Rows marked yes were re-checked against the full text, abstract, or title already on file. Rows left blank were not confirmed. This pass is not a second independent reviewer. The manuscript will not say that every decision was verified by a separate reader.
 
 The other checks stay in place:
 
@@ -145,6 +145,7 @@ These are proposed decisions. They need your approval before screening.
 | Human-versus-machine text detection | Exclude, unless anthropomorphic cues are an object of analysis | Detection accuracy is a different question. |
 | Prompt-engineering papers that tell a model to "act human" and do not study cues | Exclude | The instruction is not an analysis of anthropomorphic communication. |
 | Health-chatbot papers | Apply the same rules | Clinical setting does not by itself include or exclude a paper. |
+| Personality expressed in generated text | Include when the paper treats that wording as human-like or social. Exclude a behaviourist trait score that is not about the wording | DeVrio et al. (2025) already chart personality as a linguistic expression that contributes to anthropomorphism. Applied on 29 September 2026. |
 
 ## 5. Search
 
@@ -180,7 +181,9 @@ Earlier Ibrahim papers cited inside these works will be found by backward citati
 
 One row per included study. Proposed columns:
 
-Study ID; citation; year; venue; DOI; URL; database or source; research objective; system or LLM; language of the communication studied; cultural context; study type; dataset or sample; interaction type; anthropomorphism definition; cue category, in the source's own terms; operationalization; measurement method; main finding; limitations stated by the authors; relevance to cross-lingual research.
+Study ID; citation; year; venue; DOI; URL; database or source; research objective; system or LLM; language of the communication studied; cultural context; study type; dataset or sample; interaction type; anthropomorphism definition; cue category, in the source's own terms; operationalization; measurement method; inclusion reason; findings; limitations stated by the authors; relevance to cross-lingual research.
+
+The inclusion reason records why the study was kept. The findings column records what the study reported. A screening sentence does not go in the findings column. Both stay empty until the full text has been charted, except that an inclusion reason may be copied from the screening log.
 
 Cue labels will be extracted in the words of the source first. Only after that chart exists will the review ask whether the cues support a distinction among:
 

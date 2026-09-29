@@ -31,7 +31,8 @@ COLUMNS = [
     "cue_category_in_source_terms",
     "operationalization",
     "measurement_method",
-    "main_finding",
+    "inclusion_reason",
+    "findings",
     "limitations_stated_by_authors",
     "relevance_to_cross_lingual_research",
     "charting_status",
@@ -54,7 +55,8 @@ def main():
         row["language_of_communication"] = item.get("language") or ""
         row["study_type"] = item.get("tag") or ""
         row["cue_category_in_source_terms"] = item.get("cues") or ""
-        row["main_finding"] = item.get("reason") or ""
+        row["inclusion_reason"] = item.get("reason") or ""
+        row["findings"] = ""
         row["source"] = "PubMed supplementary Search 1"
         row["charting_status"] = "partial: taken from the full-text decision note, not a complete extraction"
         rows.append(row)
@@ -73,7 +75,8 @@ def main():
             row["year"] = item["year"]
             row["doi"] = item["identifier"]
             row["source"] = item["source"]
-            row["main_finding"] = item["reason"]
+            row["inclusion_reason"] = item["reason"]
+            row["findings"] = ""
             row["charting_status"] = "partial: open full text was read; extraction fields are not complete"
             rows.append(row)
     with OUT.open("w", encoding="utf-8", newline="") as handle:
