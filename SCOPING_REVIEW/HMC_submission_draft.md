@@ -1,4 +1,4 @@
-# Anthropomorphism Speaks English: A Scoping Review of Anthropomorphic Communication Cues in Large Language Models and an Agenda for Cross-Lingual Research
+# How Do Language Models Sound Human? A Scoping Review of Anthropomorphic Communication Cues in LLM Output and an Agenda for Cross-Lingual Research
 
 ## Abstract
 
@@ -166,7 +166,7 @@ In the one fully charted benchmark, relationship-building and first-person prono
 
 Language of the communication studied is not a completed field for every included source. Table 2 is the count used here. Eight rows mention English. Six name English as the language of the communication or the cases: Shanahan et al. (2023), DeVrio et al. (2025), Ibrahim et al. (2026), Liu et al. (2026), Li et al. (2026), and Silacci et al. (2026). DeVrio et al. and Ibrahim et al. treat the English focus as a limitation of their own studies. Sorin et al. (2024) review English-language publications. Liu (2024) discusses English examples, not a corpus in a named language. One source is Korean (Kim et al., 2025). One scores Japanese honorifics (Gao et al., 2026). Seven do not name a language. Among the twelve additional includes, Arora et al. (2026) state that their value-induction experiments were run in English and that results in other languages may differ. That statement is the authors’ limitation. It is not added into the Table 2 count.
 
-This does not support the claim that research on these cues is English-only, and it does not yet support a precise share of English-only studies. English is the language most often named. It is not the only language in the included set. Because 72 full texts are still unread, including 15 papers in this journal, a rate of English concentration cannot be computed. The title’s wording should not be read as a result of this review.
+This does not support the claim that research on these cues is English-only, and it does not yet support a precise share of English-only studies. English is the language most often named. It is not the only language in the included set. Because 72 full texts are still unread, including 15 papers in this journal, a rate of English concentration cannot be computed. The title does not state that the literature is English-only.
 
 Cultural context is charted for the three seed papers only. DeVrio et al. (2025) describe a Western and U.S.-centric case set and a standard American English norm among annotators. Ibrahim et al. (2026) state an English and Western limit. Shanahan et al. (2023) do not address culture. Examples there come from English-language media and blogs.
 
@@ -202,7 +202,7 @@ On RQ1, the sources that have been fully charted treat anthropomorphism as a rea
 
 On RQ2, the cue vocabulary clusters around self-reference, empathy and validation, persona, and relational stance. Honorifics appear in one included study (Gao et al., 2026). Gendered reference is named in a small number of sources and is not operationalized as a grammatical choice the model must make. Reliability is reported in the matrix for one study only.
 
-On RQ3 and RQ4, English is the language named most often among sources that name one. The included set also contains a Korean counseling system and a Japanese honorifics evaluation, and many sources do not state a language. Two sources included after Table 2 was drawn name a language outside that table: PSYDIAL is Korean, and the backchannel study uses English and Japanese corpora. Abstract screening is complete. The unread remainder is 72 full texts, with the ACM Digital Library not searched and the citation-chase lists not screened. The evidence does not establish that this literature speaks only English. A paper submitted under the present title would overclaim.
+On RQ3 and RQ4, English is the language named most often among sources that name one. The included set also contains a Korean counseling system and a Japanese honorifics evaluation, and many sources do not state a language. Two sources included after Table 2 was drawn name a language outside that table: PSYDIAL is Korean, and the backchannel study uses English and Japanese corpora. Abstract screening is complete. The unread remainder is 72 full texts, with the ACM Digital Library not searched and the citation-chase lists not screened. The evidence does not establish that this literature speaks only English. The title does not make that claim.
 
 ### 6.2 Implications for human–machine communication
 
@@ -226,7 +226,7 @@ Several limits qualify these counts. Scopus, Web of Science, and the ACM Digital
 
 ## 8. Conclusion
 
-As of 30 September 2026, 45 sources meet the inclusion criteria for a scoping review of anthropomorphic communication cues in LLM output. Table 2 charts 17 of them. They mostly conceptualize those cues, or review them, rather than measure them. Where measurement is fully charted, the cues are first-person self-reference, relationship-building, and a wider taxonomy of 19 expression types, almost entirely in English. The included set also contains Korean counseling language and Japanese honorifics, and a large share of records is still unread, so English concentration is not an established result. The language-contingent framework and the five-part agenda are proposals for work that the present sources do not yet carry out. The review should be closed, and the title reconsidered, before this article is submitted.
+As of 30 September 2026, 45 sources meet the inclusion criteria for a scoping review of anthropomorphic communication cues in LLM output. Table 2 charts 17 of them. They mostly conceptualize those cues, or review them, rather than measure them. Where measurement is fully charted, the cues are first-person self-reference, relationship-building, and a wider taxonomy of 19 expression types, almost entirely in English. The included set also contains Korean counseling language and Japanese honorifics, and a large share of records is still unread, so English concentration is not an established result. The language-contingent framework and the five-part agenda are proposals for work that the present sources do not yet carry out. The title no longer states an English-only finding. The review should still be closed before this article is submitted: 72 full texts are unread, and language is not charted for every included source.
 
 ## Declarations
 
